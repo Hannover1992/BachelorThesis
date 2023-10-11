@@ -1,0 +1,289 @@
+9:18 AM
+Gut, ich werde jetzt einen Vortrag über Anwendung von Lernen bei Optimierung eines PD gestörten dies diese Konverter halten. 
+
+Am Endeffekt die Aufgabe die ich jetzt lösen versuche ist es. 
+
+9:50 AM
+Also Thema dieser Bachelorarbeit ist wie man mit Hilfe von neuronalen Netzen eines. Ein pedi gestaltetes DC Konverter 
+
+Ansteuern kann. Es geht es um die entgegenwirkung von der Generation der jeweiligen Schaltung. 
+
+Also bei den Schaltung Bauteile wie Kapazität und induktivität mit der Zeit. Ihre Eigenschaften verlieren die normalen Netze in der Lage sein die schaltungsüberwachen und 
+
+Und in der Lage sein, entsprechende pedikoeffizientens anzupassen an die Deklination zustande Schaltung Und diese Bachelorarbeit befasse ich damit wie man? Zu so einer fettige noch einreisen. Jetzt kommt die dann im nächsten Schritt zum Beispiel in 
+
+Aus FBH rasiert werden kann und da direkt ein Chip integriert. 
+
+Genau und dieser dieser fasse ich damit wie man so eine trainingsumgebung erschafft und wie man dieses normalleisten ist trainiert. Es geht um Diktatur Dramatik policycredit Und noch mal wie man so eine Schaltung verifiziert. Hier wird das Triangulation als verifikationsmittel angenommen wo man das gleiche Problem auf zwei verschiedene Arten löst um sein. Referenzpunkt zu bekommen, einmal mit Basel optimation und einmal mit Musik policycredit 
+
+Genau! Dann ist es aufgebaut. Noch mal das Ziel. Wir werden eine andere als Netz haben, der den aktuellen Zustand des Schaltung, den degradationszustand der Kapazitäten liegt, induktivitäten als eingangswert bekommen wird. Er wird allen. 
+
+Als aktions, also er wird 
+
+Pedikoeffizienten foodie-regler als Ausgang haben. Und dann die steht genau und dann TP. Die Regler wird in der Lage sein, den disiconverter anzusteuern, so dass wir unterstrichen Umgebung gut auf sich dynamisch verändernde spannungs 
+
+Reagiert? 
+
+Warum noch ein neues Netz? 
+
+Sind dafür bekannt, dass die? 
+
+Allgemeine? 
+
+Allgemeine? 
+
+Funktion abdrucksenatoren sind die können ja nicht lineare Funktion approximieren 
+
+Und haben sich in letzter Zeit bewahrt sehr. 
+
+Prozent? 
+
+Da kann man Beispiele gpt oder go oder? 
+
+Genau, dann würde ich darauf eingehen. 
+
+Ja also genau was haben wir noch an als Netz? 
+
+Der mit Hilfe von dem man nicht über von backpropagation trainiert werden kann. Nun es hat auch seine Eigenschaften also der kann auf es gibt verschiedene Architekturen von neuronalen Netzen. Es gibt ja dieses deep learning das man quasi die. Hierarchie von wissen. Sehr gut, parallel trainiert werden. 
+
+Gpus gpus! 
+
+Es gibt Bibliotheken die uns dabei. Dabei helfen den the flow pytouch. 
+
+Genau, an weiteren Teil ist ja. Der Regler, der besteht aus einem in diesen exemplarischen Beispiel aus pd-regler und so seine pulsweitenmodulator Da kann man erklären, wikipedia-regler funktioniert und dann wieder pulsweit Modulator funktioniert. 
+
+Und? Dann gibt es ja den das diskonverter. Hier kann man erkennen. 
+
+Das ist das Ziel, der aus diesen Bauteilen besteht. 
+
+Und? Das ganze ist wenn man aus ein rainforce mit Problemen framen also ich habe das als mit landing Problem geframt um das trainieren zu können Besonderheit was ist wie das funktioniert? Kann man das an der Stelle erklären? Dass der? Es gibt hier ein eine Umgebung und ein Vektor und Vektor und die Aktion von den ektor jeweiligen Zustand werden mit Roboter Belohnt oder bestraft, je nachdem wie gut sie waren und durch diese 
+
+Interagieren mit der Umgebung kann direkt zu lernen. Wie kommst zum Lernen? Wie schon gesagt habe man muss unser Schaltung und drei weitere Module erweitern. Einmal um man muss diese verschiedenen Dekoration Zustände simulieren An der Stelle kann man auch sagen, dass wir nicht Zustand immer gegen also das ist sowas wie eigentlich nur eine also unser was in diesen speziellen Fall ja um das Training zu vereinfachen haben wir. Die Degeneration Zustand nicht kontinuierlich simuliert, also nicht Zustand. 
+
+Zustand? 
+
+Dass das das ist mehrere zu schnell dann wir gehen einfach aus den aktuellen Zustand und dabei versuchen wir die bestmögliche Aktion auszuführen. Deswegen gebe ich eigentlich die. Eigentlich ist immer alles nur ein Schritt bisschen. Du bekommst eine Wort. 
+
+Deswegen? 
+
+Dann hier muss man das frame oder fast mit learning haben wir schon und in diesem Fall die bittere mässig policycrediant deep der Termin ist secretend deep fire tvische Aktion ausgibt Eine optimale policy lernt und grading, weil die der drastischen 
+
+Nutzen, um die Gewichte zu anpassen. 
+
+Genau deswegen dieser? Und diese Modell wird von zwei weitere Modelle erweitert. Einmal um 3 einmal und die modulieren die Degradation das wird einfach gewürfelt, dass am Anfang die jeweilige Schaltung sich in einen bestimmten degenerativen Zustand befindet und der aktor sieht diesen degenerativen Zustand und er führt dann eine entsprechende Aktion aus. 
+
+Und dann am Anfang noch ineinander zu werden, zufällig initialisiert. Das bedeutet, dass durch die auf die pd-werte werden ja zufällig initialisiert. Also die werden zufällig ausgegeben am Anfang wenn das Netz nicht trainiert ist und 
+
+Genau und dann denn das Netz wird quasi dann um ein robot zurückbekommen und das Problem an seiner robot ist es. 
+
+Das Problem, dass dieser Umgebung kontinuierlich ist 
+
+Da kann man kurz die. Erklären wo man jeweiligen Zustand Aktion Paaren ein value verleiht aber in diesem Fall es gibt so was sie unendlich viele Aktionen in jeweiligen Zustand. 
+
+Und deswegen geht das nicht so einfach und der Trick liegt daran noch ein ein weiteres Netz zu haben, der einfach nur den aktuellen ausgegebenen Aktion Zustand paar den richtigen 
+
+Value zu lernen, so was wieq value Das trainiert auch. Das wird auch sehr ähnlich trainiert diese critic Das sieht einfach aktuellen Zustand. Es sieht den aktuellen value und er lernt weil dieser fehlerbewertungsmoduls nehmen wir gleich kommen die der den tatsächlichen Wert ausgibt und genau und mit der Zeit diese Kritik ist in der Lage diese Werte zu. 
+
+Nachahmen und dann war das immer noch in der letzten sind. Man kann dann einfach bei den ektor einen gradient 
+
+In Richtung des maximalen value von den Kritik machen. Also man kann die angenommen der Kritik lernt den aktuellen Zustand und Aktion den richtigen value auszugeben. Dann kann man den den Kritik. 
+
+Da kann man von von critics eine Ableitung nach den also nach die nach die Aktion, also im Endeffekt man leitet das nach diesen value. Man möchte, dass diese Welle maximiert wird und man kann diesen diese krediten so bestimmen, dass man die guckt. Wie muss ich die? Wie muss ich gegebenen aktuellen Zustand und Aktion wie man sich die die? Die die die die Gewichte der Lektor ändern, sodass der very maximiert wird und das ist nur dann möglich, wenn der Kredit trainiert ist. Deswegen eine, weil ein Problem ist, dass man anfängliche Phase der 
+
+Vektor lernen eigentlich falsche polarisiere die Kritik noch. Ich weiss schon produziert aber mit der Zeit. 
+
+Regelt sich das ein, dass ich das wird? Auch bei dem Training sehr gut sichtbar? 
+
+Fehlerbewertungsmodul wie funktioniert das? 
+
+Also die Schaltung wird mit einem. 
+
+Die Schaltung wird so gesehen auf ein spannungsgestellten Widerstand an den steuerbaren Widerstand angeschlossen und 
+
+Wird über gewisse Zeit verschieden. Also es werden verschiedene Werte an diesen last also der widerstandswerte werden verliert und es wird geschaut wie gut die ausgangsspannung des jeweiligen discoverter an die referenzspannung. Bleibt ich nutze die Fehler als die Fehler wird über die Zeit, dass die quadratische Abstand von den gewünschten bis zum gegebenen Spannung und 
+
+Ich bestrafe noch besonders die Spikes. Die beiden sprüngen entstehen. Diesmal sind es besonders hart. Deswegen die Spikes sind auch ein bisschen was hoch ist auch gut so gewöhnt sich. Wir versuchen diese Modulation hinein einen harten umgebungs trainieren. 
+
+Und auch an der Stelle ist es genauso wichtig wie die. 
+
+Von den. Lernt ist. Es ist auch genauso wichtig wie ihre wartungsindefiniert ist, was er in diesem exemplarischen Beispiel sichtbar wird. Zum Beispiel war ich diese respektlos nach stark bestrafe in der weiteren Verlauf des Training die 
+
+Smove lässt. Der? 
+
+Ausgang zum Referenz. 
+
+Abstand für zum günsten des backköpfen des Spikes aufgegeben, weil die ist einfach mit zu hohen 
+
+Strafe? Versetzt werden und der lernt immer die nennen immer deine Worte zu optimieren. Deswegen ist es sehr wichtig noch wichtig zu setzen. 
+
+Genau! 
+
+Dann kann man auf jeden Fall die Kühler nicht erklären und dann kommen wir auch halt. Zu diesen eigentlichen Training haben wir diese Pipeline das heisst ein zufälliger zufälliger Degeneration zustandeschaltung wird gewürfelt in den Zustand wird von der ektor gesehen. Der actor für deinen Aktion aus. Und diese Aktion wird dann quasi durch den fehlerbewertungsmodul ausgewertet. Das heisst es wird last also die Schaltung mit den verschiedenen Lasten. 
+
+Getestet haben also geschaut wie gut der spannungsausgangswert am Ende war. 
+
+Und anhand von Essen wird ein Wort gebaut. Und dann jetzt müssen wir die beiden Netze trainieren, weil wir können nicht den richtigen report geben. Aktion der erste Schritt ist, dass wir uns mal den Kritik trainieren, dann ist man den. 
+
+Die die cool also eine sehr Wert Update eigentlich wo man den 
+
+Man den aktuellen report +1 discountain future Rohr von den zukünftigen wert. Und die nächsten Zuständen nächsten Aktion. 
+
+Nimmt aber bei unserem Fall ja nur ein Zustand überhang nehmen. Können wir das in Gamma zum Null setzen und deswegen die Quelle ist eigentlich der Ort? Zu Aktion? Nehmen? 
+
+In Bezug auf den Kritik. 
+
+Mal den gradienten der Parameter in Bezug auf den actros gegebenen Zustand. Diese Gleichung versteckt ist nur wir nehmen an, dass der ektor, dass die Kritik fertig trainiert ist und er richtig die actor und Zustände. Geschätzt aus der vorher gezeigten Gleichung und dann kann man einfach die Parameter der actus ableitens, dass der 
+
+Kritik zu gegebenen Zustand. Aus dem Zustand ergibt sich über den actor eine Aktion. 
+
+Zu maximieren. 
+
+Genau! So macht man das, da kann ich auch die da kommen noch weitere Probleme nämlich 
+
+Probleme, da ist es einfach nicht leicht diesen 
+
+Das alles anstellen es gibt ja das Problem overkritik andere fitting nämlich wenn 
+
+10:04 AM
+Zu wichtigen ganze Schaltung validieren, nämlich habe mich einfach Ich habe exemplarisch auf einen konkreten regenerativen Zustand. In einen kompletten Zustand. Und dann dieser Zustand befindet sich nicht in den Trainings set. 
+
+Und das wird geschaut wie in diesen von den Anti Schaltung vorher nicht gesehen Zustand als ich verhält. Und es wird mit anderen Zustand trainiert. Und das Ziel ist es also das also wenn die andere fitting werden wenn es gut ist. Dann er wird ja soweit generalisieren, dass in der Lage ist auf diesen vorher ungesehen Zustand die richtigen Wert auszugeben. Das ist auch das ist auch mein Ziel. Und wie kann man also gibt es mehrere Möglichkeiten einmal das alleine das dass das die kostet von Netz. Wenn das nicht zu klein ist dann ist sie nicht in die Lage das Problem zu lösen wenn man es zu gross ist da es kann sein dass der Anfänger braucht die in den Rauschen. 
+
+Gesehen auswendig zu lernen und dann wird er. 
+
+Eine kleine Veränderung in Eingang, wenn zum grossen Veränderungen am Ausgang führen und das Netz wird nicht gut. 
+
+Generalisieren? Da gibt es ja noch andere Verfahren, deswegen ist es immer gut das Netz richtig zu wählen. Deswegen die tatsächlich. Die Anzahl von den layeranzahl von Neuronen muss richtig gesetzt werden. 
+
+Macht man das in dieser Licht scheint error oder durch genau da muss man ein bisschen so. Fisten mit sich einbringen. 
+
+Gibt es ja noch so ll2 es gibt ja noch normmöglichkeiten dass man zum Beispiel eine psychische Bestrafung dafür bezahlt also was was beide Generation hilft ist es wenn? Die Gewichte sich nicht auf einzelnen Neuronen verteilen, sondern über mehrere Neuronen, weil das eine smooth move wäre Funktionen am Ende mit sich bringt. Und deswegen kann man eine Bestrafung quasi einführen wenn das Netz. 
+
+Dazu tendiert? 
+
+Die Feder. 
+
+Dadurch zu bekämpfen, dass er einen gewissen Gewicht auf einzelne Raum setzen und sich das nicht das verschmiert was für das diese Normalisierung es gibt ja einfach verschiedene. Sorten von diesen Fehler zu berechnen, so dass diese generalisierung ausgeführt wird. 
+
+Sehr wichtig! Wenn es zu klein gesetzt wird, dann konvertiert es überhaupt nicht so einen lokalen Optimum. Wenn es zu gross gesetzt wird, dann überschiesst es und konvergiert gar nicht. Dann inzwischen gibt es ja keine ganze Reihe davon und man möchte, dass ich dich immer den globalen Optimum zu finden. Aber das ist sehr schwierig. Aber wenn das Lehrling richtig gesetzt wird, es wird auch. Der macht ja also was macht letting ist minimiert den Fehler in den? 
+
+Den aktuellen gesehen. 
+
+Die man da trainiert den man trainingszwecken nimmt. 
+
+Genau wenn man glättengerät ausreichen, also nicht so klein sind, dann konvergiert das auch. Aber es kann auch passieren, dass Inzwischen Zeit aus diesem lokalen optimal rausspringt was ja? Sogar gewünscht ist weil es kann sein dass man in ein anderes. Noch die fertigen dessen optimal landet. Aber wenn es zu gross ist, wird dann ist oszilliertes. 
+
+Verschiedene Methoden. Man kann auch das Lernen direkt über Zeit ändern, das ähnelt diesen Simulation unining 
+
+Doch meistens reicht es einfach die verschiedenen Geräts auszuprobieren um zu schauen wie gut er dann lernt. 
+
+Gut, ein weiteres Problem ist, dass wir nämlich 
+
+Recherchieren, aber wir haben hier mit. Das Problem ist, dass wir zwei Netze haben und heute Hector den Kritik eigentlich dazu nutzt, um seine Steigung in der richtige Richtung zu machen und weiter Kritik, dass ich dich immer online trainiert wird. 
+
+Es ist so, dass man das ist, so als würde man versucht einen Pfad entgegenzusteigen, dass ich immer wieder ändert, was hier so sehr instabil trainieren wird und deswegen. Man nutzt. 
+
+Doppelt Ausführung der Netze, einmal target Kritik am Kritik und einmal target actor einmal actor und dass man einfach während des Training diesen Tages mit einem gewissen Radar updated Und dann zum Beispiel um den ektor? 
+
+Trainieren nutzt man ja diesen target von Kritik. 
+
+Und man muss noch bedenken. Die Netze konvergieren nicht, wenn sie wenn die Werte 
+
+Stark miteinander korreliert sind. 
+
+diesen Replay Buffer Aber das Problem ist ja, dass ich überall wäre schon den Wert um die Update von actor von der Kritik zu nutzen und immer wieder von den app to update vor actor für das zum noch weitere Instabilität. Und in dagegen entgegenzuwirken führt man so doppelte Netze, wo man einmal diesen actor. 
+
+Rektor ab also diesen diesen target updated wo man? Einfach dies in diesen diesen diesen Update. Schritt. Noch mit so einem zusätzlichen Netz der mit kleinerer rate upgedatet wird nochmal stabilisiert und das hilft natürlich und gleichzeitig weil man ja bei Direktor mit den target und nicht mit den jetzt trainierten Kritik lernt. Dass die Werte die Werte sind nicht so stark miteinander korreliert und deswegen die Training wird dann auch stabiler. 
+
+Parameter was heisst das im Endeffekt also in idealen wird man wir die alle möglichen Kombination? Speichern und daraus einen gradienten bilden. Doch in realen wälzen werde ich Arbeitsspeicher und 
+
+Nein, dass ich begrenzt, dass wir Wirklich diese Umgebung erstmal? Durch exploration expretation Durchsuchen müssen. 
+
+Durchsuchen müssen und? 
+
+Deswegen nehmen wir nur ein jedes Mal wenn wir diesen. Bilden. Wir nehmen einen subset von allgegen Daten, die wir in unserem Replay Bar verspeichern, die ihr dann auch zufällig abnehmen. Ich habe das tatsächlich mein Training auch gesehen, dass die Werte. 
+
+Ja also. 
+
+Sehr wichtig! Und wie sieht's aus? Also ich habe vorher diese legendary genannt und wir machen jetzt den gradienten deswegen wir versuchen ja diese. 
+
+Diese? 
+
+So gesehen Fehler? Landschaft in Richtung des lokalen Optima. Entgegenzuschneiden und unten zu steigen. Aber das ist halt ja nur ein. 
+
+Ein Teil des? Wir sehen nur einen kleinen Teil! Von der Landschaft und wir machen nur. 
+
+Einen gradienten in der Richtung, wo wir uns gerade befinden Und deswegen kann es sein, dass man nicht nicht wirklich in der Richtung des lokalen optimal geht. Deswegen auf die Latten Gerät darf nicht so hoch gesetzt werden, weil man geht man die die Pfeil zeigt immer nicht in der perfekte Richtung Mann. Man geht manchmal nicht richtige Richtung aber schon in der. 
+
+Es kann sogar sein, dass man komplett falsch geht und deswegen muss man das Lernen kreativ kein Halten und die Basis möglich gross und quasi. 
+
+Gradienten also auszurechnen, dass man die den phänomenimiert 
+
+Man steigt diesen Walli entlang, aber man geht ja nicht perfekt nicht Schlüssel des minimalen optimal wenn man einfach nicht sieht, weil man einfach nicht alles sieht. Würde man alle sehen, wird man natürlich in der Richtung des lokalen optimal steigen. Also entgegen runtergehen. Aber weil man nur einen subsitz von der von der von der Werten sieht, dann geht man nur. Nicht immer aber meistens. 
+
+In der Richtung des lokalen optimal. 
+
+Ein weiteres Problem ist unser actros der Minister, das heisst den aktuellen Zustand gibt immer den gleichen Wert aus. Und? 
+
+Und das entgegenzuwirken? Wir brauchen bisschen explodation. Wir möchten auch bisschen neue. 
+
+Werte ausprobieren? 
+
+Deswegen Teil dieses exploration von Werten ist dadurch wenn man bei learning Gerät. Du gehst ja immer in Richtung locker, ist Optima Manchmal springst du sogar raus und teste es ein anderes Optimum. Aber die eigentlich explodation findet durch Hinzufügen von Rauschen auf die Aktionen, so dass in unseren. Set von Daten von welchem wir sind gradienten berechnen, auch unerwartete Werte auftauchen, die man dann später dazu nimmt und die 
+
+Aber man bekommt ja diesen report und man manchmal dadurch, dass man durch alleine durch das Zufall durchrauschen. Tut man eine Aktion die sehr vorteilhaft ist und die wird dann? 
+
+Gesehen und die führt dazu, dass man tatsächlich Und dieses Rauschen wird dann also mein Training habe ich das am Anfang hochgesetzt damit der Zeit es wird immer geringer. Das ist zum Schluss was gar nicht drauf ist. Dass man am Anfang sehr viel explodiert und dann mit den gesammelten Daten versucht man eine immer feine bodyssee zu entwerfen. 
+
+Genannt? Und? 
+
+Weil das Problem besonders kompliziert ist und schwer zu trainieren. Und Ich weiss nicht was das optimal aber das Optimum ist ich muss. Ich habe mich vor eine besondere. Strangulation das heisst ich versuche das Problem aus anderen Blickwinkel auch zu lösen. Sie habe ich eine weitere. 
+
+Ob die optimisation? 
+
+Genommen die heisst base Shop ziemlichation und mit base habe ich. 
+
+Mit base habe ich. 
+
+Funktioniert, dass man eigentlich? 
+
+Also erstens man hat so ein Kernel mit dem man den. Abstand misst ist ja meistens eine radialfunktion eine gascannen. Und mit denen man? 
+
+Zunächst die also man hat man sieht ja gewisse Werte. 
+
+In dem versucht man den bustiere auszurechnen. Man sieht ja gewisse Werte und man sucht so was wie die Ähnlichkeit aus Wiener auseinanderlegen zueinander. Und man? 
+
+Schatten auch die Ähnlichkeit zwischen den gefunden werden und den allgemeinen suchraum. Und dann kann man. 
+
+Das Kreuz? Multiplikation von so gefunden Matrizen kann man mit der eigentlichen Kann man ja? Sowas wie eine statistische? 
+
+Verteilung schätzen. Man schätzt einfach, also man versucht das durch das Gesehene dass nicht gesehene zu schätzen und dadurch dass es das Werte gibt in gewissen Bereichen. Man kann sowas wie ein ungefähren Schnitt von den Werten zu schätzen. Medium man kann auch schätzen. Stellen, die besonders weit von den gesinnten stellen und Fernsehen werden, mit besonders vielen ungewissenheit versehen. Und hatte ich dort hat man einen grösseren Bereich von sowas wie standardabweichung für einen gewissen Parameter? Und dann genau und da findet da hat man auch eine Akquisition function die dann. Versucht die nächsten. Quasi geschickt den nächsten Wert zu setzen. Also einfach die Stelle zu planen wo man sucht und da kann man sowas wie exportation bevorzugen wo man dann die Stellen wo man sich besonders unsicher ist was dort ist. Bevorzugt um hinzuschauen. Und man kann ja auch das Gesehene. 
+
+10:16 AM
+Mit einem bounce, dass man auch die Werte. 
+
+Was man dort schaut weiss Vor die Vergangenheit gezeigt hat es sich gelohnt gehabt zu schauen plus man einen gewissen. Fährt vor? Explodation einbaut das ist. 
+
+Genau und dadurch haben wir aber was ist ja das Nachteil weil es ist das findet sogar den globalen Optimum aber warum müssen wir das nicht aber das im Endeffekt haben die einfach die Werte die unterschiedliche Deklination Zustände zum Parameter 
+
+Mappt aber base optimization verlangt so was ich aktives lernen das heisst. Jedes weiteres Parameter muss. 
+
+Also das Netz muss immer neu zu gesehen also muss neu antrainiert werden. Dieses space muss immer neuen antrainiert werden weil man das richtig die neue gesehen Beobachtung nimmt. Und vor allen Dingen das funktioniert gut. Also in diesem Fall das suchraum muss relativ klein sein. Eine gross wird dann. Es funktioniert nicht so gut und 
+
+Und und uns na komm weiter weiter nachdenken. Und das kann man dann nicht so einfach. 
+
+Umsetzen, weil dieses dauernleisten eine Funktion, eine statische Funktion und 
+
+Base a da würde nur für einen konkreten Deklaration Zustand antrainiert das heisst er wurde der Suche. Also es ist einfach nicht implementierbar also dass das dass du dann funktioniert mit diesen zweiten Sorte von Implementierung wo ich noch sehr Ruhe hat schon einbaue Aber das ist wahrscheinlich nicht gewünscht, weil das sehr Kosten behaftet ist und nicht Kosten behaftet wenn sie fertig trainiert sind. 
+
+Genau! 
+
+Und dann genau jetzt kommen eigentlich ein Resultaten. Ich vergleiche jetzt mal den base base. Hatte einen konkreten wert. Dann zeige ich wie meinte die beauty trainiert. Ich habe es geschafft das sogar parallelalisiert das mehrere gleichzeitig lernen und dann ich habe den besten ausgegeben und dann war das nicht relativ klein war. War nicht besonders gut. Wo ich das Netz deutlich gehört habe. Habe ich sogar. 
+
+Habe ich zumindest so guten Wert wie die base gefunden, wobei der weiss es wurde auch nicht unendlich lang trainiert. 
+
+Genau und dann Anfang an eine Seite dadurch dass ich diese 
+
+Dadurch, dass ich Also man kann einfach die Werte die man auf dem Weg gesehen hat. 
+
+Tracken und immer die besten Werte speichern und auf die Art und Weise kann man auch so was wie die besten eingangsparameter finden. Bestenkapazitäten nicht induktiv besten deklarationszustand bei dem die Schaltung am besten funktioniert. Ich weiss es ist ein oxymorona. 

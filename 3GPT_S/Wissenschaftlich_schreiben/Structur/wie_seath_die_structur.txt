@@ -1,0 +1,13 @@
+Also die Arbeit war vollkommen aus nicht studiert. Ich habe erstmal das Ziel erklärt. Für eine Runde ist nicht trainieren wollen die dann ein pd-regler anstellen würde dann wiederum eigentlich diese Konverter ansteuert. 
+
+Meine Präsentation habe ich dann grob erklärt was ein pd-regler ist. Was sind das diese Konverter ist und was andere als Netz ist? Direkt über den Training Übergang um das Training ermöglichen zu können. Haben wir ein sicherlich vor genau? Dann habe ich gesagt, dass wir ein subset von Rave was mit landing nehmen, nämlich das Und dort habe ich erklärt, dass wir dann unseren Modell um Kritik und ein fehlerbewertungsmodul erweitern müssen, somit er die Belohnung bekommt, damit wir das Jetzt antrainieren können? Dann habe ich erklärt genau. 
+
+Genau und dann habe ich erklärt wie die BG funktioniert. Dann habe ich erklärt Vorteile Nachteile wie das aufgebaut ist an der Stelle ich ja gerne sowas wie mehr Details gehen sofort wie backpropagation dann würde ich gerne erklären andere Probleme bei Parameter aber fertig andere verdient. 
+
+Ich habe mich Vertrauen entschieden, um das Problem zu 
+
+Testen habe ich ja noch Besen optimation, damit ich genug noch ein bisschen optimation klären und dann würde ich ja die Ergebnisse zeigen und erklären. 
+
+Wo die Reise hinführen kann so das war also meine Präsentation und jetzt möchte ich aufbauen auf das nur eine beschlagarbeit schreiben. Die Frage ist was ist die perfekte also wieder mal bitte herausschreiben ausserdem muss sie dann 
+
+Strukturiert werden.

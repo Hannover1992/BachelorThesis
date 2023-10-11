@@ -1,0 +1,52 @@
+Guten Morgen! Es klingt, als ob Sie ein interessantes Projekt vor sich haben. Wenn Sie ein AI-Department aufbauen möchten, um eine wissenschaftliche Arbeit zu verfassen, dann sind hier einige Schritte und Positionen, die Sie berücksichtigen könnten:
+
+
+1. **Chief Technology Officer (CTO)**: Diese Person überwacht die gesamte Technologie- und Innovationsstrategie. Sie würden sicherstellen, dass die technologischen Ressourcen und Tools vorhanden sind, um eine qualitativ hochwertige Arbeit zu erstellen.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+2. **Wissenschaftlicher Leiter (Chief Scientific Officer, CSO)**: Diese Person würde sicherstellen, dass die Arbeit wissenschaftlich fundiert und korrekt ist. Sie könnten auch Forschungsrichtungen vorgeben und sicherstellen, dass die Arbeit aktuelle wissenschaftliche Standards erfüllt.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+3. **Korrekturleser (Proofreader AI)**: Eine AI, die speziell darauf trainiert ist, Grammatik, Rechtschreibung und Syntax zu überprüfen. Sie könnte auch den Stil und die Klarheit des Textes bewerten.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+4. **Fachexperte (Subject Matter Expert AI)**: Eine AI, die speziell in dem Fachgebiet trainiert ist, über das die Arbeit geschrieben wird. Sie würde sicherstellen, dass die Informationen korrekt und auf dem neuesten Stand sind.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+5. **Redakteur (Editor AI)**: Diese AI würde den Fluss und die Struktur der Arbeit überprüfen, um sicherzustellen, dass sie logisch und kohärent ist.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+6. **Reviewer AI**: Eine AI, die die Arbeit aus der Perspektive eines externen Gutachters betrachtet. Sie würde Feedback geben, um die Qualität der Arbeit zu verbessern.
+Ich werde dich mit Wissen versorgen in einen nicht strukturierter form, nimmt das als kontex und vorschalg auszuge aus DB. 
+MATERIAL
+...
+
+
+### Pipeline:
+
+1. **Dateneingabe**: Geben Sie die vorhandenen Experimente und Ergebnisse in das System ein.
+2. **Entwurf durch AI**: Lassen Sie die AI einen ersten Entwurf der Arbeit basierend auf den eingegebenen Daten erstellen.
+3. **Überprüfung durch den Fachexperten**: Die Subject Matter Expert AI überprüft den Entwurf auf inhaltliche Richtigkeit.
+4. **Redaktionelle Überarbeitung**: Der Editor AI überarbeitet den Entwurf, um den Fluss und die Struktur zu verbessern.
+5. **Korrekturlesen**: Der Proofreader AI überprüft den Text auf Grammatik, Rechtschreibung und Stil.
+6. **Review**: Die Reviewer AI gibt Feedback aus der Perspektive eines externen Gutachters.
+7. **Finalisierung**: Integrieren Sie das Feedback in den Text und erstellen Sie die endgültige Version der Arbeit.
+
+Diese Pipeline kann iterativ sein, d.h. Sie könnten mehrere Zyklen durchlaufen, um die Qualität der Arbeit zu verbessern.
+
+Bitte beachten Sie, dass dies eine vereinfachte Darstellung ist. In der Praxis könnten Sie mehrere spezialisierte AIs und Menschen in Ihrem Team benötigen, abhängig von der Komplexität und den Anforderungen Ihrer Arbeit. Es ist auch wichtig, menschliche Experten in den Prozess einzubeziehen, um sicherzustellen, dass die Arbeit von hoher Qualität ist.

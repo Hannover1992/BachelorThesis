@@ -1,0 +1,1348 @@
+
+Willkommen zur Veranstaltung Wissenschaftliche Methodik und Soft Skills im Forschungs- und Ingenieursbereich.
+Mit diesem kleinen Audiokommentar möchte ich Ihnen einige organisatorische Einführungsinformationen zur Veranstaltung geben, zusätzlich zu den Folien, die Sie ja bereits auf stud.
+ip finden können.
+Ja, vielleicht erstmal kurz zum Ablauf.
+Also die Veranstaltung ist entgegen der normalen Präsenzvorlesungen in einem bisschen anderen Format gehalten.
+Das hat einfach mit den Inhalten zu tun, weil das hier keine reine oder Fachveranstaltung ist, sondern es geht darum, dass Sie eben, wie es im Titel auch steht, die Soft Skills und die Fähigkeiten mitbekommen, die Sie dann in einem breiten Anwendungsspektrum nutzen können.
+Also zum Beispiel, wenn Sie eine Abschlussarbeit schreiben oder wenn Sie mal einen Vortrag halten müssen, dann sollen Sie hier eben einfach Informationen und Anleitungen bekommen und Ideen, auf die Sie dann später, wenn Sie es mal brauchen, zurückgreifen können.
+Und deswegen bin ich hier also von dem klassischen Hörsaalvorlesungsansatz weggegangen.
+Also lange Rede, kurzer Sinn, worum geht's? Sie bekommen zu verschiedenen Themenkomplexen entsprechend Foliensätze bereitgestellt mit kleinen Audiokommentaren zur Vertiefung, aber Sie können natürlich auch einfach nur die Folien einmal durchgucken oder die irgendwo abspeichern.
+Die Audios, da erzähle ich einfach immer noch ein bisschen mehr dazu.
+Der Folie steht drauf, dass es wöchentlich bereitgestellt wird.
+Ich schalte aber alles zu Semesterbeginn direkt frei.
+Das heißt also, Sie können selber überlegen, ob Sie quasi wöchentliche Einheiten durcharbeiten wollen oder ob Sie eben, weil Sie am Semesteranfang besonders viel Zeit haben, das wird einmal in einem Rutsch sich einmal alles angucken.
+Und dann haben Sie eben hinten raus im Semester mehr Zeit.
+Also das stelle ich Ihnen völlig frei.
+Und wenn Sie nach dem wöchentlichen Doktorierung gehen, dann sind das eben immer kleinere Lerneinheiten, die man also dann gut in einer Stunde, ja je nachdem wie vertiefend man es eben macht, sich zu Gemüte führen kann.
+So, das ist das eine, so wird es in den Unterlagen am Handhaben.
+Andererseits gibt es dann alle zwei Wochen donnerstags die Möglichkeit, in der ursprünglichen Vorlesungszeit mit mir online zu diskutieren.
+Und das Ganze geht über Cisco WebEx Meeting.
+Die Logindaten finden Sie entsprechend auf StudIP und dort können Sie also dann Fragen stellen zu den Inhalten, beziehungsweise, ja wenn Sie eine konkrete Frage haben, zur Abschlussarbeit schreiben oder sowas.
+Also einfach, was Sie auch interessiert, ja Sie haben auch die Möglichkeit, mir vorher gegebenenfalls Fragen oder Themenwünsche zuzusenden, worüber ich dann kurz sprechen soll, wenn ich eben ein bisschen mehr Vorbereitungszeit benötige.
+Ansonsten einfach dort einfach Fragen.
+So, der erste Termin beginnt quasi in der zweiten Woche der Vorlesungszeit, das heißt also am 20.
+04.
+und zwar um 12.
+00 Uhr.
+Und dann gibt es im Semester, wie gesagt, weitere Termine.
+Es gibt einmal eine Abweichung von 14 Tagesrhythmus, das hat mit einer Dienstreise zu tun.
+Und dann ist zwischendurch auch nochmal die Exkursionswoche, deswegen ist dann ein etwas längerer Gap da einmal vom Mai zum Juni.
+Ja, aber das sind die geplanten Termine.
+Wenn Sie zwischendurch Fragen haben und was ganz eilig drückt, dann können Sie mir auch jederzeit eine E-Mail schicken und dann bekommen Sie da sehr zeitnah eine Rückmeldung.
+So, dann ist natürlich immer die Frage, was ist denn an Leistungen zu erbringen.
+Also gleich von weg, es gibt in dieser Veranstaltung keine Prüfung, aber es gibt natürlich andere Dinge, die zu erbringen sind und zwar während des Semesters.
+Wir haben in dieser Veranstaltung acht Themenkomplexe und zu jedem Themenkomplex ist auf StudIP dann ein entsprechendes abschließendes Quiz zu absolvieren.
+Das ist so ein Ilias-Test.
+Und hier bin ich aber ganz human, also Sie können den Test beliebig oft wiederholen, Sie müssen ihn einmal bestehen und Sie können das aber auch komplett mit den Unterlagen machen.
+Einzige Randbedingung ist, Sie müssen es bis zum Ende der Vorlesungszeit, und das ist in diesem Jahr oder in diesem Semester, der 23.
+07.
+2023, Mitternacht, bestanden haben.
+Danach ist die Teilnahme nicht mehr möglich.
+Also das ist ein hartes Kriterium, davon gibt es auch keine Abweichung.
+Das Zweite, was im Semester zu erbringen ist, ist eine Hausaufgabe und zwar geht es dort um das wissenschaftliche Schreiben.
+Dort dürfen Sie ein Abstract verfassen, das hat einen Umfang von maximal 600 Worten, und das geben Sie bitte als PDF bei mir ab.
+Genauere Informationen dazu gibt es in dem entsprechenden Ordner auf StudIP, da wird dann eine Formatvorlage auch bereitgestellt, sowohl in Word als auch in LaTeX.
+Weiterhin gibt es dann auch ein Beispielabstract und ein PDF mit detaillierten Informationen, wie dieses Abstract also abzufassen ist, was dort zu beachten ist, und auch Fehlerquellen aus früheren Runden, ich mache das jedes Semester, gucken Sie da einfach mal sehr genau drauf und versuchen Sie also diese Spielregeln dort so genau wie möglich zu befolgen.
+Sie können das Thema des Abstracts völlig frei wählen, auch darauf gehe ich in den Folien, die dazugehören, ein.
+Sie können entweder was über ein Hobby schreiben, über eine Abschlussarbeit, über ein Praktikum, ich habe bisher die viel Elektrotechnik Grundlagenpraktika Abstracts gelesen, also da können Sie einfach völlig frei was auswählen, oder Sie können auch eine fremde Arbeit verwenden und darüber ein Abstract schreiben.
+Wie gesagt, das ist alles auf den zugehörigen Folien erklärt.
+Lange Rede, kurzer Sinn, es kommt nicht so sehr auf den Inhalt am Ende an, sondern darauf, dass Sie einfach mal sehen, wie so ein Abstract aufgebaut ist, auch mal selber durchspielen und ja, einfach auch die Fallstricke kennenlernen, was ist alles hinsichtlich Wissenschaftlichkeit dort zu beachten.
+Jetzt bin ich ein bisschen abgeschweift, also Sie benötigen zum Bestehen dieser Veranstaltung die 8 Ilias-Tests bis zum Ende der Vorlesungszeit und das Abstract und dieses ist im Semester abzugeben, das Abgabedatum ist der 28.
+Mai, auch hier um Mitternacht.
+Es gibt dazu einen Ordner auf StudIP, wo Sie dieses Abstract hochladen, entsprechend mit Ihrem Namen und Ihrer Matrikelnummer versehen, steht auch alles in den Informationen.
+Und wenn Sie das alles durchgespielt haben, dann können Sie die Veranstaltung erfolgreich bestehen und bekommen dann also ein Bestand eingetragen.
+Weil immer wieder die Frage kommt, es gibt auf StudIP sowohl die Vorlesung als auch die Übung wissenschaftlicher Methodik, die Übung zu dieser Veranstaltung werde ich nicht bespielen.
+Deswegen ist auch die Anmeldung dafür gesperrt und Sie bekommen alle Informationen ausschließlich über die Vorlesung.
+Ansonsten werden Informationen eben über StudIP geteilt, über Ankündigungen, über Rundmails und gegebenenfalls auch verbal in den Online-Diskussionsrunden und da ist dann eben nochmal Erinnerung, Deadlines für die Abstract oder ähnliches.
+Und damit bin ich auch schon durch mit meiner kleinen Einführung.
+Ich schließe mit einem kleinen Ausblick über die Themen der Vorlesung.
+Also wir werden uns als erstes so ein bisschen das wissenschaftliche Verhalten angucken, Fragen zur wissenschaftlichen Redlichkeit.
+Dann wird es gehen um den Umgang mit wissenschaftlicher Literatur, also wo recherchiere ich, was gibt es überhaupt für Arten von Literatur und wie kann ich damit sinnvoll arbeiten.
+Wir schauen uns an, wie man Experimente wissenschaftlich gut plant, durchführt und anschließend auch auswertet.
+Es wird um wissenschaftliches Schreiben und Präsentieren gehen und dann geht es ein bisschen mehr in die Soft Skills, nämlich Zeit- und Selbstmanagement und auch Kommunikation- und Konfliktmanagement, weil das einfach sehr wichtige Dinge sind, also gerade Zeit- und Selbstmanagement.
+Das sehe ich auch immer wieder bei dieser Veranstaltung, dass es da oft hakt, wenn es dann um die Abgabe der Abstracts geht.
+Und wir werfen auch noch einen kleinen Blick in den Bereich des Schutzrechtes, also die Grundlagen zum Patentrecht.
+Jetzt bin ich aber wirklich am Ende und ich freue mich auf Ihre Teilnahme an dieser Veranstaltung.
+
+
+
+
+Im ersten Themenkomplex der Vorlesung werden wir uns also mit wissenschaftlichem Verhalten beziehungsweise wissenschaftlicher Integrität und Redlichkeit beschäftigen.
+Darunter fällt unter anderem erstmal, wie diskutiert man wissenschaftlich korrekte Art und Weise, dann auch so ein bisschen, was bedeutet es eigentlich Wissenschaftler zu sein, das heißt, was kommt mit diesem Berufsbild, wie komme ich überhaupt dahin und dann natürlich der ganz große Part sozusagen wissenschaftliches Fehlverhalten und beziehungsweise nennen es lieber wissenschaftlich korrektes Verhalten.
+Der erste Punkt ist also kurz die Diskussionskultur, den habe ich vorhin angestellt, einfach weil wir das auch in unserem, in unserer Diskussionsrunde auf StudIP natürlich dann einhalten wollen, diese Regeln und ja, die viele von Ihnen kennen sicherlich Asterix und Obelix, wenn es dort eine kleine Meinungsverschiedenheit gab, dann flogen sofort die Fische oder auch die Fäuste.
+Das tun wir natürlich nicht, sondern es gibt einfach gewisse Grundregeln, die wir also immer einhalten sollten und dazu gehört zum Beispiel, dass wir natürlich den Sprecher ausreden lassen und uns erstmal anhören, was unser Gegenüber zu sagen hat, denn nur dann ist wirklich ein Austausch von Ideen und Gedanken und Meinungen möglich.
+Das heißt aber auch, dass ich nicht einfach nur den reden lasse und mir denke, ja dann rede eben und irgendwann sage ich dann meine Meinung.
+Nein, es gilt eben auch dem anderen wirklich aktiv zuzuhören und vielleicht auch zu versuchen, das ist die hohe Kunst, den Standpunkt des anderen wirklich mal einzunehmen und zu versuchen, dessen Argumente nachzuvollziehen und zu verstehen, was den eigentlich antreibt.
+Es ist natürlich auch immer wichtig, dass man seine eigenen Argumente klar und deutlich formuliert und durchdacht formuliert, denn nichts ist schlimmer, als wenn man quasi im Kreis mehr oder weniger spricht und 100 mal Füllwörter benutzt oder 100 mal dasselbe sagt, bevor man zum Punkt kommt.
+Das ist natürlich ziemlich nervig für den Zuhörer, macht das Zuhören auch schwer und öffnet natürlich Tür und Tor dafür, dass der andere einen dann doch irgendwann ins Wort fällt.
+Ganz wichtiger Punkt, auch wenn wir mit anderen Meinungen nicht einverstanden sind, sollte man Kritik immer sachlich äußern, niemals persönlich beleidigend oder angreifend werden und es nützt auch nichts, wenn man hingeht und sagt, ich finde deine Idee scheiße.
+Da haben sie nichts gewonnen, sondern eine gute Diskussion lebt eben davon, dass man durchaus sagen kann, I agree to disagree, das heißt, ich stimme nicht mit dir überein und zwar aus den und den Gründen beziehungsweise ich habe das nicht verstanden, erkläre es mir doch noch mal.
+Ja, das ist viel besser, als eben einfach sich zu verschließen und zu sagen, ist alles Quatsch.
+Und noch ein ganz wichtiger Punkt, den man auch niemals aus Acht lasen sollte, man sollte niemals generalisieren, sondern immer faktenbasiert argumentieren.
+Das ist die große Kunst.
+Das heißt also, wenn man zusammenfassen will, das sehen sie auf Seite 10, deine Diskussion sollte immer fair sein, sachlich und auf Fakten basieren.
+Und dieses Symbol, also diese Gruppe aus Männlein mit dem großen grünen Schild Diskussion, das werden sie auch in den Folien immer mal wieder entdecken.
+Das kommt daher, dass es ursprünglich so geplant war, dass also dort an dieser Stelle wirklich Diskussionen im Seminar angestoßen werden sollten mit verschiedenen Anregungen auf den Folien.
+Klappt wie gesagt in diesem Semester nicht ganz so gut, aber ich möchte sie dazu ermuntern, wenn sie sich die Folien angucken und auf dieses Symbol, auf dieses Bild stoßen, dann halten sie doch mal an im Durchklick an der Folie und machen sie sich über die genannten Punkte wirklich mal ihre eigenen Gedanken, bevor sie dann weitergehen und sich eben anschauen, was ich dazu zu sagen habe, beziehungsweise was die Literatur und andere Quellen dazu zu sagen hat.
+
+
+Die Vorhilfe zum wissenschaftlichen Werdegang habe ich eigentlich mit dem Hintergrund erstellt, weil ich doch öfters mal gefragt wurde, wie man denn eigentlich Wissenschaftler wird.
+Ich war zum Beispiel vor einiger Zeit an einem Gymnasium eingeladen für Vorträge bzw.
+Diskussionsrunden mit 10 bis 12 Klässlern und dort sollte ich das Berufsbild Wissenschaftler repräsentieren.
+Und da kam eben genau diese Frage, was ist denn das eigentlich und wie komme ich da hin? Denn es ist tatsächlich für die meisten schwierig vorstellbar, was es bedeutet und wie man das wird.
+Ich meine, wenn man sagt, ich möchte Lehrer werden, dann ist es relativ klar, ich gehe an die Uni, studiere Lehramt und mache mir ein Referendariat an einer Schule und danach kann ich Lehrer sein.
+Aber wie werde ich eigentlich Wissenschaftler? Und deswegen habe ich mir überlegt, ich schreibe es einfach hier auf diese Folie und gebe ein bisschen auch einen Einblick darin, worauf es an den verschiedenen Stationen ankommt.
+Ich meine, die meisten von Ihnen befinden sich am ersten Teil, das heißt also in der Studienphase, die im Allgemeinen nach dem Abitur so drei bis fünf Jahre dauert, je nachdem wie schnell und gut man durchkommt und wie das mit den Prüfungen so klappt oder ob man noch Praktika oder Auslandsaufenthalte einschiebt.
+An der Stelle möchte ich darauf hinweisen, auch wenn das Studium mittlerweile sehr verschwult ist durch dieses Bachelor- und Master-System und Sie oft einen Strafenzeitplan haben, es ist in diesem Teil der Ausbildung dann erstmal wirklich begrüßenswert und auch wichtig, dass man zusätzliche Erfahrungen sammelt.
+Sei es eben als Hiwi, wo man mal in einer Arbeitsgruppe mitmacht oder auch in ein Forschungsinstitut geht oder man geht eben auch mal für ein Semester ins Ausland oder macht in den Ferien bzw.
+in der vorlesungsfreien Zeit ein Praktikum.
+Das sollte man wirklich versuchen, denn diese Erfahrungen, die man dort macht, sind sehr, sehr viel wert, auch im Hinblick auf das spätere Arbeitsleben, egal ob Sie in die Industrie gehen oder wirklich in der Grundlagenforschung am Ende landen.
+Das gucken wir jetzt dann gleich noch an, die Unterschiede.
+Also in dieser Phase ist das wirklich eine Sache, die ich Ihnen absolut ans Herz legen kann und möchte.
+Und natürlich in den ersten drei bis fünf Jahren sollte man auch das Studentenleben genießen.
+Danach schließt sich in der Regel, wenn man dem klassischen Werdegang folgt, die Promotion mehr oder weniger direkt an.
+Und die Promotion ist das erste Mal, dass man wirklich eigenständig ein Thema bearbeitet.
+In der Studienzeit davor hat man in der Bachelor- und Masterarbeit in der Regel ein Thema für die Arbeit vorgegeben bekommen, wurde mehr oder minder vom Betreuer auch an die Hand genommen bei der Bearbeitung dieses Themas und hat dort sehr viel Hilfestellung, zumindest im Idealfall.
+Ja, ich spreche hier oft von den perfekten Situationen.
+Mir ist schon klar, dass das in der Realität nicht unbedingt gegeben ist.
+Und ja, in der Promotion ist man zum ersten Mal wirklich auf sich mehr oder weniger allein gestellt.
+Man hat natürlich einen Arbeitsgruppenleiter oder ähnliches, der einen unterstützt, aber trotzdem kann man dort zum ersten Mal wirklich eigene Fragen stellen und die eigenen Fragen auch versuchen zu beantworten mit den Mitteln, die man sich eben sucht, mit den Fähigkeiten, die man sich aneignet und die man vielleicht auch schon hat.
+In dieser Zeit besucht man in der Regel auch noch Vorlesungen, muss aber zumindest, wenn man an der Uni ist, auch in der Regel den Lehrbetrieb unterstützen und Studierende natürlich betreuen.
+Auch in dieser Phase bietet es sich an, einen Auslandsaufenthalt einzuschieben, entweder kürzer für ein paar Monate oder auch mal länger.
+Oder man macht die gesamte Promotion im Ausland, das kann man sich eben überlegen.
+Dort hat man sehr viel Freiheit.
+Und die Promotion dauert in der Regel so drei bis fünf Jahre, je nachdem, wo man das Ganze macht.
+An der Uni oder einem Forschungsinstitut, Grundlagenforschung bei mir zum Beispiel, ich war auf drei Jahre wirklich hart begrenzt.
+Danach gab es kein Geld mehr, aber wenn Sie zum Beispiel zu Fraunhofer gehen, machen Sie die Promotion neben Ihrer täglichen Arbeit und dort kann das dann auch gut und gerne fünf oder sogar sieben Jahre dauern.
+Einfach, weil die Promotion dort in der Freizeit stattfinden muss.
+Hat man einmal den Doktortitel, dann hat man damit die Berechtigung erworben, eigene Forschungsprojekte zu schreiben und versuchen, Gelder einzuwerben.
+Und das ist natürlich dann schon sehr viel Freiheit.
+Das macht auch sehr viel Spaß, einfach weil man wirklich eigene Ideen selbstständig verfolgen kann.
+Natürlich hat man immer den Kampf ums Geld und den Druck, dass man irgendwo sich selbst finanzieren muss und vielleicht auch seine Arbeitsgruppe, seine Mitarbeiter.
+Wenn Sie im Unikontext bleiben, müssen Sie dann in dem Bereich auch natürlich Lehre machen und für die Postdoc-Zeit bietet es sich natürlich auch an, ins Ausland zu gehen.
+So habe ich das auch selber gemacht.
+Also ich war während Studium und Promotion nicht im Ausland, aber bin dann danach als Postdoc für zwei Jahre in die USA gegangen, also durchaus auch für eine längere Zeit.
+Und als Postdoc geht es dann darum, wirklich eine eigene Arbeitsgruppe aufzubauen und eine eigene wissenschaftliche Reputation sich zu erarbeiten.
+Das heißt also, unabhängig zu werden von den Betreuern seiner Promotion und vielleicht auch vom Thema seiner Promotion.
+Das heißt also, hier kann man nochmal wirklich die Richtung wechseln, neue Wege gehen und sich vielleicht auch überlegen, was thematisch gut zu einem passt, was einen interessiert.
+Wenn alles glatt läuft, kommt danach, nach der Postdoc-Zeit, die Professur.
+Bei mir ging das zum Beispiel sehr schnell.
+Also ich war zwei Jahre Postdoc im Ausland und danach habe ich mich hier in Deutschland zurückbekommen auf die Professur hier in Hannover und habe die auch bekommen.
+Das läuft natürlich nicht immer so.
+Also es gibt durchaus Leute, die auch ihr ganzes Leben lang Postdoc sind.
+Sei es, weil ihnen das einfach Spaß macht, weil sie die Verantwortung einer Professur auch gar nicht wollen oder eben, weil es manchmal auch einfach nicht klappt.
+Je höher man hier kommt in diesem System, desto geringer ist natürlich die Anzahl der Stellen.
+Das ist ganz klar.
+Und zum Thema Habilitation vielleicht noch, weil es hier auch mit draufsteht, allerdings in Klammern.
+Heutzutage ist eine Habilitation nicht mehr zwingend erforderlich.
+Ich selbst bin auch nicht habilitiert.
+Man kann auch auf anderen Wegen sozusagen befähigt werden, zum Professor dann ernannt werden zu können.
+Also man muss nicht mehr diese Habilitationsschrift unbedingt machen.
+Gerade bei den Ingenieurswissenschaften reicht zum Beispiel auch eine eingehende Industrieerfahrung oder Ähnliches.
+
+Die Vorlesung behandelt den wissenschaftlichen Werdegang und wurde erstellt, um die Frage zu beantworten, wie man Wissenschaftler wird. Der erste Teil des Werdegangs ist die Studienphase, die in der Regel drei bis fünf Jahre nach dem Abitur dauert. Während dieser Zeit ist es wichtig, zusätzliche Erfahrungen zu sammeln, wie z.B. als Hiwi zu arbeiten, in Forschungsinstituten mitzuwirken, ein Auslandssemester zu absolvieren oder Praktika zu machen.
+
+Nach dem Studium folgt in der Regel die Promotion, bei der man eigenständig ein Forschungsthema bearbeitet. Während der Promotion ist man zwar von einem Betreuer unterstützt, aber größtenteils auf sich selbst gestellt. Es bietet sich auch hier an, einen Auslandsaufenthalt einzuplanen. Die Promotionsdauer variiert je nach Ort und Umständen, in der Regel dauert sie jedoch drei bis fünf Jahre.
+
+Mit dem Doktortitel erhält man die Berechtigung, eigene Forschungsprojekte zu leiten und Gelder einzuwerben. Nach der Promotion kann man als Postdoc arbeiten, um eine eigene Arbeitsgruppe aufzubauen und eine wissenschaftliche Reputation aufzubauen. Es besteht die Möglichkeit, in dieser Zeit auch im Ausland zu arbeiten.
+
+Wenn alles gut läuft, kann nach der Postdoc-Zeit die Professur folgen. Dies ist jedoch nicht immer der Fall, da es eine begrenzte Anzahl von Stellen gibt. Die Habilitation ist heutzutage nicht mehr zwingend erforderlich, um Professor zu werden. Es gibt alternative Wege, wie z.B. umfangreiche Industrieerfahrung.
+
+Es ist wichtig zu beachten, dass die individuellen Wege im wissenschaftlichen Werdegang variieren können und dass es keine festen Regeln gibt.
+
+Wissenschaftler kann man in einer ganzen Reihe von verschiedenen Kontexten sein.
+Also es sind nicht immer nur die klassischen Laborratten sozusagen mit weißem Kittel und Schutzbrille, wie man sie vielleicht so klischeehaft vor Augen hat, sondern es gibt ganz viele verschiedene Arten von Forschung und Wissenschaft.
+Ja, und die sind hier mal aufgelistet.
+Zum einen gibt es die Grundlagenforschung, dann kann man natürlich in der Industrie anwendungsnah forschen oder es gibt richtige Industrieforschung.
+Und an dieser Stelle sehen Sie zum ersten Mal das Diskussionssymbol, die kleine Gruppe von Männlein.
+Und da möchte ich Sie ermuntern, sich doch auch mal Gedanken zu machen, erst mal selbstständig, was denn eigentlich so die verschiedenen Kategorien bedeuten.
+Ja, ein paar Anregungen stehen da, also welche Fähigkeiten erfordern es vielleicht, welche Eigenkraften und so weiter.
+Also machen Sie hier eine kleine Pause und denken Sie einfach mal selbst für sich darüber nach, was es bedeutet.
+Wenn wir das getan haben, dann gibt es natürlich hier die Auflösung.
+Das was so auf meine Erfahrung und auf meinem Wissen basiert, also auf der einen Seite die Grundlagenforschung ist natürlich, wie der Name schon sagt, wirklich Forschung, die vielleicht in 15 bis 20 Jahren dann mal in der Anwendung mündet und dann relevant wird.
+Ja, also Grundlagenforschung sind wirklich physikalische, chemische Details bzw.
+Grundlagen.
+Durchgeführt wird diese oft bei Max-Planck-Instituten, Helmholtz oder auch bei der Leibniz-Gemeinschaft.
+Das sind so klassische Grundlagenforschungsinstitute und Grundlagenforschung ist prinzipiell projektfinanziert.
+Das heißt, also man hat immer Projekte, die drei bis fünf Jahre laufen, mehr drei Jahre als fünf.
+Und es gibt verschiedene öffentliche Geldgeber, wie zum Beispiel die Deutsche Forschungsgemeinschaft, die DFG oder auch die EU, das Bundesministerium für Bildung und Forschung, das BMBF, wo man dann entweder völlig frei einen Antrag einreichen kann, also zu einem Thema seiner Wahl, aber es gibt natürlich auch dedizierte Ausschreibungen, zum Beispiel für Industrie 4.
+0 oder Biomedizintechnik.
+Also da gibt es manchmal auch direkt Forschungs-Grants, die sehr themengebunden sind.
+Das hervorstechende Kennzeichen von Grundlagenforschung ist eigentlich schon, dass sie einen unbekannten Ausgang hat.
+Das heißt also, es ist ein Trip ins Ungewisse, man weiß nicht, ob da vielleicht was bei rauskommt, aber man versucht eben erstmal die Grundlage für ein neues Sensorkonzept oder für eine neue Anwendung dort zu entwickeln und zu legen.
+In der Natur der Grundlagenforschung liegt es dementsprechend auch, dass das oft frustrierend sein kann und man viele Durststrecken hat, in denen eben zum Beispiel nichts rauskommt, wo man einfach niederschmetternde Ergebnisse immer wieder hat im Labor und sich fragt, warum klappt das jetzt nicht und ach, da ist wieder was am Setup kaputt.
+Das kann sehr frustrierend sein, aber es gibt eben auch wieder die Lichtblicke, wenn dann doch mal der Durchbruch kommt und es doch mal funktioniert.
+Aber man muss ganz klar sagen, hier braucht es eine relativ hohe Frustrationstoleranz, eine sehr hohe Eigenständigkeit und die Fähigkeit zur Selbstorganisation und auf der anderen Seite hat man aber auch sehr viel Freiheit in der Einteilung der persönlichen Zeit.
+Gerade wenn Sie ein Forschungsprojekt haben, dann können Sie dort in diesen drei Jahren mehr oder minder machen, was Sie möchten.
+Sie können auch sich an irgendeinen Strand setzen und drei Jahre die Beine hochlegen.
+Sie müssen natürlich am Ende einen Projektbericht schreiben, da müssen Sie sich dann was Kreatives überlegen, was Sie dort reinschreiben, aber prinzipiell wird Ihnen dort keiner auf die Finger klopfen und sagen, hey, du musst aber jetzt das und das liefern.
+Das ist keine Grundlagenforschung.
+Grundlagenforschung lebt von Freiheit und Kreativität im Idealfall.
+Letzten Endes hat man aber doch einen gewissen Druck, denn nur wenn man Ergebnisse irgendwo produziert, kriegt man dann ja Veröffentlichungen, das heißt Reputation, Sichtbarkeit und man bekommt die Chance für Folgeanträge, weil die werden natürlich nur erfolgreich sein, wenn man also Ergebnisse liefern kann.
+Also die negative Seite hier ganz klar, man hat Finanzierungsdruck, klar man ist immer nur auf dem Projekt beschäftigt und man muss danach gucken, wie es weitergeht und dementsprechend gibt es auch eine hohe Konkurrenz zwischen den Wissenschaftlern.
+Auch wenn man in einem Team arbeitet, kann das dort schon mal zu Reibungen kommen und ja, ist es mitunter nicht unbedingt einfach, wenn alle um wenige Ressourcen dort konkurrieren.
+Und was noch dazu zu sagen ist, die Ausstattung, was jetzt die Geräte und so weiter betrifft und auch die finanzielle Grundausstattung, mal abgesehen von den Projekten, ist sehr unterschiedlich, wo man also hinkommt, an welchem Forschungsinstitut oder ist man vielleicht an der Uni, da ist die Grundausstattung generell ein bisschen schlechter.
+Ja, dann haben wir den zweiten Zweig, die angewandte beziehungsweise industrienahe Forschung.
+So was finden Sie ganz klassisch bei Fraunhofer.
+Ja, das ist so ein Hybrid, die haben natürlich zum einen Teile, wo Grundlagenforschung basierend auf DFG-Projekten gemacht wird, aber zum anderen haben die auch Industriekooperationen, wo eben ein Industriekunde kommt und ganz klar sagt, okay, dieses Thema wollen wir uns jetzt genauer angucken und da soll bitte im nächsten Jahr eine Anwendung her.
+Ja, ich habe sehr viele Jahre bei einem Fraunhofer gearbeitet und ich fand das immer sehr spannend, muss ich sagen, diese Interaktion mit der Industrie, einfach weil dort ganz anders gearbeitet wird, viel zielorientierter, aber auch mit sehr viel mehr Druck im Sinne von, dass Ergebnisse her müssen.
+Das heißt, man verliert also so ein bisschen diese Freiheit, ich sag mal, im Labor vor sich hin zu spielen, sondern man muss wirklich daran arbeiten, dass man dort Ergebnisse produziert und wirklich auch ein Produkt am Ende rauskommt.
+Und diese Art von Forschung erfordert natürlich eine gewisse Teamfähigkeit, das kriegt man nicht mehr alleine unbedingt hin und man muss damit leben, dass man also durch den Kunden entsprechend Druck bekommt und auch die Rahmenbedingungen mehr oder weniger vorgesetzt bekommt.
+Das heißt, man kann natürlich sagen, wir haben jetzt hier einen interessanten Aspekt entdeckt, da sagt der Kunde, nee, den können Sie jetzt aber nicht verfolgen, sondern Sie entwickeln jetzt bitte das Produkt zu Ende.
+Den interessanten Aspekt, da können Sie bitte einen DFG-Antrag schreiben und das dann nebenbei machen.
+Das muss man einfach sich dann immer klar machen, so läuft diese industrienahe Forschung.
+Fraunhofer Institute, ich bleibe bei diesem Beispiel, einfach weil ich es kenne, sind in der Regel sehr gut ausgestattet, aber es gibt natürlich auch hier den Finanzierungsdruck.
+Man muss entsprechend Revenue generieren, das heißt also durch Industrieprojekte zum Topf des Instituts sozusagen beitragen.
+Ansonsten ist die eigene Gruppe auch irgendwann nicht mehr finanziert.
+Der dritte Aspekt ist dann die Industrieforschung, also das, was die großen Unternehmen Bosch, Siemens, Google, Apple, wie sie alle heißen, machen.
+Das heißt, die haben ganz klare Marschrichtungen vorgegeben, ein ganz klares Ziel, eine Entwicklungsrichtung.
+Wir wollen jetzt Batterien bauen zum Beispiel für die neuesten Elektromobile und dann wird das gemacht.
+All hands on deck.
+Da kann man nicht noch irgendwie ein Grundlagenprojekt machen, dass man sagt, ach, ich möchte aber erst mal Kanalisatoren untersuchen.
+Das haben sie dann hoffentlich schon am Max Planck in der Grundlagenforschung gemacht.
+Hier geht es dann darum, okay, wir wollen jetzt diese fertige Batteriezelle bauen und das möglichst schnell, denn die Konkurrenz schläft nicht.
+Und hier sieht man also schon, da steigt der Druck nochmal eine Ecke an im Vergleich zum Fraunhofer.
+Man hat natürlich die straffe Konkurrenz durch andere Firmen und man hat relativ wenig Freiraum, aber dafür auch sehr, sehr viel Geld zur Verfügung, wenn das also ein Thema ist, was die Firma vorantreiben will.
+Also wenn Apple sagt, wir machen jetzt KI oder Elektromobilität, dann stecken die da auch richtig, richtig Geld rein und dann kann man auch was damit anfangen.
+Und wenn es dann eben heißt, sie müssen jetzt mal kurz Equipment für 100.
+000 Dollar anschaffen, ja, dann wird das eben gemacht.
+Während wenn sie da zurückgehen zur Grundlagenforschung, da schlägt ihr Chef die Hände über den Kopf zusammen und sagt, na so einfach geht das nicht, dann müssen sie jetzt erstmal einen Antrag schreiben und dann müssen wir gucken, ob wir vielleicht so ein Großgerät irgendwann anschaffen können.
+Ja, das sind zwei völlig verschiedene Welten.
+Und um das jetzt noch ein bisschen, ja, sich besser vorstellen zu können, kann man natürlich das Ganze mal mit diesen grauen Balken auf Folie Nummer 15, ist das dargestellt, sich überlegen, was also Minimum beziehungsweise Maximum bei verschiedenen Aspekten ist.
+Also wenn wir uns zum Beispiel mal das Gehalt angucken, dann werden Sie sehen, bei der Grundlagenforschung in diesem Bereich sind die Gehälter eher gering und das Einkommen steigt natürlich je angewandter, je mehr man Richtung Industrie mit der Forschung geht.
+Ja, in der Industrie ist das Geld.
+In der Grundlagenforschung haben Sie Ihre Stelle, TVL 13 als Wissenschaftler und das ist es eben.
+In der Industrie, da wird nicht unbedingt nach Tarif gezahlt, zumindest dann in höheren Positionen, da können Sie also auch gut und gerne 100.
+000 Euro Jahresgehalt haben als Gruppenleiter bei Borsch.
+Ja, die Jobsicherheit ist auch so ein Punkt.
+Die Jobsicherheit ist in der Grundlagenforschung eher sehr gering, das klang ja schon an, durch die Tatsache, dass man eben immer projektbefristet eingestellt wird in der Regel, es sei denn, man hat eine der wenigen Dauerstellen an Forschungsinstituten oder an der Uni, aber die werden auch immer geringer.
+Das heißt also, Jobsicherheit ist natürlich in der Industrie deutlich höher, zumindest solange es der Industrie gut geht und ja, solange die Firma lebt.
+Aber wenn es zu einem großen Unternehmen geht, ist die Chance relativ gut, dass Sie nach der Probezeit dann dauerhaft eingestellt werden können und wenn Sie wollen, dort bis zur Rente arbeiten können.
+Die Aufstiegschancen sind in der Industrie, würde ich jetzt aus meiner Erfahrung sagen, auch etwas höher als in der Grundlagenforschung.
+Hängt damit zusammen, dass es eben in der Forschung selber wenige Stellen gibt, gerade für die Gruppenleiter oder auch für die Professoren.
+Das habe ich in einem anderen Kommentar ja auch schon mal erwähnt.
+In die andere Richtung zeigt der Pfeil natürlich, wenn wir uns die Freiheit angucken.
+Ja, das habe ich gesagt, die Freiheit in der Grundlagenforschung ist enorm, sowohl was die Themenwahl als auch was die Zeiteinteilung betrifft.
+Dort können Sie mehr oder weniger komplett selbstständig nach Ihrem Gutdünken arbeiten.
+Sie können dort erst mittags aufschlagen in Ihrem Forschungsinstitut und dann dafür die halbe Nacht bleiben oder ja, das können Sie völlig frei machen.
+Während in der Industrie wird natürlich erwartet, dass Sie zu gewissen Zeiten im Büro sind und dann eben auch mit den Kollegen entsprechend arbeiten können.
+Teamarbeit ist so ein bisschen gemischt.
+Ich würde aber schon sagen, dass man in der Grundlagenforschung auch als Einzelkämpfer durchaus erfolgreich sein kann.
+Ja, der Wissenschaft vom Elfenbeinturm, der ist zwar selten, aber den gibt es.
+In der Industrieforschung heutzutage funktioniert eigentlich alles nur noch über große Teams.
+Also dort kann gar nicht ein Einzelner mehr alle Aspekte abdecken.
+Das funktioniert schlicht nicht.
+Wenn Sie gerne ein Paper schreiben und auf Konferenzen gehen, dann empfehle ich Ihnen, in der Grundlagenforschung zu bleiben, denn dort haben Sie diese Freiheit.
+Dort haben Sie überhaupt die Zeit, Paper zu schreiben.
+In der Industrie ist das eher so ein, sage ich mal, Lebensprodukt.
+Auch ich habe mich in der Industrie beworben und einen Stellenangebot bekommen und da war dann die Aussage, ja, Sie können schon selber forschen.
+Sie haben so 95 Prozent der Zeit geben wir Ihnen vor, was Sie zu machen haben und 5 Prozent Ihrer Zeit können Sie dann für eigene Dinge benutzen und dann können Sie ja abends mal ein Paper schreiben und so einmal im Jahr können Sie auf eine Konferenz.
+Also Sie sehen schon, in welche Richtung das dann geht.
+Was haben wir hier noch an Punkten? Genau, die Patente.
+Patente finden Sie eher in der Industrieforschung.
+Also wenn Sie gerne Patente schreiben und Erfindungen schützen lassen wollen, dann sollten Sie eher in die Industrie gehen, einfach weil das auch einen Haufen Geld kostet.
+In der Grundlagenforschung werden tendenziell nicht ganz so viele Patente produziert, hängt aber sehr vom Fachgebiet ab, möchte ich hier einschränkend hinzufügen.
+Ja, die letzten beiden Punkte, finanzielle Mittel und individuelle Konkurrenzdruck sind gegenläufig.
+Also der individuelle Konkurrenzdruck ist natürlich in der Grundlagenforschung extrem hoch, einfach aufgrund der Tatsache, dass die finanziellen Mittel begrenzt sind, dass eben viele Menschen, viele Wissenschaftler um knappe Projektgelder bei den Förderorganisationen konkurrieren und ja, in der Industrieforschung ist das ein bisschen weniger.
+Dort hat ja jeder seine Stelle, das heißt also man muss nicht immer um die eigene Position unbedingt kämpfen.
+Man kämpft vielleicht um den Aufstieg, aber man kämpft nicht darum, was in drei Jahren ist und ob man dann überhaupt noch einen Job hat.
+Also zumindest in der Regel ist das so.
+Das heißt, da ist der individuelle Konkurrenzdruck schon geringer.
+Es gibt natürlich immer mal Ausnahmen, sag ich mal, wo dann doch um die Förderung gekämpft wird, ja mit den Kollegen, aber das ist was anderes, als dieser Druck überhaupt eine Eigenstelle zu haben.
+Und die finanziellen Mittel generell, die Ausstattung ist natürlich in der Industrieforschung deutlich besser.
+
+Bei der Diskussion um wissenschaftliche Integrität und Redlichkeit muss man sich erstmal darüber im Klaren sein, welche Ansprüche eigentlich an Forschung bzw. an den Wissenschaftler selbst gestellt werden. Ja, also an die Forschung selbst, die sollte natürlich neutral und wertfrei sein und sie muss Wert auf Reproduzierbarkeit legen. Das heißt, alle Ergebnisse, die generiert werden, die müssen reproduzierbar sein, ansonsten haben sie keinen Wert. Und dementsprechend muss die Forschung natürlich auch faktenbasiert und zuverlässig bzw. sachlich sein. Also persönliche Eitelkeiten, Karrierestreben oder andere Begehrlichkeiten, sei es bezüglich finanzieller Mittel, sei es bezüglich Geräteausstattung, was auch immer, sollten eigentlich niemals die Grundlage für Forschung sein. In der Realität, das können Sie sich vorstellen, sieht das immer ein bisschen anders aus, aber wir betrachten hier einfach mal den Idealfall. Und da geht es also darum, Wissenschaft sucht immer die Wahrheit und sucht nach einer Erklärung, die eben möglichst sachlich und objektiv am Ende ausfallen sollte. Auf der anderen Seite steht natürlich der Wissenschaftler selber auch unter Druck, das kam ja schon in den vorherigen Folien auch heraus, also zum einen natürlich Finanzierungsdruck. Das heißt, irgendwoher muss man das Geld bekommen für die Forschung, gegebenenfalls auch das Geld für die eigene Stelle und das bekommt man also, indem man publiziert erfolgreiche Forschung macht, erfolgreich Anträge einwirbt. Und das führt letzten Endes auch immer dazu, dass man unter einem gewissen Zeitdruck steht, denn, ich habe es schon gesagt, Projekte sind begrenzt, drei Jahre, fünf Jahre und danach muss man sehen, was wird. Und das ist also ein Anspruch oder ein Druck, der auf diesen Wissenschaftler ganz klar lastet, auf der anderen Seite hat man natürlich immer oder oft einen Chef drüber, einen Betreuer oder auch die Gesamtorganisation, die eben darauf gucken, wie ist der wissenschaftliche Output. Die Geldgeber schauen vielleicht und verlangen eben auch Reports und entsprechende Statusberichte und natürlich hat man in der Regel als Wissenschaftler auch eine entsprechende Mehrfachbelastung. Also, wenn man in der glücklichen Lage ist, dass man sich wirklich an einem Forschungsinstitut befindet, wo man sich komplett austoben kann, ist das eine Sache, aber natürlich hat man oft zumindest noch Verwaltung und gerade an der Uni hat man eben auch zusätzlich die Lehrbelastung, die Betreuung von studentischen Arbeiten. Also, man kann sich eigentlich nie allein auf die Wissenschaft konzentrieren. Ja, und das führt natürlich dazu, dass sich wissenschaftliches Fehlverhalten ergibt. Das passiert durchaus manchmal auch unbewusst, mehr oder weniger, da rutscht man einfach rein, aber andere Sachen sind natürlich wirklich bewusstes Fehlverhalten und wenn Sie sich dazu Seite 3 anschauen, dann können Sie dort sehen, dass es prinzipiell zwei verschiedene Formen von wissenschaftlichem Fehlverhalten gibt, die man unterscheidet. Zum einen das Verhalten, was, ich sag's jetzt mal so, nicht ganz so schlimm ist, nämlich das auf der rechten Seite, die Regelverstöße. Das ist sozusagen, ja, wenn man die Regeln guter wissenschaftlicher Praxis nicht einhält, also ein bisschen Mist macht oder vielleicht eine Abkürzung nimmt, aber, und das ist der wichtige Punkt, die Glaubwürdigkeit der Ergebnisse, die ist davon nicht beeinflusst. Auf der anderen Seite, und das ist die weitaus schlimmere Form, steht natürlich das Fehlverhalten, was letzten Endes den wissenschaftlichen Erkenntniswert in Frage stellt. Das heißt also, du wirst Ergebnisse produziert, bei denen man nicht mehr sagen kann, sind die jetzt wirklich noch valide, kann man diesen Ergebnissen trauen, ja? Und da gibt es eine ganze Reihe von Dingen, die da runterfallen. Die sind hier aufgelistet, zum Beispiel eben, dass man Daten fälscht, dass man sie schlichtweg erfindet, bewusst manipuliert und das nicht benennt oder auch, dass man bewusst, und hier liegt die Betonung wirklich auf bewusst, schlampig und nachlässig arbeitet, also Dokumentation schleifen lässt, One-Time-Shots publiziert, wo man also nur einmal ein Ergebnis hatte, es niemals reproduzieren konnte und so weiter. Na, all das stellt sozusagen am Ende die Glaubwürdigkeit der wissenschaftlichen Erkenntnis absolut in Frage. Das andere auf der rechten Seite ist natürlich auch falsch, ja? Es schädigt die Kollegen, es schädigt das Ansehen der Wissenschaft an sich, aber die Daten, die Erkenntnis wird davon erstmal nicht beeinflusst und darunter fällt eben, wenn ich jemanden beauftrage für mich zu schreiben, ja, Plakate, Ghostwriting mache, wenn ich plagiiere, auch wenn ich Ideen stehle, das ist natürlich, wie gesagt, sehr unfair gegenüber den anderen, aber das beeinträchtigt nicht die wissenschaftliche Erkenntnis oder auch Zweckentfremdung von Forschungsmitteln. All diese Dinge, die dort aufgelistet sind.
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: German
+[00:00.000 --> 00:04.600]  Jetzt kann man sich natürlich auf Ursachen super begeben, für dieses wissenschaftliche
+[00:04.600 --> 00:05.600]  Fehlverhalten.
+[00:05.600 --> 00:10.120]  Das heißt, also was triggert es überhaupt, dass sich in die Versuchung kommen, Messdaten zu
+[00:10.120 --> 00:13.120]  fälschen oder zu bloggerieren oder sonst dickes.
+[00:13.120 --> 00:17.920]  Und die Ursachen liegen daran, was wir auf den vorherigen Folgen gesehen haben, nämlich
+[00:17.920 --> 00:24.720]  dem Konkurrenzdruck, der oft auf Wissenschaftlern lastet, unteren anderen auch der Publikationszwang
+[00:24.720 --> 00:30.200]  und eben der Zwang für der Gelder einzuwerben, beziehungsweise den Geld geben, bei lauter
+[00:30.200 --> 00:33.840]  zu halten, indem man eben regelmäßig Zwischenergebnisse liefert und die sollten doch bitte
+[00:33.840 --> 00:34.840]  positiv sein.
+[00:34.840 --> 00:40.640]  Negative Zwischenergebnisse sind einfach nicht so gern gesehen und dieser Druck kann schon
+[00:40.640 --> 00:45.960]  so einer gewissen Verzweiflung führen, der eben dann letzten Endes zu diesen Fehlverhalten,
+[00:45.960 --> 00:49.240]  wie wir sie gerade gesehen haben, sei daseits führt.
+[00:49.240 --> 00:54.520]  Und jetzt ist es so, Fehlverhalten wird tatsächlich gar nicht so oft aufgedeckt.
+[00:55.520 --> 01:03.720]  Das liegt daran, dass gerade bei Bahnbrechen entdeckungen Experimenten mir auch immer, da wird
+[01:03.720 --> 01:08.760]  das Experiment veröffentlicht, die Fachwelt stauen, der leere vielleicht auch, aber es fährt
+[01:08.760 --> 01:12.560]  sich eigentlich keiner darum, ob dieses Ergebnis reproduziert werden kann und ob es auch
+[01:12.560 --> 01:13.560]  reproduziert wurde.
+[01:13.560 --> 01:21.320]  Denn prinzipiell ist die Wissenschafts- und Publicationswelt leider so gestrickt, dass die Reproduktion
+[01:21.320 --> 01:25.000]  von Ergebnissen oftmals keine Publication wert ist.
+[01:25.000 --> 01:31.760]  Das ist ein ganz großes Problem, der Wissenschafts-Komunity, das ist auch bekannt und daran wird
+[01:31.760 --> 01:35.960]  man auch in Zukunft wirklich arbeiten müssen, aber aktuell ist es wie gesagt so, dass
+[01:35.960 --> 01:40.440]  man also kein Blumentopf gewinnen kann, um es mal so Salopp auszudrücken, wenn man
+[01:40.440 --> 01:42.920]  ein Ergebnis reproduziert und das versucht zu veröffentlichen.
+[01:42.920 --> 01:47.000]  Da muss man schon lange suchen, bis man ein Journal findet, was das mitmacht.
+[01:48.000 --> 01:55.600]  Der zweite Grund, der ebenfalls sehr wichtig ist, ist, die wissenschaftlichen Veröffentlichungen
+[01:55.600 --> 02:00.080]  leben von einem peer-review-System, das heißt also, wenn ich was veröffentlichen möchte,
+[02:00.080 --> 02:04.400]  dann geht es mal nur skript an das Journal und die schicken, das raus zu entsprechenden
+[02:04.400 --> 02:07.680]  Reviewern, das sollten Experten auf dem jeweiligen Gebiet sein.
+[02:07.680 --> 02:13.720]  Jetzt ist es so, dass man als Wissenschaftler sehr, sehr viele dieser Review an Fragen bekommt
+[02:13.720 --> 02:20.120]  und dann kann man sich eben aussuchen, wie viele man beantworten möchte und ja manche
+[02:20.120 --> 02:25.480]  beantworten sehr viele, aber in der dem entsprechend nicht zu tiefgründigen Form würde ich
+[02:25.480 --> 02:26.480]  mal sagen.
+[02:26.480 --> 02:32.040]  Also einfach, ja, die Review sind teilweise schlambisch, man ist überlastet als Review und
+[02:32.040 --> 02:36.920]  hat gar nicht die Zeit wirklich im Detail, die Messergebene sich anzugucken oder die
+[02:36.920 --> 02:39.520]  Experimentellenergebnisse und das Ganze auch zu hinterfragen.
+[02:39.520 --> 02:44.840]  Man hat aber überhaupt keine Zeit, mal angrenzen Literatur zu dem Manuskript zu recherchieren
+[02:44.840 --> 02:45.840]  oder ähnliches.
+[02:45.840 --> 02:52.760]  Das heißt, das Vertrauen in den peer-review-Prozess ist zwar sehr groß, aber es ist nicht unbedingt
+[02:52.760 --> 02:53.760]  gerechtfertigt.
+[02:53.760 --> 02:57.960]  Also das ist ein Prozess, der steht auch immer wieder auf dem Prüfstand und wie ich finde
+[02:57.960 --> 02:59.360]  auch sehr zurecht.
+[02:59.360 --> 03:06.440]  Dann ist es auch noch so, dass gerade an großen Unis oder an Forschungsinstituten natürlich
+[03:06.440 --> 03:09.800]  die Reputation an den Forschungsergebnissen hängt.
+[03:09.800 --> 03:13.400]  Das heißt, wenn sich dort rausstellt, wenn publik wird, dass ein Wissenschaftler oder
+[03:13.400 --> 03:19.240]  eine ganze Gruppe Daten gefälscht haben, dann ist das extrem rufschädigend und da versucht
+[03:19.240 --> 03:20.640]  man natürlich zu vermeiden.
+[03:20.640 --> 03:26.760]  Das heißt, das Pferverhalten wird entweder unter den Teppich gekehrt, es wird weggeguckt
+[03:26.760 --> 03:31.000]  oder beziehungsweise ist, wird zumindest nicht öffentlich bekanntgemacht und irgendeine
+[03:31.000 --> 03:32.000]  Form diskutiert.
+[03:32.000 --> 03:36.400]  Klar, die ganz spektakulären Fälle, die auch später hier auf den Fohlenmal mit auftauchen,
+[03:36.680 --> 03:40.960]  die hat man natürlich mitbekommen, aber es passiert dort eben auch noch viel, sage ich
+[03:40.960 --> 03:43.480]  mal, unter dem Deckmandel der Verschwiegenheit.
+[03:43.480 --> 03:45.040]  Das muss man sich einfach bewusst machen.
+[03:45.040 --> 03:51.560]  Und gerade auch, wenn es um das Aufdecken von Pferverhalten geht, hat man natürlich
+[03:51.560 --> 03:56.880]  als Wissenschaftler oft auch Angst um seinen Arbeitsplatz, beziehungsweise um seine Karriere,
+[03:56.880 --> 04:00.200]  denn wenn man so ein bisschen als Wissibler da steht, vielleicht weil man eben auch noch
+[04:00.200 --> 04:04.480]  sagt, okay, mein Chef, fälscht hier Daten, was mache ich jetzt damit?
+[04:04.480 --> 04:09.920]  Und dann folgt man vielleicht mal seinem Gewissen und prangert das an, das kann natürlich
+[04:09.920 --> 04:12.880]  dann ganz schnell negative personische Konsequenzen nach sich ziehen.
+[04:12.880 --> 04:18.680]  Das ist auch immer eine Überlegung, die gerade bei abhängigen Personen sei es Doktoranten
+[04:18.680 --> 04:22.480]  oder es kann auch Postdoc sein, die eben von einem Proversor abhängen, natürlich eine
+[04:22.480 --> 04:23.480]  Rolle spielen.
+[04:23.480 --> 04:31.500]  Und andere Gründe sind in der Aufgelist, also falsch stand eine Solidarität, die auftragsvorsche
+[04:31.500 --> 04:34.100]  und wo die Geldgeber zum Beispiel enthäuscht werden.
+[04:34.100 --> 04:41.020]  Wenn wissenschaftliches Pferverhalten aufgedeckt wird, dann hat das natürlich entsprechende
+[04:41.020 --> 04:43.500]  Konsequenzen, die sie können recht vielfältig sein.
+[04:43.500 --> 04:50.200]  Das reicht also von dem kleinen Klapp auf die Finger, sage ich mal, ist er lob, wenn also
+[04:50.200 --> 04:51.500]  jetzt Geld gestrichen werden.
+[04:51.500 --> 04:54.700]  Das kann natürlich auch richtig wehtun, nämlich wenn die Geld dann zurückgezahlt werden
+[04:54.700 --> 04:55.700]  müssen.
+[04:56.700 --> 05:02.460]  Wenn man nachweis ich in seiner Abschlussarbeit fälscht, Promotionen, Masterarbeit, wir
+[05:02.460 --> 05:07.460]  immer kann das bis zum Aberkennendes Titel zu führen, das wird natürlich bei Master- oder
+[05:07.460 --> 05:10.260]  Bachelorarbeit kaum so verfolgt werden wie bei einer Promotion.
+[05:10.260 --> 05:17.340]  Da haben wir denke ich alle schon entsprechende Politiker auch stolpern sehen und es kann
+[05:17.340 --> 05:21.180]  auch dazu führen, dass sie bei Verlagen oder bei Geldgeber und auf einer schwarzen
+[05:21.180 --> 05:25.740]  Siste landen, wo dann ganz einfach gesagt wird, oh ja, dieser Name, okay, der hat sich
+[05:25.740 --> 05:30.100]  schon mal aus der Schulden kommen lassen, den lehnen wir gleich ab, das kann passieren.
+[05:30.100 --> 05:35.740]  Und das Ganze hängt natürlich immer davon ab, wie schlimm die Folgen am Ende sind, wie
+[05:35.740 --> 05:38.780]  schwer das vergehen war und wie groß die Reichweite war.
+[05:38.780 --> 05:43.020]  Da scheit man wieder zwischen diesen Regel verstößen und die anstafte Beschädigungen der
+[05:43.020 --> 05:45.020]  wissenschaftlichen Klappwürdigkeit.
+[05:45.020 --> 05:50.900]  Auch der Kontext spielt eine Rolle, das heißt wurde das Ganze also im akademischen Bereich
+[05:50.900 --> 05:56.180]  gemacht oder im Studium, vielleicht auch auf unwissenheit, weil man nicht weiß wie man richtig
+[05:56.180 --> 06:01.260]  zitiert oder passiert das eben in der freien Wissenschaft, vielleicht wenn man schon ein
+[06:01.260 --> 06:07.060]  Doktor-Titel hat und auch die entsprechende Erfahrung und das Hintergrundwesen mitbringen müsste,
+[06:07.060 --> 06:08.900]  um sich wissenschaftlich korrekt zu verhalten.
+[06:08.900 --> 06:15.740]  Das Ganze wurde noch mal ein bisschen systematisiert, diese Klassifikationen der Betrugsform
+[06:15.740 --> 06:22.020]  auf Seite 6, die stammten aus von 1830, aber das gilt heute tatsächlich auch noch so,
+[06:22.020 --> 06:27.300]  also man kann diese Beschädigungen in drei Teile einteilen, nämlich in Forging, Trimming
+[06:27.300 --> 06:28.300]  und Cooking.
+[06:28.300 --> 06:33.380]  Die Definitionen finden Sie da entsprechend auf der Folie, Sie können auch gerne in die
+[06:33.380 --> 06:37.420]  Originalarbeit von Charles Babbage aus dem Jahr 1830 mal reinschauen.
+Jetzt kann man sich natürlich auf Ursachen super begeben, für dieses wissenschaftliche
+Fehlverhalten.
+Das heißt, also was triggert es überhaupt, dass sich in die Versuchung kommen, Messdaten zu
+fälschen oder zu bloggerieren oder sonst dickes.
+Und die Ursachen liegen daran, was wir auf den vorherigen Folgen gesehen haben, nämlich
+dem Konkurrenzdruck, der oft auf Wissenschaftlern lastet, unteren anderen auch der Publikationszwang
+und eben der Zwang für der Gelder einzuwerben, beziehungsweise den Geld geben, bei lauter
+zu halten, indem man eben regelmäßig Zwischenergebnisse liefert und die sollten doch bitte
+positiv sein.
+Negative Zwischenergebnisse sind einfach nicht so gern gesehen und dieser Druck kann schon
+so einer gewissen Verzweiflung führen, der eben dann letzten Endes zu diesen Fehlverhalten,
+wie wir sie gerade gesehen haben, sei daseits führt.
+Und jetzt ist es so, Fehlverhalten wird tatsächlich gar nicht so oft aufgedeckt.
+Das liegt daran, dass gerade bei Bahnbrechen entdeckungen Experimenten mir auch immer, da wird
+das Experiment veröffentlicht, die Fachwelt stauen, der leere vielleicht auch, aber es fährt
+sich eigentlich keiner darum, ob dieses Ergebnis reproduziert werden kann und ob es auch
+reproduziert wurde.
+Denn prinzipiell ist die Wissenschafts- und Publicationswelt leider so gestrickt, dass die Reproduktion
+von Ergebnissen oftmals keine Publication wert ist.
+Das ist ein ganz großes Problem, der Wissenschafts-Komunity, das ist auch bekannt und daran wird
+man auch in Zukunft wirklich arbeiten müssen, aber aktuell ist es wie gesagt so, dass
+man also kein Blumentopf gewinnen kann, um es mal so Salopp auszudrücken, wenn man
+ein Ergebnis reproduziert und das versucht zu veröffentlichen.
+Da muss man schon lange suchen, bis man ein Journal findet, was das mitmacht.
+Der zweite Grund, der ebenfalls sehr wichtig ist, ist, die wissenschaftlichen Veröffentlichungen
+leben von einem peer-review-System, das heißt also, wenn ich was veröffentlichen möchte,
+dann geht es mal nur skript an das Journal und die schicken, das raus zu entsprechenden
+Reviewern, das sollten Experten auf dem jeweiligen Gebiet sein.
+Jetzt ist es so, dass man als Wissenschaftler sehr, sehr viele dieser Review an Fragen bekommt
+und dann kann man sich eben aussuchen, wie viele man beantworten möchte und ja manche
+beantworten sehr viele, aber in der dem entsprechend nicht zu tiefgründigen Form würde ich
+mal sagen.
+Also einfach, ja, die Review sind teilweise schlambisch, man ist überlastet als Review und
+hat gar nicht die Zeit wirklich im Detail, die Messergebene sich anzugucken oder die
+Experimentellenergebnisse und das Ganze auch zu hinterfragen.
+Man hat aber überhaupt keine Zeit, mal angrenzen Literatur zu dem Manuskript zu recherchieren
+oder ähnliches.
+Das heißt, das Vertrauen in den peer-review-Prozess ist zwar sehr groß, aber es ist nicht unbedingt
+gerechtfertigt.
+Also das ist ein Prozess, der steht auch immer wieder auf dem Prüfstand und wie ich finde
+auch sehr zurecht.
+Dann ist es auch noch so, dass gerade an großen Unis oder an Forschungsinstituten natürlich
+die Reputation an den Forschungsergebnissen hängt.
+Das heißt, wenn sich dort rausstellt, wenn publik wird, dass ein Wissenschaftler oder
+eine ganze Gruppe Daten gefälscht haben, dann ist das extrem rufschädigend und da versucht
+man natürlich zu vermeiden.
+Das heißt, das Pferverhalten wird entweder unter den Teppich gekehrt, es wird weggeguckt
+oder beziehungsweise ist, wird zumindest nicht öffentlich bekanntgemacht und irgendeine
+Form diskutiert.
+Klar, die ganz spektakulären Fälle, die auch später hier auf den Fohlenmal mit auftauchen,
+die hat man natürlich mitbekommen, aber es passiert dort eben auch noch viel, sage ich
+mal, unter dem Deckmandel der Verschwiegenheit.
+Das muss man sich einfach bewusst machen.
+Und gerade auch, wenn es um das Aufdecken von Pferverhalten geht, hat man natürlich
+als Wissenschaftler oft auch Angst um seinen Arbeitsplatz, beziehungsweise um seine Karriere,
+denn wenn man so ein bisschen als Wissibler da steht, vielleicht weil man eben auch noch
+sagt, okay, mein Chef, fälscht hier Daten, was mache ich jetzt damit?
+Und dann folgt man vielleicht mal seinem Gewissen und prangert das an, das kann natürlich
+dann ganz schnell negative personische Konsequenzen nach sich ziehen.
+Das ist auch immer eine Überlegung, die gerade bei abhängigen Personen sei es Doktoranten
+oder es kann auch Postdoc sein, die eben von einem Proversor abhängen, natürlich eine
+Rolle spielen.
+Und andere Gründe sind in der Aufgelist, also falsch stand eine Solidarität, die auftragsvorsche
+und wo die Geldgeber zum Beispiel enthäuscht werden.
+Wenn wissenschaftliches Pferverhalten aufgedeckt wird, dann hat das natürlich entsprechende
+Konsequenzen, die sie können recht vielfältig sein.
+Das reicht also von dem kleinen Klapp auf die Finger, sage ich mal, ist er lob, wenn also
+jetzt Geld gestrichen werden.
+Das kann natürlich auch richtig wehtun, nämlich wenn die Geld dann zurückgezahlt werden
+müssen.
+Wenn man nachweis ich in seiner Abschlussarbeit fälscht, Promotionen, Masterarbeit, wir
+immer kann das bis zum Aberkennendes Titel zu führen, das wird natürlich bei Master- oder
+Bachelorarbeit kaum so verfolgt werden wie bei einer Promotion.
+Da haben wir denke ich alle schon entsprechende Politiker auch stolpern sehen und es kann
+auch dazu führen, dass sie bei Verlagen oder bei Geldgeber und auf einer schwarzen
+Siste landen, wo dann ganz einfach gesagt wird, oh ja, dieser Name, okay, der hat sich
+schon mal aus der Schulden kommen lassen, den lehnen wir gleich ab, das kann passieren.
+Und das Ganze hängt natürlich immer davon ab, wie schlimm die Folgen am Ende sind, wie
+schwer das vergehen war und wie groß die Reichweite war.
+Da scheit man wieder zwischen diesen Regel verstößen und die anstafte Beschädigungen der
+wissenschaftlichen Klappwürdigkeit.
+Auch der Kontext spielt eine Rolle, das heißt wurde das Ganze also im akademischen Bereich
+gemacht oder im Studium, vielleicht auch auf unwissenheit, weil man nicht weiß wie man richtig
+zitiert oder passiert das eben in der freien Wissenschaft, vielleicht wenn man schon ein
+Doktor-Titel hat und auch die entsprechende Erfahrung und das Hintergrundwesen mitbringen müsste,
+um sich wissenschaftlich korrekt zu verhalten.
+Das Ganze wurde noch mal ein bisschen systematisiert, diese Klassifikationen der Betrugsform
+auf Seite 6, die stammten aus von 1830, aber das gilt heute tatsächlich auch noch so,
+also man kann diese Beschädigungen in drei Teile einteilen, nämlich in Forging, Trimming
+und Cooking.
+Die Definitionen finden Sie da entsprechend auf der Folie, Sie können auch gerne in die
+Originalarbeit von Charles Babbage aus dem Jahr 1830 mal reinschauen.
+Auf den Folien 7 bis 11 finden Sie jetzt einige Beispiele für Felschungen und den
+wissenschaftlichen Veröffentlichungen. Die können Sie sich einfach mal anschauen und sich dann
+zunächst selber Gedanken machen, was daran jetzt gefälscht sein könnte und dann können Sie sich
+dazu auch noch anschauen, welche entsprechenden Konsequenzen das hatte, wie es man überhaupt
+drauf gekommen ist und was ist danach passiert. Also ganz häufig, wie man hier so
+üblich es mir sieht, ist natürlich, dass man irgendwo Daten manipuliert, das heißt also was
+Ausschneide oder was einfügt, was dupliciziert oder vorhandene Daten eben nochmal manipuliert
+und dann als eine neue Messung verkauft. Das sind einfach so typische Dinge, die man dann
+ja veröffentlicht und was auch durch den Review-Prozess durchgeht. Und das zeigt wieder so ein
+bisschen, dass das der Viewer also einfach auch nicht die Zeit hat, dort im Detail genau hinzukogen.
+Besonders interessant finde ich natürlich auch das erste Beispiel, das kommt von der
+University of Utah, da wo ich selbst gearbeitet habe. Das war allerdings kein umeiner
+Studenten, sondern das war vor meiner Zeit. Nichtsdestotrotze ja, diese Felschung, die ist mal genau
+am Hinsehen gar nicht so gut gemacht. Aber es ist weder den Betreuer aufgefallen, noch ist es am
+Ende den Reviewen aufgefallen und erst nach der Veröffentlichung hat sich jemals dieses
+Peppermahlgenauer angeguckt und dann einen Tipp in einem Wissenschaftsblock veröffentlicht. Also
+da sieht man mal, wie weit oder wie weit die Kreise das Ganze ziehen kann. All das zieht natürlich
+die Frage direkt nach sich. Was ist denn nun eigentlich erlaubt, bei der Datenbearbeitung?
+Für die Datenbearbeitung kann man erstmal festhalten. Es ist prinzipiell sehr viel erlaubt,
+wenn man es transparent kommuniziert und die Schritte entsprechend benennt, die man durchgeführt hat.
+Dann ist nichts dabei, wenn man seine Daten entsprechend bearbeitet, wie gesagt, es muss transparent sein.
+Und was sie als zum Beispiel tun können, ist auch vorher zwölf genannt, wenn man Farbe, Kontrast oder
+Hälligkeit verändert. Das heißt einfach, um gewisse Features sozusagen in dem Bild deutlicher sichtbar
+zu machen. Allerdings muss man natürlich darauf achten, dass man keine Details verschwinden lässt,
+bzw. wenn man das tut, dann muss man darauf hinweisen und die Bedeutung darauf nicht verfälscht werden.
+Also in dem schlechten Beispiel ist es hier mal so gezeigt, okay, da wurde der Kontrast einfach so
+stark erhöht, dass offensichtlich weniger Zellen auf dem Bild zu sehen sind, rechts unten,
+als es im Original der Fall ist. Und das kann natürlich zu freisch entschlossen führen, wenn man
+dann nämlich zum Beispiel diese Zellen zählt und darauf basiert eine Entschlussfolgerung zieht.
+Das ist ein feiner Grad, man kann das machen, aber man muss eben gucken, inwieweit ist die Aussage
+am Ende betrifft. Man kann natürlich auch mehrere Bilder kombinieren, das ist auch kein
+Problem, solange man eben klar macht, dass es sich dabei wirklich um zwei Bilder handelt und man
+nicht versucht zu suggerieren oder man nicht dem Laser oder dem Betrachter bei einem kurzen Blick
+suggeriert, okay, das ist ein, das selber Bild. Und da hatten wir so komischer Halbzellen auf dem
+Bild. Sondern es muss ganz klar sein, ich kann dort Bild 1, Bild 2 beschriften, ich kann das
+mir so eine Trennchen machen, aber es muss ganz klar erkennen, was sein, okay, das sind zwei
+verschiedene Bilder, die ich hier warum auch immer kombiniert habe. Man kann natürlich auch
+insetz machen, das heißt, Vergrößerungen, klar, manchmal möchte man einen Details sichtbar
+machen und dann macht man das eben mit so einer Box, mit einem Loop um Symbol, wie auch immer,
+um ganz klar zu machen, okay, das ist jetzt eine Vergrößerung von einem gewissen Ausschnitt. Und
+ganz wichtig, das gilt generell bei Bildern, man muss immer einen Maßbarken haben, das klar,
+als wie groß ist das Feature, was hier gezeigt wird. Das sind jetzt einfach nur auch Anregungen,
+möchte ich hier dazusagen, gerade was die Darstellung von Messdaten betrifft, wenn wir uns das
+nochmal intensiv angucken, wenn es dann um wissenschaftliche Veröffentlichungen geht. Und ja, dann die
+Darstellung von Daten. Genau, die allgemeinen Hinweise, die habe ich auch schon so ein bisschen
+anklingen lassen, man sollte auf jeden Fall immer ganz, ganz wichtig die Original Dateien aufbewahren.
+Ja, das, womit sie angefangen haben, die Rohdaten, jedem sie dient jeden Fall auf. Manche schon
+es fordern das mittlerweile auch, dass man diese Rohdaten wirklich zur Verfügung stellen muss,
+entweder mit Veröffentlichung des Manus-Grips, da muss es auf einen Sorge beim Journal hochgeladen werden
+oder man und muss zumindest unterschreiben und bestätigen, dass man die Daten vorhält und dass
+sie bei Anfrage zur Verfügung gestellt werden und zwar die unbearbeiteten Rohdaten. Das ist
+ganz, ganz wichtig, das ist auch für ein Selbst. Natürlich wichtig, also wenn man ein bisschen weiter
+denkt, denn sich froh, sie würden eine Doktorarbeit schreiben, dann sollten sie natürlich auch
+ihren Rohdaten immer gut aufheben, weil wenn sie ein Experiment am Anfang im Promotion machen und
+dann nach drei bis fünf Jahren das das amtschreiben müssen, dann wollen sie sich auch mal noch
+Zugriff auf die ursprünglichen Daten haben und nicht nur auf irgendeinen Bearbeitet das Bild, was
+sie vielleicht irgendwo veröffentlicht haben. Aber das ist wichtig. Und dann gilt natürlich, was ich
+schon sagt, dass man alle Veränderungen, die man macht, korrekt, dokumentieren und transparent
+angeben sollte. Das gehört nicht unbedingt in eine Veröffentlichung, das gehört dann oft in
+einen Anhang, in Supplement oder auch in einem Material-Section, aber es muss irgendwo nachvollziehbar sein.
+Sowohl für einen Selbst, wenn man jetzt nur selber seine Daten bearbeitet, als auch wenn es sich dann um eine
+Veröffentlichung handelt.
+
+
+Auf den Fragen vorhin finden Sie zunächst einige Beispiele dazu, die wo Wissenschaft des Vierverhalten in den letzten Jahren Öffentlichkeitswirks haben mehr oder weniger aufgedeckt wurde.
+Das ist zum einen natürlich das Fählchen von Daten, was dort ganz massiv durchgeführt würde.
+Zum anderen hat man eben auch Daten manipuliert, beziehungsweise mit manipulierten Forschungsgelder beantragt, die dann natürlich zurückgezahlt werden mussten und was auch in der Wissenschaft des Vierverhalten ganz grafält ist der Fall aus dem Max Planck-Institut von Frau Dr.
+Singer Warrers, die also ihr Team und Mitglieder ihres Teams ganz stark gemobt und unterdrückt hat und in den Fähigkeiten abgewehrt hat.
+Auch das ist Vierverhalten vielleicht nicht so sehr im wissenschaftlichen Sinne, aber zumindest als Führungspersonlichkeit.
+Und wissenschaftliches Vierverhalten wird es dann, wenn eben Forderung an das Team auch gestellt, am ließen dem Fall war, Hypothezenkonform zu arbeiten, d.
+h.
+also die Ergebnisse so zu treten, dass es also zur entsprechenden Hypothese passt.
+Und diese Fälle können sich einfach mal in Ruhe anschauen, es gibt eure entsprechende Quellen dazu, so man sich das genau anschauen kann.
+Wir gehen jetzt hier weiter und schauen uns als nächstes noch mal die Regelverstöße an.
+Regelverstöße waren schon mal auf den vorherigen Fohlen aufgelistet, darunter fällt zum Beispiel das Plagiat oder das Ghostriding, dazu gibt es entsprechende Definitionen, die auch auf den Fohlen aufgelistet sind, also Plagiat heißt eben, dass ich irgendwo abgeschrieben habe, ohne die Quelle zu nennen, bzw.
+ohne die Quelle korrekt zu zitieren und die orgelnähere Autoronschaft genannt habe.
+Beim Ghostriding ist es so, dass jemand beschäftigt wird, der also an meiner Stelle dann etwas schreiben soll.
+In sehr interessanter Weiterregelverstoß ist der Konflikt auf Interests bzw.
+Interessens Konflikt.
+Das ist nämlich ein relativ schmaler Grad und da habe ich hier eine Definition auf die Fohle gemacht, die ist auf Englisch aber die trifft es eigentlich schon sehr gut, das heißt also Konflikt auf Interests besteht immer dann, wenn es also in einem persönlichen, finanzielle, professionelle, politisch oder legales Interesse gibt, was letzten Endes die Messergebnisse bzw.
+die Performance beeinflussen könnte und Interessenskonflikte können sehr vielfältig sein, zum Beispiel, wenn sie eben gebeten werden, ein Artikel zu begutachten in dem Journal als Review und derjenige der Autor, es eben jemand dessen Hypotheise sieben vorne rein ablehnen, dessen Arbeit sich vielleicht ja auch in der Vergangenheit schon mehr oder weniger heftig kritisiert haben und weiter eben ihre eigenen Arbeiten in Frage stellt.
+Und dann haben sie ganz klar an Interessenskonflikt, ja, dieses Paper sollten sie nicht gut achten, denn wenn sie das positiv bewerten, dann heißt es natürlich, dass ihre eigene Arbeit in Frage stellen und das, wenn man ja eigentlich als Vorsprudent nicht unbedingt haben.
+Ja, andere Beispiele sind auch auf Folie 6 aufgeschrieben.
+Jetzt stellt sich natürlich die Frage, wie man Fäferhalten aufdecken kann und es gibt so ein paar Red Flacks, die also darauf hinweisen, dass da irgendwas nicht ganz kosche ist.
+Da gibt es jetzt zwei Ebenen, wo das Ganze auftreten kann, zum einen natürlich in der interkollegialen Ebene, das heißt also bei Personen, die auf der gleichen Ebene auf den gleichen Level sind und dann kann natürlich aber auch das Fäferhalten bei jemandem liegen, der über ihn steht.
+Betreuer der Chef.
+Ja, bei Kollegen ist es eben so, dass die dann oft alleine zurückgezogen arbeiten, vielleicht auch zu ungewöhnlichen Zeiten, dass sie also wirklich wenig mit anderen interagieren.
+Man bekommt nie Rodaten zu sehen und auch nie irgendwelche Produkolle oder Madeiraian.
+Die Ergebnisse sind vielleicht auch oft zu gut oder beziehungsweise just in time produziert.
+Also die ganze Zeit passiert nix und dann mit einmal gibt es in Deadline und Schwups werden und innerhalb einer Nacht Ergebnisse aus dem Boot gezaubert.
+Ja, ich möchte aber hier nochmal darauf hinweisen, dass sind wirklich Red Flacks, das heißt, das kann schon mal sein, dass man eben vorne in Deadline sich nochmal drei Nächte und die Ohn schlägt und plötzlich findet man den Zugang zum Experiment plötzlich klappt einfach mal alles und man kriegt eben diese eine tolle Messung, die dann für die Deadline relevant ist oder für die Veröffentlichung, ja, das kann durchaus vorkommen.
+Aber ja, gerade wenn es häufiger passiert, wenn es mir noch einige eben zu Gewohnheit wird, diese Arbeitsweise beziehungsweise, wenn auch sonst ja nicht klar kommuniziert wird, wo zum Beispiel auch Probleme liegen, dann kann man skeptisch werden.
+Auf einer höheren Ebene, ja, wenn der Chef oder der Betreuer wird eben vielleicht etwas mauschelt, sage ich mal, das könnte man daran erkennen, dass der also sehr zurückhalten ist mit seinen eigenen Sachen, die er so macht, also das, was er schreibt zum Beispiel, ist er keine Entwürfeteilt und Veröffentlichungen, dass er manchmal Ergebnisse zeigt, die also nicht von ihm selbst sind, aber auch nicht aus der eigenen Gruppe, sondern die kommen eben irgendwoher, vielleicht hat er auch mysteriöse Kooperationspartner, die man sonst in der Gruppe keiner kennt und ja, das sind alles so ein bisschen Dinge, die, wenn sie sich helfen, doch ein starke Indikator dafür sein können und ich betone hier noch mal das können, dass da vielleicht etwas nicht ganz sauber läuft, es ist natürlich immer ein schmaler Grad und deshalb ist es auch so wichtig, dass man nicht sofort, wenn man meint, etwas beobacht zu haben zum nächsten Chefkollegen oder sonst verrennen und sagt, du der andere, der macht aber hier, der Schummel, der macht was falsch, der, ja, verhält sich nicht wissenschaftlich korrekt, sondern es sind oft viele kleine Hinweise, die erst über die Zeit ein Bild ergeben und die, wenn man das Gefühl hat, okay, ich läuft das nicht ganz gerade aus, dann ist es besser das erste Mal zu dokumentieren, man macht sich einfach notizen zu den Daten, was war da vielleicht, was die eigene, das eigene Bedenken angeregt hat und man muss sich mal klar machen, ein Proso verdacht, reicht nicht, sondern am Ende braucht man entsprechende Fakten und Beweise.
+Stellen Sie sich vor, sie werden auf der Seite des Seenigen, der beschuldigt wird, zuviel verhalten, dann werden sie natürlich auch nicht begeistert davon, da einfach einen auch kommen und sagt hier, ich glaube, der hat da geschummelt, eben weil er mal eine Nacht durchgearbeitet hat und dann ein gutes Ergebnis hatte.
+Aber wenn er dann kommen und sagt, okay, ich habe es jetzt über lange Zeit beobachtet, das ist so ein Muster, was ich immer abzeichnet, dann ist das was ganz anderes.
+Ja, wenn es sich um einen Kollegen handelt, den man dort jetzt beschuldigt, beziehungsweise im Verdacht hat, dann sollte man, wenn man einen wirklich begründeten Verdacht und vielleicht auch Beweise hat, tatsächlich mit den nächsten vorgesetzten Sprechen und Forschungsinstituten auch an der Universität, gibt es dann so genannte Ombudsmenner, beziehungsweise im Englischen sind das Theorysearch Integrity Officers, das sind Personen, die werden anhand und die sind dann auch zur Verschwiegenheit verpflichtet, das heißt, wenn man also zu denen geht und seine bedenken Ansprüche sind, kann man erstmal sicher sein, dass das in diesem Rahmen bleibt und man kann aber mit dieser Person dann das weitere Vorgehen, auch versuchen zu besprechen.
+Auch wenn es bei einem Betreuer oder Chef ist, den man dort answeifelt, auch dann sollte man sich eine Vertrauensperson suchen, das kann natürlich dann nicht der vorgesetztes sein, aber vielleicht ein Kollege oder auch eine andere Vertrauensperson in der Universität, könne das zum Beispiel der Dekan sein.
+Ja, dann ist immer die Frage, wenn man sich relativ sicher ist, dass man da vier Verhalten entdeckt hat, konfrontiert man denjenigen und lässt man das besser sein.
+Ich mein, das ist wirklich eine Abwägungsfrage, denn das Fehler halten kann ja, wie es auch Folie neun aufgelistet ist, unabsichtlich oder vielleicht auch absichtlich sein.
+Da haben unabsichtlichen Fall, vielleicht hat er wirklich einfach einen Fehler gemacht und dann ist er natürlich froh, wenn sie ihn darauf ansprechen und er wird seinen Fehler korrigieren, er wird dafür dankbar sein und er wird vermutlich auch offen damit umgehen, sobald ich blieb, dass meine Veröffentlichung dann entsprechend zurückzieht oder zumindest korrigiert.
+Schwieriger wird das Ganze, wenn derjenige wirklich bewusst Daten gefälscht hat und sie ihn dann damit konfrontieren.
+Das kann eben dazu führen, dass das ganz schnell sehr schlechte Stimmung in der Gruppe herrscht und dass auch Beweise vernichtet werden und dass vielleicht eine Ritokut gekommt, vielleicht beschuldigt eben sie dann das Fehler halten und fabriziert dann irgendwelche vermeintlichen Beweise.
+Es gibt Racheaktion und Ähnliches, also ich beton es hier nochmal, es ist wirklich ein schwerer Grad zu entscheiden, ob das jetzt gut ist, denjenigen zu konfrontieren oder auch nicht.
+Deswegen sollte man immer erst mal eine weitere Person hinzuziehen, der man vertraut und mit der man das auch wirklich vertraulich besprechen kann in eigenen Verdacht.
+Das ist eine schwierige Entscheidung.
+Man sollte das Ganze nicht leichtfertig, dann irgendwo beenden, beziehungsweise leichtfertig damit umgehen.
+Wenn einmal der Stein ins Rollen gekommen ist, das heißt also, es wurde basierend auf dem Beweisen eine Untersuchung eingeleitet, dann wird erst mal eine sogenannte Schweigeperriode eingehalten, während dieser Zeit darf nicht mehr darüber kommen und ziffernd, dann wird dann eben von den entsprechenden Stellen, das sind dann Fogosetzte oder spezielle Personen, während sämtlich Unterlagen eingezogen und geprüft, dasjenigen, der beschuldigt ist, das heißt wirklich alle Unterlagen, alle Nutizen, teilweise auch die Rechner, die Festplaten und so weiter, das wird alles mitgenommen und das wird dann erst mal in Ruhe sage ich mal, gut achtet.
+Und danach wird innerhalb der Organisation Universität, Forschungsinstitut, wie auch immer, über die Schulden, die Schwere des Fehlverhaltens gerichtet mehr oder weniger.
+Also das machen die Organisationen wirklich intern.
+Und dann werden die entsprechenden Konsigenzen verhandelt, das kann im einfachsten Fall eben sein, okay, veröffentlich um Bezurück gezogen, vielleicht wird auch Titel aberkann oder was gravierender ist, was dann eben auch die Organisationen als Ganzes oft trifft, ist die Rückforderung von Forschungsgeldern, beziehungsweise das Forschungsgelder erst mal gestoppt werden, Rückforderungen sind ja noch mal eine ganz andere Hausnummer, die natürlich noch viel schwerwiegender sind.
+So läuft das Ganze, wenn also jemanden beschuldigt wird, jetzt stellen Sie sich vor, sie werden dajenige, der das Fehlverhaltensbezichtigt wird.
+Was können Sie dann tun? Nun gut, sich selber schützen kann man immer noch am besten, wenn man transparent arbeitet und kommuniziert, sowohl mit seinen Kollegen, in seinem Team, als auch mit den Vorgessätzen und indem man die eigene Arbeit immer sorgfällig und genau dokumentiert.
+Das werden Sie von mir hier im Verlauf des Seminars noch sehr oft hören, dass also eine genaue Dokumentation, das Führen eines Labobuchs, möglichst das A und O für gute Reproduzierbare und nachvollziehbare Ergebnisse ist.
+Das kann ich nicht oft genug betonen.
+Außerdem gibt es gewisse Regeln der guten wissenschaftlichen Praxis, die können Sie zum Beispiel von der DFG, der deutschen Forschungsgemeindhaft auch einsehen.
+Da wird dann eben erklärt, was da runterfällt.
+Und gewisse Dinge sollte man zumindest eurem Studium spätestens bei der Bachelor oder Masterleute gelernt haben, die man also Daten validiert, dass man mehrfach was so gemacht, entsprechend Fehleranalyse und Statistiken anwendet und logikpulft.
+Und eine ganz wichtige Sache, die mir auch wirklich am Herzen liegt, ist dann natürlich die Fehlerkultur.
+Die kommt leider gerade im deutschen System, wirklich sage ich hier leider zu kurz.
+Hier ist es oft noch so, dass Fehler eher unter den Teppich gekehrt werden, dass man das nicht gern zugibt, dass es sofort den Ruf gravierend schätigt.
+Und das finde ich persönlich sehr, sehr problematisch.
+In anderen Systemen zum Beispiel in der USA, wo ich zwei Jahre lang gelebt und gearbeitet habe als Forscher, ist das ganz anders.
+So wird mit Fehlern teilweise sehr viel offene umgegangen.
+Das wird einfach zugegeben und gesagt, okay, ich bin hier gescheitert, macht nichts.
+Wir haben es dann eben mit einer anderen Methode noch mal versucht.
+Das finden Sie in Deutschland noch nicht so ausgeprägt.
+Wir hoffen natürlich, dass sich das irgendwann mal verbessert.
+Aber das bringt mich wie gesagt zur Diskussion der Fehlerkultur und auch vor jetzt 12 finden Sie jetzt wieder dieses kleine, diese kleine Grafik mit den Männlein zum Thema Diskussion, dass Sie jetzt ermutern, sich doch auch mal zu überlegen, wie gehen Sie eigentlich mit Ihren eigenen Fehlern um? Was würden Sie sich wünschen, die mit Ihnen umgegangen, wenn Sie vielleicht ein Fehler zugeben, bei Kollegen, bei Mitschstudenten, bei Ihren Betreuer? Was haben Sie dort auch vielleicht schon erlebt? Und wie lassen Sie sich Fehler vermeiden? Und wenn Sie sich darüber Gedanken gemacht haben, dann können Sie ja mal auf Folie 13 schauen.
+Dort finden Sie dann also ein paar Hinweise, die mir wichtig wären für eine gute Fehlerkultur und die ich auch immer versuche, zu etablieren.
+Nur noch ein Wort zur Rolle des Betreuers, in die Verlegenheit kommen Sie vielleicht auch irgendwann einmal, dass Sie dann selber Leute betreuen, sei es eben immer noch Firma als Teamweil oder sei es auch an der Universität, wo wir dann als Doktorant zum Beispiel selber Studenten betreuen.
+Die Rolle des Betreuers ist natürlich erst mal die kritisch auf die Messdaten und auf die Experimente und auf die Arbeit des, ich nenne das jetzt mal, Untergebenden zu schauen und dann auch kritisch zu hinterfragen.
+Das heißt also nicht einfach alles hinzunehmen, sondern auch ja rotdaten, entsprechend sich mal zeigen zu lassen und nachzufragen.
+Ganz wichtig ist aber auch für den Betreuer, dass wirklich eine offene Kommunikation gelebt wird.
+Das heißt also dass er auch über seine Fehler, über seine Ergebnisse, über all diese Dinge spricht und dass er auch wirklich ansprechbar ist.
+Das heißt also wenn ich eine Betreuungsverantwortung habe, dann sollte ich natürlich auch für denjenigen, den ich dort anleite, ansprechbar sein und erreichbar sein.
+Wenn der also irgendwelche Probleme hat, weil er zum Beispiel Fierigkeiten hat mit einem Experiment, der hat eine Deadline im Nacken, was auch immer, dann muss ich dort natürlich zuhören und auch versuchen zu helfen und zu unterstützen, um zu verhindern, dass derjenige überhaupt in die Versuchung gerät seine Daten zu fälchen oder dort einfach mal zum Hauscheln und ich sollte natürlich auch immer einen respektvollen Umgang mit ja den Leuten pflegen, auch wenn es vielleicht nur ein Anführungsstrichen sage ich jetzt mal böse, die Studenten sind, ja, die können genauso viel wissen wie ich, die können vielleicht auch mehr wissen und das sollte man natürlich als Betreuer auch immer respektieren.
+Wir sind ja auch nicht allwissen.
+Gott sei Dank.
+Ja, ich muss endlich finden Sie auf den Vorländissen noch eine Zusammenfassung mit dem schönen Titel The Slippery-Slogue-Design-Diffic-Miskontakt.
+Das können Sie sich einfach mal anschauen.
+Es sind nämlich oft viele kleine Steinschen, die dann erst zu einem größeren Bild des Wehrverhaltens führen, weil man eben dann immer, wenn man einmal anfängt, man hat eine kleine Fälschung gemacht, dann muss man natürlich versuchen zu vertuschen und das zieht immer weitere Kreise.
+Und das ist auf diesem Bild also dargestellt und schlussendlich finden Sie in dem Vorhinsatz noch einige Literaturstellen bzw.
+auch Internet-Adressen, wo Sie ja sich informieren können, auch wo Gezilfe, es gibt verschiedene Studien zu dieser Reset Integrity, also wer da Interesse hat, möge sich das doch einfach mal genauer anschauen.
+
+Auf den Fragen vorhin finden Sie zunächst einige Beispiele dazu, die wo Wissenschaft
+des Vierverhalten in den letzten Jahren Öffentlichkeitswirks haben mehr oder weniger aufgedeckt wurde.
+Das ist zum einen natürlich das Fählchen von Daten, was dort ganz massiv durchgeführt
+würde.
+Zum anderen hat man eben auch Daten manipuliert, beziehungsweise mit manipulierten Forschungsgelder
+beantragt, die dann natürlich zurückgezahlt werden mussten und was auch in der Wissenschaft
+des Vierverhalten ganz grafält ist der Fall aus dem Max Planck-Institut von Frau Dr.
+Singer Warrers, die also ihr Team und Mitglieder ihres Teams ganz stark gemobt und unterdrückt
+hat und in den Fähigkeiten abgewehrt hat.
+Auch das ist Vierverhalten vielleicht nicht so sehr im wissenschaftlichen Sinne, aber
+zumindest als Führungspersonlichkeit.
+Und wissenschaftliches Vierverhalten wird es dann, wenn eben Forderung an das Team
+auch gestellt, am ließen dem Fall war, Hypothezenkonform zu arbeiten, d.h. also die Ergebnisse
+so zu treten, dass es also zur entsprechenden Hypothese passt.
+Und diese Fälle können sich einfach mal in Ruhe anschauen, es gibt eure entsprechende
+Quellen dazu, so man sich das genau anschauen kann.
+Wir gehen jetzt hier weiter und schauen uns als nächstes noch mal die Regelverstöße an.
+Regelverstöße waren schon mal auf den vorherigen Fohlen aufgelistet, darunter fällt zum Beispiel
+das Plagiat oder das Ghostriding, dazu gibt es entsprechende Definitionen, die auch auf den
+Fohlen aufgelistet sind, also Plagiat heißt eben, dass ich irgendwo abgeschrieben habe,
+ohne die Quelle zu nennen, bzw. ohne die Quelle korrekt zu zitieren und die orgelnähere
+Autoronschaft genannt habe.
+Beim Ghostriding ist es so, dass jemand beschäftigt wird, der also an meiner Stelle dann etwas
+schreiben soll.
+In sehr interessanter Weiterregelverstoß ist der Konflikt auf Interests bzw. Interessens
+Konflikt.
+Das ist nämlich ein relativ schmaler Grad und da habe ich hier eine Definition auf die
+Fohle gemacht, die ist auf Englisch aber die trifft es eigentlich schon sehr gut, das
+heißt also Konflikt auf Interests besteht immer dann, wenn es also in einem persönlichen,
+finanzielle, professionelle, politisch oder legales Interesse gibt, was letzten Endes die
+Messergebnisse bzw. die Performance beeinflussen könnte und Interessenskonflikte können sehr
+vielfältig sein, zum Beispiel, wenn sie eben gebeten werden, ein Artikel zu begutachten
+in dem Journal als Review und derjenige der Autor, es eben jemand dessen Hypotheise sieben
+vorne rein ablehnen, dessen Arbeit sich vielleicht ja auch in der Vergangenheit schon mehr
+oder weniger heftig kritisiert haben und weiter eben ihre eigenen Arbeiten in Frage
+stellt.
+Und dann haben sie ganz klar an Interessenskonflikt, ja, dieses Paper sollten sie nicht
+gut achten, denn wenn sie das positiv bewerten, dann heißt es natürlich, dass ihre eigene
+Arbeit in Frage stellen und das, wenn man ja eigentlich als Vorsprudent nicht unbedingt
+haben.
+Ja, andere Beispiele sind auch auf Folie 6 aufgeschrieben.
+Jetzt stellt sich natürlich die Frage, wie man Fäferhalten aufdecken kann und es gibt
+so ein paar Red Flacks, die also darauf hinweisen, dass da irgendwas nicht ganz kosche
+ist.
+Da gibt es jetzt zwei Ebenen, wo das Ganze auftreten kann, zum einen natürlich in der interkollegialen
+Ebene, das heißt also bei Personen, die auf der gleichen Ebene auf den gleichen Level
+sind und dann kann natürlich aber auch das Fäferhalten bei jemandem liegen, der über ihn
+steht.
+Betreuer der Chef.
+Ja, bei Kollegen ist es eben so, dass die dann oft alleine zurückgezogen arbeiten, vielleicht
+auch zu ungewöhnlichen Zeiten, dass sie also wirklich wenig mit anderen interagieren.
+Man bekommt nie Rodaten zu sehen und auch nie irgendwelche Produkolle oder Madeiraian.
+Die Ergebnisse sind vielleicht auch oft zu gut oder beziehungsweise just in time produziert.
+Also die ganze Zeit passiert nix und dann mit einmal gibt es in Deadline und Schwups werden
+und innerhalb einer Nacht Ergebnisse aus dem Boot gezaubert.
+Ja, ich möchte aber hier nochmal darauf hinweisen, dass sind wirklich Red Flacks, das heißt,
+das kann schon mal sein, dass man eben vorne in Deadline sich nochmal drei Nächte und
+die Ohn schlägt und plötzlich findet man den Zugang zum Experiment plötzlich klappt
+einfach mal alles und man kriegt eben diese eine tolle Messung, die dann für die Deadline
+relevant ist oder für die Veröffentlichung, ja, das kann durchaus vorkommen.
+Aber ja, gerade wenn es häufiger passiert, wenn es mir noch einige eben zu Gewohnheit
+wird, diese Arbeitsweise beziehungsweise, wenn auch sonst ja nicht klar kommuniziert wird,
+wo zum Beispiel auch Probleme liegen, dann kann man skeptisch werden.
+Auf einer höheren Ebene, ja, wenn der Chef oder der Betreuer wird eben vielleicht etwas
+mauschelt, sage ich mal, das könnte man daran erkennen, dass der also sehr zurückhalten
+ist mit seinen eigenen Sachen, die er so macht, also das, was er schreibt zum Beispiel,
+ist er keine Entwürfeteilt und Veröffentlichungen, dass er manchmal Ergebnisse zeigt,
+die also nicht von ihm selbst sind, aber auch nicht aus der eigenen Gruppe, sondern die
+kommen eben irgendwoher, vielleicht hat er auch mysteriöse Kooperationspartner, die man
+sonst in der Gruppe keiner kennt und ja, das sind alles so ein bisschen Dinge, die, wenn
+sie sich helfen, doch ein starke Indikator dafür sein können und ich betone hier noch
+mal das können, dass da vielleicht etwas nicht ganz sauber läuft, es ist natürlich immer
+ein schmaler Grad und deshalb ist es auch so wichtig, dass man nicht sofort, wenn man
+meint, etwas beobacht zu haben zum nächsten Chefkollegen oder sonst verrennen und sagt,
+du der andere, der macht aber hier, der Schummel, der macht was falsch, der, ja, verhält
+sich nicht wissenschaftlich korrekt, sondern es sind oft viele kleine Hinweise, die erst
+über die Zeit ein Bild ergeben und die, wenn man das Gefühl hat, okay, ich läuft das nicht
+ganz gerade aus, dann ist es besser das erste Mal zu dokumentieren, man macht sich einfach
+notizen zu den Daten, was war da vielleicht, was die eigene, das eigene Bedenken
+angeregt hat und man muss sich mal klar machen, ein Proso verdacht, reicht nicht, sondern am
+Ende braucht man entsprechende Fakten und Beweise. Stellen Sie sich vor, sie werden auf der
+Seite des Seenigen, der beschuldigt wird, zuviel verhalten, dann werden sie natürlich auch nicht
+begeistert davon, da einfach einen auch kommen und sagt hier, ich glaube, der hat da geschummelt,
+eben weil er mal eine Nacht durchgearbeitet hat und dann ein gutes Ergebnis hatte. Aber wenn
+er dann kommen und sagt, okay, ich habe es jetzt über lange Zeit beobachtet, das ist so ein Muster,
+was ich immer abzeichnet, dann ist das was ganz anderes. Ja, wenn es sich um einen Kollegen handelt,
+den man dort jetzt beschuldigt, beziehungsweise im Verdacht hat, dann sollte man, wenn man einen
+wirklich begründeten Verdacht und vielleicht auch Beweise hat, tatsächlich mit den nächsten
+vorgesetzten Sprechen und Forschungsinstituten auch an der Universität, gibt es dann so genannte
+Ombudsmenner, beziehungsweise im Englischen sind das Theorysearch Integrity Officers,
+das sind Personen, die werden anhand und die sind dann auch zur Verschwiegenheit verpflichtet,
+das heißt, wenn man also zu denen geht und seine bedenken Ansprüche sind, kann man erstmal
+sicher sein, dass das in diesem Rahmen bleibt und man kann aber mit dieser Person dann das weitere
+Vorgehen, auch versuchen zu besprechen. Auch wenn es bei einem Betreuer oder Chef ist,
+den man dort answeifelt, auch dann sollte man sich eine Vertrauensperson suchen, das kann
+natürlich dann nicht der vorgesetztes sein, aber vielleicht ein Kollege oder auch eine andere
+Vertrauensperson in der Universität, könne das zum Beispiel der Dekan sein.
+Ja, dann ist immer die Frage, wenn man sich relativ sicher ist, dass man da vier Verhalten
+entdeckt hat, konfrontiert man denjenigen und lässt man das besser sein. Ich mein, das ist wirklich
+eine Abwägungsfrage, denn das Fehler halten kann ja, wie es auch Folie neun aufgelistet ist,
+unabsichtlich oder vielleicht auch absichtlich sein. Da haben unabsichtlichen Fall, vielleicht hat
+er wirklich einfach einen Fehler gemacht und dann ist er natürlich froh, wenn sie ihn darauf ansprechen
+und er wird seinen Fehler korrigieren, er wird dafür dankbar sein und er wird vermutlich auch offen
+damit umgehen, sobald ich blieb, dass meine Veröffentlichung dann entsprechend zurückzieht oder zumindest korrigiert.
+Schwieriger wird das Ganze, wenn derjenige wirklich bewusst Daten gefälscht hat und sie ihn dann damit konfrontieren.
+Das kann eben dazu führen, dass das ganz schnell sehr schlechte Stimmung in der Gruppe herrscht
+und dass auch Beweise vernichtet werden und dass vielleicht eine Ritokut gekommt, vielleicht
+beschuldigt eben sie dann das Fehler halten und fabriziert dann irgendwelche vermeintlichen Beweise.
+Es gibt Racheaktion und Ähnliches, also ich beton es hier nochmal, es ist wirklich ein schwerer
+Grad zu entscheiden, ob das jetzt gut ist, denjenigen zu konfrontieren oder auch nicht. Deswegen
+sollte man immer erst mal eine weitere Person hinzuziehen, der man vertraut und mit der man das auch
+wirklich vertraulich besprechen kann in eigenen Verdacht. Das ist eine schwierige Entscheidung. Man sollte
+das Ganze nicht leichtfertig, dann irgendwo beenden, beziehungsweise leichtfertig damit umgehen.
+Wenn einmal der Stein ins Rollen gekommen ist, das heißt also, es wurde basierend auf dem Beweisen
+eine Untersuchung eingeleitet, dann wird erst mal eine sogenannte Schweigeperriode eingehalten, während dieser
+Zeit darf nicht mehr darüber kommen und ziffernd, dann wird dann eben von den entsprechenden Stellen,
+das sind dann Fogosetzte oder spezielle Personen, während sämtlich Unterlagen eingezogen und geprüft,
+dasjenigen, der beschuldigt ist, das heißt wirklich alle Unterlagen, alle Nutizen, teilweise auch
+die Rechner, die Festplaten und so weiter, das wird alles mitgenommen und das wird dann erst mal in Ruhe
+sage ich mal, gut achtet. Und danach wird innerhalb der Organisation Universität, Forschungsinstitut,
+wie auch immer, über die Schulden, die Schwere des Fehlverhaltens gerichtet mehr oder weniger. Also
+das machen die Organisationen wirklich intern. Und dann werden die entsprechenden Konsigenzen verhandelt,
+das kann im einfachsten Fall eben sein, okay, veröffentlich um Bezurück gezogen, vielleicht wird
+auch Titel aberkann oder was gravierender ist, was dann eben auch die Organisationen als Ganzes
+oft trifft, ist die Rückforderung von Forschungsgeldern, beziehungsweise das Forschungsgelder erst mal
+gestoppt werden, Rückforderungen sind ja noch mal eine ganz andere Hausnummer, die natürlich noch
+viel schwerwiegender sind. So läuft das Ganze, wenn also jemanden beschuldigt wird, jetzt stellen Sie sich
+vor, sie werden dajenige, der das Fehlverhaltensbezichtigt wird. Was können Sie dann tun? Nun gut,
+sich selber schützen kann man immer noch am besten, wenn man transparent arbeitet und kommuniziert,
+sowohl mit seinen Kollegen, in seinem Team, als auch mit den Vorgessätzen und indem man die eigene
+Arbeit immer sorgfällig und genau dokumentiert. Das werden Sie von mir hier im Verlauf
+des Seminars noch sehr oft hören, dass also eine genaue Dokumentation, das Führen eines Labobuchs,
+möglichst das A und O für gute Reproduzierbare und nachvollziehbare Ergebnisse ist. Das kann
+ich nicht oft genug betonen. Außerdem gibt es gewisse Regeln der guten wissenschaftlichen Praxis,
+die können Sie zum Beispiel von der DFG, der deutschen Forschungsgemeindhaft auch einsehen. Da wird
+dann eben erklärt, was da runterfällt. Und gewisse Dinge sollte man zumindest eurem Studium spätestens
+bei der Bachelor oder Masterleute gelernt haben, die man also Daten validiert, dass man mehrfach
+was so gemacht, entsprechend Fehleranalyse und Statistiken anwendet und logikpulft. Und eine ganz
+wichtige Sache, die mir auch wirklich am Herzen liegt, ist dann natürlich die Fehlerkultur. Die
+kommt leider gerade im deutschen System, wirklich sage ich hier leider zu kurz. Hier ist es oft noch
+so, dass Fehler eher unter den Teppich gekehrt werden, dass man das nicht gern zugibt, dass es sofort
+den Ruf gravierend schätigt. Und das finde ich persönlich sehr, sehr problematisch. In anderen
+Systemen zum Beispiel in der USA, wo ich zwei Jahre lang gelebt und gearbeitet habe als Forscher,
+ist das ganz anders. So wird mit Fehlern teilweise sehr viel offene umgegangen. Das wird einfach
+zugegeben und gesagt, okay, ich bin hier gescheitert, macht nichts. Wir haben es dann eben mit einer
+anderen Methode noch mal versucht. Das finden Sie in Deutschland noch nicht so ausgeprägt. Wir
+hoffen natürlich, dass sich das irgendwann mal verbessert. Aber das bringt mich wie gesagt zur
+Diskussion der Fehlerkultur und auch vor jetzt 12 finden Sie jetzt wieder dieses kleine,
+diese kleine Grafik mit den Männlein zum Thema Diskussion, dass Sie jetzt ermutern, sich doch
+auch mal zu überlegen, wie gehen Sie eigentlich mit Ihren eigenen Fehlern um? Was würden Sie sich
+wünschen, die mit Ihnen umgegangen, wenn Sie vielleicht ein Fehler zugeben, bei Kollegen,
+bei Mitschstudenten, bei Ihren Betreuer? Was haben Sie dort auch vielleicht schon erlebt? Und
+wie lassen Sie sich Fehler vermeiden? Und wenn Sie sich darüber Gedanken gemacht haben, dann können Sie
+ja mal auf Folie 13 schauen. Dort finden Sie dann also ein paar Hinweise, die mir wichtig
+wären für eine gute Fehlerkultur und die ich auch immer versuche, zu etablieren.
+Nur noch ein Wort zur Rolle des Betreuers, in die Verlegenheit kommen Sie vielleicht auch irgendwann
+einmal, dass Sie dann selber Leute betreuen, sei es eben immer noch Firma als Teamweil oder sei es
+auch an der Universität, wo wir dann als Doktorant zum Beispiel selber Studenten betreuen. Die
+Rolle des Betreuers ist natürlich erst mal die kritisch auf die Messdaten und auf die Experimente
+und auf die Arbeit des, ich nenne das jetzt mal, Untergebenden zu schauen und dann auch kritisch
+zu hinterfragen. Das heißt also nicht einfach alles hinzunehmen, sondern auch ja rotdaten,
+entsprechend sich mal zeigen zu lassen und nachzufragen. Ganz wichtig ist aber auch für den Betreuer,
+dass wirklich eine offene Kommunikation gelebt wird. Das heißt also dass er auch über seine
+Fehler, über seine Ergebnisse, über all diese Dinge spricht und dass er auch wirklich ansprechbar
+ist. Das heißt also wenn ich eine Betreuungsverantwortung habe, dann sollte ich natürlich auch für denjenigen,
+den ich dort anleite, ansprechbar sein und erreichbar sein. Wenn der also irgendwelche Probleme hat,
+weil er zum Beispiel Fierigkeiten hat mit einem Experiment, der hat eine Deadline im Nacken,
+was auch immer, dann muss ich dort natürlich zuhören und auch versuchen zu helfen und zu unterstützen,
+um zu verhindern, dass derjenige überhaupt in die Versuchung gerät seine Daten zu fälchen oder dort
+einfach mal zum Hauscheln und ich sollte natürlich auch immer einen respektvollen Umgang mit
+ja den Leuten pflegen, auch wenn es vielleicht nur ein Anführungsstrichen sage ich jetzt mal böse,
+die Studenten sind, ja, die können genauso viel wissen wie ich, die können vielleicht auch mehr wissen
+und das sollte man natürlich als Betreuer auch immer respektieren. Wir sind ja auch nicht allwissen. Gott sei Dank.
+Ja, ich muss endlich finden Sie auf den Vorländissen noch eine Zusammenfassung mit dem schönen
+Titel The Slippery-Slogue-Design-Diffic-Miskontakt. Das können Sie sich einfach mal anschauen. Es sind nämlich
+oft viele kleine Steinschen, die dann erst zu einem größeren Bild des Wehrverhaltens führen, weil man eben
+dann immer, wenn man einmal anfängt, man hat eine kleine Fälschung gemacht, dann muss man natürlich
+versuchen zu vertuschen und das zieht immer weitere Kreise. Und das ist auf diesem Bild also dargestellt und
+schlussendlich finden Sie in dem Vorhinsatz noch einige Literaturstellen bzw. auch Internet-Adressen,
+wo Sie ja sich informieren können, auch wo Gezilfe, es gibt verschiedene Studien zu dieser Reset Integrity,
+also wer da Interesse hat, möge sich das doch einfach mal genauer anschauen.
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Wissenschaftliche Methodik und Softskills im
+Forschungs- und Ingenieursbereich
+
+~ Wissenschaftliches Fehlverhalten
+Aufdecken und Vermeiden ~
+Prof. Dr.-Ing. Julia Körner
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+www.geml.uni-hannover.de
+E-Mail: koerner@geml.uni-hannover.de
+Telefon: +49 (0)511 762 14041
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 1
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Aktuelle Beispiele für wissenschaftl. Fehlverhalten
+Food and Brand Lab at Cornell University (Dr. Wansink, 2018)
+ Anerkannter Wissenschaftler auf dem Gebiet Psychologie + Ernährung
+ Aufgedeckt durch: andere Wissenschaftler konnten Ergebnisse nicht reproduzieren
+ 11 Paper von renommierten Fachzeitschriften zurück gezogen
+Fehlverhalten im Detail
+ Falsche Angaben zu Daten
+ Verwendung unlauterer statistische Methoden (“p-value hacking” – nachträgliche
+Anpassung von Testparametern um bestimmte Grenzen einzuhalten)
+ Unzureichende Dokumentation der Experimente und Ergebnisse
+ Unangemessene Autorenschaft
+ Paper mit widersprüchlichen Ergebnissen veröffentlicht
+Gründe
+ Aufmerksamkeit in den Medien erzeugen
+ Forschungsgelder generieren
+https://www.enago.com/academy/renowned-nutritionist-resigns-following-retraction-of-six-research-papers/
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 2
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Aktuelle Beispiele für wissenschaftl. Fehlverhalten
+Harvard Medical School and Brigham and Women’s Hospital (Dr. Anversa, seit 2014)
+ Behauptete, Stammzellen in Herzgewebe gefunden zu haben (sog. “c-kit”
+Zellen)
+ Potential zur Regeneration von Herzzellen
+ Aufgedeckt durch: andere Wissenschaftler konnten Ergebnisse nicht
+reproduzieren
+ 31 Paper zurückgezogen
+Fehlverhalten im Detail
+ Erfundene und manipulierte Daten (keine Reproduzierung möglich)
+ Betrug beim Beantragen von Forschungsgeldern (Krankenhaus hat $10 Mio.
+zurückgezahlt)
+ Conflict of interest nicht korrekt angegeben
+ Ko-Autoren mitschuldig (Atmosphäre der Angst und Kontrolle im Labor)
+Gründe
+ Unbekannt (Mutmaßung, dass er selbst an die Richtigkeit seiner Daten glaubte)
+https://www.statnews.com/2018/10/14/harvard-brigham-retractions-stem-cell/
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 3
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Aktuelle Beispiele für wissenschaftl. Fehlverhalten
+Direktorin der Abteilung Soziale Neurowissenschaften des Max-Planck-Instituts für
+Kognitions- und Neurowissenschaften in Leipzig (Dr. Singer, 2017)
+ Psychologin und Neurowissenschaftlerin, Spezialgebiet Empathie- und
+Meditationsforschung
+ Rücktritt von Posten, Sabbatical
+ Wissenschaftlerin ohne Leitungsfunktion mit kleiner Gruppe außerhalb des
+Leipziger Institutes
+Fehlverhalten im Detail
+
+ Mobbing, Unterdrückung und Abwertung der Fähigkeiten von Angestellten
+ Forderung an Team, “hypothesenkonform” zu arbeiten
+ Beschimpfung + Entlassung bei Ergebnissen die nicht mit vorher definierten
+Thesen übereinstimmten
+Gründe
+ Machtfülle der Direktorenposition
+ Persönliche Überlasung
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Quellen:
+
+https://www.tagesspiegel.de/wissen/machtmissbrauch-inder-wissenschaft-max-planck-forscherin-nennt-vorwuerfehaltlos/22932720.html
+https://www.sueddeutsche.de/wissen/max-planckempathie-singer-1.4240504
+
+Seite 4
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+„Regelverstöße“
+Weitere Definitionen
+Plagiat: „Eine umgreifende Definition stammt vom International Center for Academic
+Integrity. So sei ein Werk dann ein Plagiat, würden Arbeitsergebnisse, Wörter oder Ideen
+zur Verwendung gelangen, die einer identifizierbaren Quelle zuzuordnen sind, dabei die
+Quelle nicht in geeigneter Form ausweisen. Weiter soll die Veröffentlichung dabei so
+passieren, dass man annimmt, eine originäre Autorenschaft würde vorliegen, die
+Publikation dem Plagiator Vorteile bringt, die nicht zwangsläufig monetärer Natur sein
+müssen.“
+(https://www.juraforum.de/lexikon/plagiat)
+
+Ghost writing: „Wer einen wissenschaftlichen Ghostwriter für Hochschularbeiten
+beschäftigt, macht sich strafbar, wenn er eine eidesstaatliche Erklärung abgibt, dass eine
+tatsächlich vom Ghostwriter verfasste Hochschularbeit von ihm selbst eigenständig und
+ohne fremde Hilfe verfasst worden sei. Auch der Ghostwriter macht sich der Beihilfe
+strafbar, falls ihm dieser Umstand bekannt wird.“
+(https://de.wikipedia.org/wiki/Ghostwriter)
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 5
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+„Regelverstöße“
+Weitere Definitionen
+Conflict of interest / Interessenkonflikt:
+“A researcher has a conflict of interest if and only if he/she has
+personal, financial, professional, political, or legal interests that
+have a significant chance of interfering with the performance of
+his/her or ethical or legal duties.”
+D. B. Resnik: Conflicts of Interest in Scientific Research Related to Regulation or Litigation, Journal of Philosophy,
+Science & Law 7:1, 2007
+
+http://blogs.nature.com/naturejobs/2017/
+03/22/convey-simplifies-conflict-ofinterest-disclosure/
+
+Beispiele:
+•
+
+Forscher, der (substantielle) Anteile an einer Firma für Medizinprodukte hält, deren
+Produkt er testen und bewerten soll
+
+•
+
+Ein Pharmaunternehmen lädt eine Arzt für ein „all expenses paid“ Seminar nach Aspen
+ein, um ihm die Produkte des Unternehmens vorzustellen
+
+•
+
+Ein Wissenschaftler wird gebeten, einen Artikel zu begutachten der Ergebnisse beschreibt,
+welche die langjähig vertretene Hypothese des Gutachters widerlegen könnten
+
+Beispiel aus: D. B. Resnik: Conflicts of Interest in Scientific Research Related to Regulation or Litigation, Journal of Philosophy, Science & Law 7:1, 2007
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 6
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlverhalten aufdecken – „Red flags“
+
+•
+•
+•
+•
+
+•
+•
+
+https://images.app.goo.gl/1
+8uR5HJLrNYz16iP9
+
+Kollegen
+(gleiches Level)
+
+Arbeitet alleine und oft zu
+ungewöhnlichen Zeiten
+Zeigt keine Rohdaten
+Versteckt Materialien + Protokolle
+Ergebnisse werden oft „just in time“ für
+Deadline produziert (sonst passiert nicht
+viel)
+Ergebnisse „zu gut“
+Ergebnisse nicht reproduzierbar
+
+Betreuer, Chef etc.
+(höheres Level)
+•
+•
+
+•
+•
+•
+
+•
+Angelehnt an: https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Unangemessene Kritik oder Lob, direkt
+oder gegenüber anderen
+Zeigt andere Ergebnisse, die nicht aus der
+eigenen Gruppe sind und nennt keine
+Quelle
+Hat „mysteriöse“ Kooperationspartner
+Verwendet Ergebnisse ohne Wissen
+desjenigen (z.B. Doktoranden)
+Teilt keine Entwürfe von
+Veröffentlichungen
+Kein Einholen von Feedback
+Seite 7
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlverhalten aufdecken – Was tun?
+https://images.app.goo.gl/5q9
+oFWqQ7wWdSNg49
+
+Kollegen
+(gleiches Level)
+
+Betreuer, Chef etc.
+(höheres Level)
+
+ Fehlverhalten dokumentieren (Notizen, Daten, Zusammenhänge etc.)
+ Bloßer Verdacht reicht nicht  aussagekräftige Fakten / Beweise
+•
+•
+
+Mit nächstem Vorgesetzten sprechen
+Ombudsmann bzw. „research
+integrity officer“ ansprechen
+
+•
+•
+
+•
+Angelehnt an: https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Mit Vertrauensperson in Fakultät /
+Abteilung sprechen (z.B. Dekan)
+Ombudsmann bzw. „research integrity
+officer“ ansprechen
+Eigene Arbeit klar und genau
+dokumentieren (Laborbuch, Schritte
+bei der Datenauswertung)
+Seite 8
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlverhalten aufdecken – Konfrontation?
+Unabsichtlich
+
+Absichtlich
+
+ Person hat tatsächlich unbeabsichtigt
+und unbewusst einen Fehler gemacht
+
+ Bewusste Manipulation von Daten
+
+ Froh über Hinweis, wird es korrigieren
+
+ Eventl. Vernichtung von „Beweisen“
+
+ Offener Umgang (ggf. Veröffentlichung korrigieren)
+
+ Weitere Manipulationen um Fehlverhalten zu vertuschen
+
+ Abstreiten
+
+ „Racheaktionen“
+
+www.123rf.com
+
+www.123rf.com
+
+Schwierige Entscheidung: - Gut abwägen
+- Nicht leichtfertig handeln
+- Beweise
+- Vertrauensperson ansprechen
+Angelehnt an: https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 9
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlverhalten aufdecken - Ablauf
+Grund für Aufnahme einer Untersuchung
+•
+
+Anonymer Tipp zu einer entsprechenden Online-Platform (z.B. Blog)
+
+•
+
+(Anonymer) Tipp zu Vorgesetztem, Ombudsmann etc.
+
+Ablauf
+•
+
+Untersuchung (ggf. “Schweigeperiode” während dieser Zeit)
+
+•
+
+Alle Notizen, Ordner, Computer, Festplatten etc. werden ggf. durchsucht
+
+•
+
+Organisation befindet über Schuld + Schwere des Fehlverhaltens
+ Verwarnung
+ Aberkennung von Leistungen, Titeln, Preisen
+ Entlassung
+
+•
+
+Betroffene Arbeiten werden zurück gezogen
+
+•
+
+Forschungsgelder gestoppt (ggf. Rückforderung)
+
+Angelehnt an: https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 10
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlverhalten – Was, wenn ich selbst beschuldigt werde?
+Wie kann ich mich schützen?
+• Alles genau dokumentieren
+• Laborbücher, Protokolle müssen mindestens 10 Jahre aufgehoben werden!
+• Ergebnisse teilen und besprechen (Gruppeninterner Peer Review)
+
+• Eigene Arbeit offen und transparent durchführen
+• Regeln guter wissenschaftlicher Praxis einhalten (Validierung von Daten,
+Mehrfachversuche, Fehleranalyse, Logik prüfen)
+
+• Fehler zugeben
+
+Fehlerkultur
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 11
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlerkultur
+Wie sollte man mit eigenen Fehlern umgehen?
+Wie sollte sich der Betreuer / Chef / Kollege verhalten?
+Wie mit Fehlern bzw. Fehlverhalten von anderen umgehen?
+Fehler vermeiden?
+
+https://images.app.goo.gl/FxZ8i1YG4i6GFU2E9
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 12
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Fehlerkultur
+Offener und ehrlicher Umgang mit echten Fehlern und Missgeschicken
+ Zeit und Ressourcen einplanen (wir alle müssen lernen)
+ Keine Bestrafung  Diskussion, daraus lernen, besser machen
+ Offenheit, Transparenz, Fairness
+ Immer nach bestem Wissen und Gewissen arbeiten und handeln
+ Alles genau dokumentieren und mit Betreuern, Kollegen besprechen
+ Daten nicht einer vorgefassten Meinung, Hyposthese anpassen - Was rauskommt,
+kommt raus!
+Isaac Asimov: “The most exciting phrase to hear in science, the one that heralds the
+most discoveries, is not "Eureka!" (I found it!) but 'That's funny...”
+ Möglichkeit, dass auch “negative Ergebnisse” veröffentlicht werden können (sollten
+sie!)
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 13
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Wissenschaftliche Integrität und Fehlerkultur
+Die Rolle des Betreuers
+•
+
+Rohdaten prüfen
+
+•
+
+Verfügbar / ansprechbar sein
+
+•
+
+Erwartungen an Arbeitsweise klar
+kommunizieren
+
+•
+
+Vorbereitet sein  ggf. Schwierigkeiten
+einplanen/voraussehen
+
+•
+
+Erklärungen + Hilfestellungen geben (keine
+Fähigkeiten als gegeben voraus setzen)
+
+•
+
+Respektvoller Umgang mit allen
+Mitarbeitern – offene, transparente
+Atmosphäre im Labor, in Arbeitsgruppe
+schaffen
+
+https://images.app.goo.gl/EWBbn9bSEKFgvb2K7
+
+Angelehnt an: https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 14
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Zusammenfassung: „The slippery slope to scientific misconduct“
+
+•
+
+Viele kleine Schritte, die einzeln
+genommen gar nicht so
+schlimm erscheinen mögen
+
+•
+
+Einmal angefangen verstrickt
+man sich in immer größere
+Probleme
+
+Deshalb: Immer sauber und
+korrekt arbeiten und bei
+Zweifeln mit Kollegen,
+Betreuern und Vorgesetzten
+sprechen.
+https://ori.hhs.gov/sites/default/files/2018-12/Slippery%20Slope%20RM%20Rasterized.pdf
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 15
+
+Institut für Grundlagen der Elektrotechnik und Messtechnik
+Fachgebiet Sensorik und Messtechnik
+Mikro- und nanointegrierte Systeme
+
+Beiträge, Quellen
+https://www.deutschlandfunkkultur.de/betrug-in-der-wissenschaft-tricksen-taeuschenfabulieren.976.de.html?dram:article_id=346719
+https://www.laborjournal.de/editorials/1183.php
+Studie zur Research Integrity
+https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-016-0024-5
+Leitfaden zur Sicherung guter wissenschaftlicher Praxis (DFG)
+https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/gwp/
+Ombudsmann für die Wissenschaft (DFG)
+https://ombudsman-fuer-die-wissenschaft.de/
+Lesenswerter Artikel zu wissenschaftlichem Fehlverhalten
+http://www.mpi-fg-koeln.mpg.de/pu/workpap/wp99-4/wp99-4.html
+Webseite mit Tipps zu wissenschaftlicher Integrität
+https://ori.hhs.gov/infographics
+
+Vorname
+Prof. Dr.-Ing.
+Nachname,
+Julia Körner,
+01.04.2017
+Wissenschaftliche Methodik und Softskills
+
+Seite 16
+
+

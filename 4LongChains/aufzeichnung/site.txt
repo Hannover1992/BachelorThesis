@@ -1,0 +1,5 @@
+# guy youtube parser search in pdf
+https://www.youtube.com/watch?v=u8vQyTzNGVY&t=23s&ab_channel=NicholasRenotte
+
+#guy, long chain, more detail, html parser
+https://www.google.com/search?q=langchain+loader&oq=langchain+loader&aqs=chrome..69i57.8161j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:dca80f35,vid:eqOfr4AGLk8

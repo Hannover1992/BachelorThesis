@@ -1,0 +1,356 @@
+
+
+7:39 AM
+Okay, wir haben neue Aufgabe Unser erster Ansatz, um die Folien in ihrer detailliertheit zu erklären, ist leider gescheitert. Das Problem ist einfach die Menge und Fühler an. Details sind diese Folien dann beinhalten werden?
+
+Somit müssen wir etwas anderes ausprobieren. Diesmal versuchen wir einen top-down approad. Ein top-down-up proach wird sich darauf konzentrieren, um die und das Problem von den höchsten abstrakten bis etwas niedriger abstraktionsebenen darzustellen. Hoffen war.
+
+Dass wir einen gesunden Mass an Informationen rüberbringen.
+
+Also? Das Problem, den ich in meine Bachelorarbeit
+
+Löse!
+
+Also?
+
+Am Endeffekt wir möchten in der Lage sein, einen
+
+Einen steuerungsmodul auf ein diszip Wandler.
+
+Mit pid-regler einzubauen. Drei Begriffe?
+
+Ein ai?
+
+Ein KI trainiertes steuerungsmodul
+
+Im Grunde genommen besteht diese Aufgabe aus drei Teilen.
+
+Der erste Teil ist es.
+
+Ich muss ja. Ich muss hier ein bisschen Wandler mit einem PD Regler simulieren, damit ich auf diese Simulation mein
+
+Mein ki-modul. Antrainieren kann?
+
+Da kommen ja noch eine Sache dazu, nämlich
+
+Brauchen ein Feedback.
+
+Weil sie werden mit dieser Simulation interagieren. Und anhand von deren Entscheidungen.
+
+Wird diese Simulation etwas?
+
+Also wird diese Simulation also die Simulation hat auch zwei Aufgaben die man das erste Aufgabe ist es die soll ja möglich realitätstreu einen die einen einen DC Wandler mit ein pedi-regler nachbilden Und die zweite Aufgabe, die Simulation sollen Lage sein ein selbstbewertungs eine selbstbewertung auszuführen.
+
+Das heisst sie soll in der Lage sein gewisse also eine Menge an Tests. Also sich eine Menge an Test unterziehen lassen, die dann es bewerten werden. Wie gut diese diese selbstregungsverhalten Passiert?
+
+Deswegen hier haben Sie die Schaltung. So ist sie aufgebaut. Der ist ja pulsweiten, der wird ja durch eine pulsweitenmodulation angesteuert das heisst.
+
+Die?
+
+Dort haben wir ein Transistor und dann umso öfter. Er geschlossenes umso mehr Energie fliessender System Und?
+
+Und dann die, die die Spannung an den Ausgang wird sich dann in
+
+Die Spannung an die Ausgang.
+
+Wird dann entsprechend höher. Umso! Umso die schliesszeit dieses.
+
+Transistor länger ist? Dort haben Sie ein. Diesen Peter WM wahrscheinlich im Endeffekt.
+
+Also das findet ein Abgleich mit deinen sägezahnsignal und dann.
+
+Also wenn die wenn die steuerungsspannung höher ist dann. Die Perioden, in dem die Transistor geschlossen sind, länger, wenn er, wenn die störungssignal niedriger ist, dann sind sie kürzer, also viel weniger energiesystem
+
+Proportional integral und differenziell in einen differentialbarer Regler Seine Aufgabe ist es ja der eine referenzspannung eingebaut. Und der Ausgang der System wird mit der referenzspannung angepasst, also verglichen.
+
+Und falls falls es eine Abweichung gibt, dann gibt es diese drei Sorten von.
+
+Steuerung einmal proportional das heisst. In abhängig davon wie weit die?
+
+Wie weit die?
+
+In abhängig davon wie weit die gewünschte von Steuerklasse.
+
+Sich unterscheiden wird entsprechend geregelt.
+
+In Abhängigkeit von den integralverhalten also das heisst dieser Fehler über Zeit.
+
+Also umso? Wird es auch gestört und dann differentiell das heisst zu den jeweiligen, also der, dass die Veränderung der also die die Duke, also die die ruckartigkeit, also die sprunghaftigkeit der Veränderung des Spannung am Ausgang wird auch diese Formel dargestellt. Relativ einfache Regler
+
+So also das ist unser das nächste Mal, damit ein PD Regler
+
+So jetzt noch mal.
+
+Raus aus der Schaltung.
+
+Wie schon gesagt habe mein KI also das ist mein pd-regel das heisst ich kann ja hier gewisse pedikoeffizienten einstellen. Also diese Schaltung hat noch drei Möglichkeiten und Einstellungen durchzuführen. Einmal können die. Koeffizienten gesetzt werden, die einfach dieser die stärker, mit denen dieser Regler an die
+
+Proportionale integral oder die differentielle Veränderung reagiert eingestellt werden. Also das ist ja die Schwierigkeit und der Kunst bei diesem Problem.
+
+Hallo!
+
+Es kann?
+
+Der lastwiderstand an diesen. Der lastwiderstand?
+
+Naja genau das ist diese simulationsschaltung der lastwiderstand an dieser Simulation schalten und kann geändert werden, dass wir dazu dass das
+
+Also das brauchen wir um diese selbst.
+
+Selbst wie nennt man das selbst?
+
+Und um die?
+
+Selbstbeurteilung verhalten anzusteuern
+
+Und was noch?
+
+Genau, jetzt fangen wir wieder von vorne. Eigentlich die eigentliche Aufgabe dieser Schaltung ist es auf die
+
+Also der zielt diese Aufgabe ist es, ein möglichst guten pid-regler zu bekommen. Der
+
+Auf die.
+
+Der auf die Veränderung, also der Punkt ist halt in in der Produktion. Die bauteilparameter Weichen meistens von den perfekten fetten Bedingungen ab. Beziehungsweise mit der Zeit?
+
+Manche?
+
+Und damit der Zeit manche
+
+Manche bauteilparameter verlieren ihre Eigenschaft. Und die Idee ist es, wir bauen eine.
+
+Eine Steuerung, die in der Lage sein wird, in diesem Fall exemplarisch an diesen. PID! Gestörten die CDC Konverter
+
+Entsprechende? Anpassung durchzuführen, so dass das der Schaltung obwohl die bauteilparameter abweichen bzw. Wie die haben ihren Eigenschaft über die Zeit verändert.
+
+Trotzdem einen optimalen Verhalten am Ausgang liefern.
+
+Das sind relativ komplexes Problem.
+
+So unser Ansatz ist.
+
+Wir möchten also genau wie. Wie lösen wir jetzt das Problem?
+
+Die Idee ist es, wir werden eine ai antrainieren, so dass sie immer die richtigen also
+
+Was sind die eingangs also was sind die eingangsgrössen und was sind die steuergrössen diese Schaltung? Die steuergrössen sind die pd-koeffizienten, weil sie die die regelungsverhalten diese Steuerung bestimmt. Und exemplarisch das was das was hier als eingangskosten sind, sind die Werte des induktivitäten Acker und Kapazität an diese Schaltung. Das ist also exemplarisch. Das ist so aufgebaut, dass es zukünftig auf. Andere schaltungssorten bzw. Andere Probleme geändert werden kann.
+
+Doch die? Grundverhalten wird immer der gleiche bleiben.
+
+Deswegen eine Seite ist die Simulation andere Seite ist diese diese KI?
+
+KI die durch die?
+
+Interaktion mit der Schaltung.
+
+Den?
+
+Einen Verhalten lernen soll, der das der tatsächlich die Schaltung in gewissen Sinne selbst repariert.
+
+Wie kommen wir dahin?
+
+Also noch mal Ziel vor Augen. Wir möchten einfach eine. Eine Funktion ein Modell haben, den kann man ja später extrahieren und zu waschen in Form von fpga extrahieren, der dann an einen DC gestörtes Regler angeschlossen wird der dann.
+
+Der dann die koeffizienten. Der dann der dann gewisse dynamische Veränderung. Durchführen kann, falls er feststellt, dass die Schaltung. Also falls er sieht, dass die Schaltung vor ihren ursprünglichen Zustand abweicht, sei es über Zeit oder mechanische Beschädigung, oder?
+
+Wie kommen wir dahin?
+
+Zunächst müssen wir diese ai trainieren. Das heisst wir müssen eine Training an eine trainingsumgebung aufbauen mit dem sie? In der Lage ist. In Abhängigkeit von.
+
+Von Beschädigung der Schaltung.
+
+Ein an also anderes regelungsverhalten vorzunehmen. Deswegen da die ai meistens also der
+
+Der Eis brauchen meistens also die die können einachsen ausführen und dann sie bekommen ein Feedback zurück.
+
+Dazu bei der Schaltung noch ein weiteres Modul einzubauen.
+
+Ein selbsttestmodul das heisst, die Schaltung wird auf irgendwelche Art und Weise angesteuert.
+
+Sie hat irgendwelche Kapazität induktivitäten und dann werden diese pd-werte gesetzt.
+
+Da die Schaltung führt ein Selbsttest durch und gibt. Der zurück? Das ist ja nur bei der trainingsphase nötig. Also das wird eigentlich nur in dieser simulationsphase nötig später In der sagen wir Produktion die Schaltung wird diesen Test selbsttestmodul nicht brauchen. Weil die ai hinter Simulation. So gesehen oft? Also die von uns vorhergestellten.
+
+Beschädigung trainiert wurde. Das heisst das was die Schaltung sieht sind nur die Werte an die Kapazität und induktivität diese auf irgendwelche Art und Weise bemisst
+
+Genau wie passiert das trainieren? Also genau das sind diese drei. Drei Module, die eigentliche Schaltung. Der selbsttestmodul.
+
+7:52 AM
+Genau, also was ich auf jeden Fall auf meine Folie drauf bringen wird, sind diese drei Module. Das heisst ich habe also eigentlich eine Schaltung. Also die Schaltung hat zwei Konfiguration. Es gibt eine Konfiguration, die quasi während des Trainings stattfindet, die nur in diese Simulation stattfindet. Dort braucht man noch selbsttestmodulen, dann braucht man noch diese ai, die dazu angeschlossen ist und dann die ai gibt gewisse PD, also sieht wie die Werte, also wie die. Wie die Schaltung aussieht also die Ei sieht die induktivität in Kapazität. Also die sieht ja die bauteilparameter. Die von uns exemplarisch gewählte bauteilparameter.
+
+Daraus?
+
+Daraus schlussfolger Sie, welche pedikoeffizienten da gesetzt werden müssen. Die Schaltung. Bekommt diese? Pd-koeffizienten führt ein Selbsttest durch. Gibt einen?
+
+Gib einen Wert zurück. Gib einen beurteilungswert eine reward Ich habe eine Belohnung zurück.
+
+Gibt eine Fehler?
+
+Gib eine fehlerkonstante zurück.
+
+7:54 AM
+Wert zurück wie gut oder wie stellt sie funktioniert?
+
+Und dieser Wert wird dann genutzt um beide bei der KI.
+
+Die? Wertekombination zu verstärken die zu.
+
+Ein verbesserten schaltungsverhalten geführt haben.
+
+Können wir auch das passiert?
+
+Hunderte tausende von Male.
+
+Und durch diese?
+
+Interaktion zwischen?
+
+Den KI Modul und der Schaltung Simulation Lernt die KI? Die?
+
+Die KI lernt.
+
+Also intern die KI? Bildet einen!
+
+Die optimalen. Pedikoeffizienten!
+
+Auszugeben?
+
+In Bezug auf die aktuellen.
+
+Parameter des Schaltung?
+
+7:56 AM
+KI!
+
+Genau, das ist unser zweite Modul. Sind wir haben eigentlich?
+
+Genau und dann während? Und dann diese fertig trainierte Schaltung könnte zum Beispiel in Form von fpga.
+
+Realisiert werden? Und dann in diesen Wandler.
+
+Und dann und dann in diesen diese waren da drin sein.
+
+Um dann auf die veränderte?
+
+Verhalten des Schaltung zu reagieren.
+
+Ein Nebeneffekt ist.
+
+Das wären während dieser Simulation haben wir auch die perfekten also. Die bestmöglichen. Ein kleiner neben, also ein kleiner Nebeneffekt ist es, dass wir während der Während der? Während der?
+
+Trainieren diese Schaltung auch die perfekten? Induktivität und Kapazität werden in Bezug auf die Schaltung gefunden haben.
+
+Stellungsverhalten zeige ich auch in dieser Schaltung.
+
+Woher kommen diese pics? Das ist eine ideale Simulation. Das heisst die Sprünge die hier stattfinden, also mit dem gelb ist ihre Strom markiert.
+
+Diesen ideal, das sind ja perfekte Rechtecke
+
+Und deswegen ist der.
+
+Aufgestellt haben ist ja relativ anspruchsvoll und die?
+
+Und der pedi Regler?
+
+Sind wenigen Millisekunden auf die? Veränderung auf eine sehr grosse Veränderung des stromes.
+
+Wie machen wir das mit dieser? Was ist das? Also wir haben zu.
+
+Entschieden?
+
+Warum?
+
+Weil das einer von wenigen Methoden ist, die sehr gut mit einem kontinuierlichen aktionsraum zurechtkommt.
+
+Also diese Sorte von Probleme werden als brain force mit lining Problemen bezeichnet.
+
+Weil wir haben keine Daten. Wir müssen die Daten erst mal sammeln. Und die neue Ansatz?
+
+Einfach die? Zufällig auf zu zufällige Art und Weise kommen aus den auszuführen ist ja nicht zielführend, weil er nicht.
+
+Ausreichend?
+
+Also warum, weil unser Problem ist es
+
+Unser Problem ist es. Also? Das ist ein remforsment-learning Problem, also ich habe diesen. Ich habe diese aufgabenstellung als ein railforce mit learning Problem. Modelliert!
+
+Weil wir haben keine Daten auch wenn wir die Simulation aufbauen. Wir wissen immer noch nicht.
+
+Welche PE die Werte wirklich gut sind. Das heisst er muss ja gleichzeitig den suchraum der möglichen Optionen durchsuchen.
+
+Und auch die optimalen pd-koeffizienten.
+
+Verstärken!
+
+Die ki-modul der aussentreaktion mit der Schaltung gelernt wird.
+
+Was ist das? Das ist ein besonders
+
+Also dieser? Diese Sorte diese Sorte von neuronalen Netzen bestehen aus einem actor und ein Kritik.
+
+Der Kritik durch Interaktion mit der mit der Simulation.
+
+Intern simuliert den? Verhalten der Simulation?
+
+Das ist notwendig.
+
+Damit man später auch die Aktion.
+
+Die Aktion des Vektor?
+
+Optimieren kann?
+
+Das bedeutet?
+
+Uns vorstellen, dass wir erstmal kein ektor haben. Dector spuckt einfach nur irgendwelche zufälligen Werte aus. Und? Danach wird die schaltungsverhalten der Simulation ausgeführt.
+
+Dann wird der ektor.
+
+Der ektor sieht halt in diesen.
+
+Zustand Aktion in diesem Zustand Aktion paar
+
+Welchen schaltungsverhalten?
+
+Wir am Endeffekt sehen.
+
+Und?
+
+8:17 AM
+Okay, jetzt kommen wir zu dieser
+
+Und habe gesammelt die wir quasi bei uns so Präsentation mal einführen oder verwenden können. Eins von dem ist es erstens drin sind der terministik heisst wenn diese wenn dieser Schaltung fertig trainiert ist. Sie liefert immer die also deterministische Werte. Da gibt es ja keine. Also die sind nicht, also lieferte terministische Werte
+
+Wir versuchen am Endeffekt eine policy, also ein eine.
+
+Gegeben Zustand eine optimale Aktion zu finden. Gradienten dazu nutzen
+
+Genau wie passiert das von aussen gesehen? Der ektor also sieht also im Endeffekt diese diese Nest besteht eigentlich aus zwei Teilen aus den actor und ein Kritik. Der ektor lernt die optimale Aktion in den jeweiligen Zustand durchzuführen. Der Kritik lernt.
+
+Also der critic lernt die wahre verhaltung des Schaltung zu simulieren. Die die zustandaktion Paare zu einem. Beurteilungs zu selbstbeurteilungswert zu Mappen. Was bedeutet das?
+
+Der Kritik. Dadurch dass er immer wieder. In diesen also bei der weite Schaltung am Anfang die die führt schon irgendwelche Aktion aus falschen aber in welche Aktion das heisst die schalten also direkt oder? Sieht ja diesen induktiven kapazsten Wert. Also nochmal zurück, die schalten die Direktor schaut sich diese Schaltung an. Wie Defekt sie ist oder in welchen Zustand sie gerade ist. Und zu diesem Zustand gibt eine Aktion aus diese Aktion. Und der Kritik?
+
+Diese Aktion wird dann an die Schaltung gegeben. Die Schaltung führt ein Selbsttest durch, gibt ein Wert aus wie gut diese Aktion, also wie gut diese pid-werte in diesem Zustand geholfen gewirkt haben. Und dann der Kritik nimmt diesen Wert, also die sind selbstbeurteilungswert Er nimmt ja diesen Aktion und den Zustand. Das heisst es klären diese Beurteilung weil er schaut sich. Wie kaputt die Schaltung war welche pd-werte wurden durchgeführt und halt wie das ausgewirkt hat. Das ist ja die Formel für den Kritik und der Kritik versucht genau. Also die Kritik versucht die.
+
+Und dadurch?
+
+Ist einfach 0, weil hier nicht diesen Also okay? Also das ist ja die originale Formel brauchen wir nicht die ganze weil in unseren konkreten Fall wir haben nur einen Zustand das ist sowas wie? Ein Multi m bandit-programm ist das also konkreten Fall. Wir haben nur genauso, also in unserem konkreten Fall gibt es keine Zustand. Übergänge
+
+Also den können wir einfach diesen gammawert zum Null setzen was die Rechnung vereinfacht und am Endeffekt wie man sieht. Der Kritik lernt nur die die richtige Meppen von Zuständen zustandaktienpaare zu den rewards Warum habe ich diesen Wert auf Null gesetzt? Weil in unseren konkreten Problem ist, gibt es nur ein Zustand Das ist ja der aktuelle Zustand des Schaltung. Ich habe in mein Trainings nicht diesen degenerativen Verhalten. Das ist halt Zustand wie man gibt simuliert, sondern ich gehe nur einfach davon aus, dass ich bekomme eine fertige Schaltung. Die ist halt die inneneinzustand und ich und ich lerne und und ich bringe diesen Kritik einfach dabei in diesen Zustand eine Achsen durchzuführen. Den optimalen Wert zu finden? Da gibt es ja noch natürlich, da gibt es ja noch. Wir müssen zusammen nach oben, aber. Ganz wichtig!
+
+Ja, ganz wichtig!
+
+Ja, da gibt es noch verbesserungspotenzial
+
+Genau Kritik
+
+Das war noch relativ einfach. Das ist das sehr ähnlich wie bei die purlearning dritte Klasse dieses schwierige Problem. Das Problem hier wäre ich hätte nicht Aktion also muss ich mir das mit diesen mit diesen mit diesen zwei schaltungssystem arbeiten? Weil wir eigentlich so was wie ein unendlichen Raum an möglichen Aktion quasi approximieren. So? Das ist sehr kompliziert. Mathematisch sehr einfach in In Computer kurz zu implementieren. Mathematisch gesehen schon sich hier. Wir haben zwei gradienten.
+
+Ein gradient?
+
+Naja, es ist aus.
+
+Da kommt die Star Digger dachte ich würde privat.
+
+Des Kuchen?  

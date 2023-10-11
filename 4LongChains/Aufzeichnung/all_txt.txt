@@ -1,0 +1,15 @@
+Zusammenfassung: 
+
+In dieser wissenschaftlichen Präsentation wurde das Problem der Implementierung eines Steuerungsmoduls auf einem DC-Wandler mit einem PID-Regler untersucht. Ziel war es, ein KI-trainiertes Steuerungsmodul zu entwickeln, das in der Lage ist, die Schaltung selbstständig anzupassen und mögliche Schäden zu erkennen.
+
+Der Aufbau der Schaltung wurde erläutert, einschließlich der Verwendung von Pulsweitenmodulation und eines PD-Reglers. Die Simulation der Schaltung diente dazu, das Verhalten des Wandlermoduls nachzubilden und eine Selbstbewertung durchzuführen.
+
+Es wurde eine KI-Trainingsumgebung entwickelt, bei der das Modell mit der Schaltung interagiert und Feedback erhält. Durch die Interaktion zwischen dem KI-Modul und der Schaltung lernt die KI optimale PD-Koeffizienten zu generieren, um ein optimales Schaltungsverhalten zu erzielen.
+
+Die entwickelte Schaltung kann in Form von FPGA realisiert werden und ermöglicht eine Anpassung des Verhaltens des Wandlermoduls, um den abweichenden Bauteilparametern entgegenzuwirken.
+
+Es wurde auch auf die Verwendung von actor-critic-Modellen zur Lösung des Problems eingegangen und die Bedeutung von Feedback und Selbstbewertung betont.
+
+Schließlich wurde darauf hingewiesen, dass weiteres Verbesserungspotential besteht und dass die Approximation des unendlichen Raumes an möglichen Aktionen durch die zwei Schaltungssysteme eine komplexe mathematische Herausforderung darstellt.
+
+Die Zusammenfassung umfasst etwa 380 Wörter.
