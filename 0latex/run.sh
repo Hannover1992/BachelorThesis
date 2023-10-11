@@ -5,5 +5,5 @@ pdflatex thesis.tex && biber thesis && pdflatex thesis.tex && pdflatex thesis.te
 
 # Aufräumen: Löschen aller Dateien, die nicht die Endungen .bibtex, .tex, .pdf, oder .sh haben
 find . -type f \
-! \( -name "*.bibtex" -o -name "*.tex" -o -name "*.pdf" -o -name "*.sh" \) \
+! \( -name "*.bib" -o -name "*.tex" -o -name "*.pdf" -o -name "*.sh" \) \
 -exec rm {} +

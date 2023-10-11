@@ -1,32 +1,30 @@
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper,12pt]{report} % Wechsel von 'article' zu 'report' für Kapitelunterstützung
 
 \usepackage[backend=biber]{biblatex}
-\addbibresource{references.bib}
+\addbibresource{citations.bib}
 
-\title{Der Titel meiner Abschlussarbeit}
-\author{Ihr Name}
+\title{} % Leer lassen, da der Titel manuell gestaltet wird
+\author{} % Leer lassen, da der Autor manuell gestaltet wird
 
 \begin{document}
 
-\maketitle
+\input{0titel} % Manuelle Titelseite
+\input{01abstract} % Abstract zu Beginn der Arbeit
 
-\begin{abstract}
-Dies ist die Zusammenfassung Ihrer Arbeit...
-\end{abstract}
+\tableofcontents % Inhaltsverzeichnis
 
-% Einzelne Kapitel einfügen
+\input{1einleitung}
+%\input{3_Technische_Details_und_Versuchsaufbau}
+%\input{4_Ergebnisse_und_Analyse}
+%\input{5_Diskussion_und_Fazit}
 
-\input{abstract}
-\input{einleitung}
-%\input{literaturuebersicht}
-%\input{methodik}
-%\input{ergebnisse}
-%\input{diskussion_und_schlussfolgerung}
+% Das Abstract am Ende (falls erforderlich)
+% \input{6_Abstract} % Falls das Abstract sowohl am Anfang als auch am Ende erscheinen soll
 
-% Zitat mit BibLaTeX
+% Zitate
 Dies ist eine Zitation \cite{beispiel_artikel}.
 
-% Literaturverzeichnis ausgeben
+% Literaturverzeichnis
 \printbibliography
 
 \end{document}
