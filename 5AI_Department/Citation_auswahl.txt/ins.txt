@@ -1,0 +1,34 @@
+welchen ausschnit soll ich wahlen um die aussage es als quelle ze nahemn 
+aussage: 
+In modern electrical engineering, DC converters are essential to conduct energy efficiently and precisely from a source to a consumer.
+moglichen quellen:
+🦜🔗 Semantic Search with OpenAI and Streamlit
+Enter your search query
+In modern electrical engineering, DC converters are essential to conduct energy efficiently and precisely from a source to a consumer.
+Paper Name: wensdesign2022
+Page Number: 70
+Content
+2 Basic DC-DC Converter Theory Several methods exist to achieve DC-DC voltage conversion. Each of these meth- odshasitsspecificbenefitsanddisadvantages,dependingonanumberofoperating conditionsandspecifications.Examplesofsuchspecificationsarethevoltagecon- version ratio range, the maximal output power, power conversion efficiency, num- berofcomponents,powerdensity,galvanicseparationofin-andoutput,etc.When designingfully-integratedDC-DCconvertersthesespecificationsgenerallyremain relevant,neverthelesssomeofthemwillgainweight,asmorerestrictionsemerge. For instance the used IC technology, the IC technology options and the available chip area will be dominant for the production cost, limiting the value and quality factor of the passive components. These limited values will in-turn have a signifi- cantimpactuponthechoiceoftheconversionmethod. InorderforthedesignertoobtainaclearviewoftheDC-DCvoltageconversion methodsandtheirindividualadvantagesanddisadvantages,withrespecttomono-
+Relevance:0.8591976165771484
+BibTeX Citation for wensdesign2022
+@book{wensdesign2022,
+ address = {Leuven, Belgium},
+ author = {Wens, Mike and Steyaert, Michiel},
+ email = {Mike.Wens@esat.kuleuven.be; michiel.steyaert@esat.kuleuven.ac.be},
+ note = {ESAT-MICAS, Dept. Elektrotechniek, K.U. Leuven},
+ publisher = {[Publisher Name - Not Provided]},
+ series = {Series Editors: Mohammed Ismail; Mohamad Sawan},
+ title = {Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS},
+ year = {2022}
+}
+Paper Name: wensdesign2022
+Page Number: 44
+Content
+widely used and thus potentially the most economical chip technology. The target of this work is to determine the feasibility of monolithic integration of in- ductive DC-DC converters in CMOS, in addition with the fundamental limits that apply. This chapter provides some basic considerations and a few historical notes, in Sect. 1.1. Examples of low power applications for DC-DC converters situate the relevanceofthework,inSect.1.2.Thechallengesofcreatingmonolithicinductive DC-DC are highlightedin Sect.1.3. The outlineof this dissertation is providedin Sect.1.4.TheconclusionsofthischapteraregiveninSect.1.5. M.Wens,M.Steyaert,DesignandImplementationofFully-IntegratedInductive 1 DC-DCConvertersinStandardCMOS,AnalogCircuitsandSignalProcessing, DOI10.1007/978-94-007-1436-6_1,©SpringerScience+BusinessMediaB.V.2011
+Relevance:0.8462884426116943
+
+Andwort:
+Die Aussage, dass "DC-Konverter in der modernen Elektrotechnik unerlässlich sind, um Energie effizient und präzise von einer Quelle zu einem Verbraucher zu leiten," kann durch den Abschnitt unter der Überschrift "2 Basic DC-DC Converter Theory" auf Seite 70 des Buches "Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS" von Mike Wens und Michiel Steyaert belegt werden. In diesem Abschnitt wird auf die verschiedenen Methoden zur DC-DC-Spannungswandlung eingegangen und darauf, wie bestimmte Betriebsbedingungen und Spezifikationen die Wahl der Umwandlungsmethode beeinflussen können. Die in diesem Abschnitt beschriebenen Konzepte unterstützen die Bedeutung von DC-Konvertern in Bezug auf die effiziente und präzise Energieübertragung in modernen elektrischen Systemen.
+Für eine formelle Zitation könnten Sie den folgenden BibTeX-Eintrag verwenden:
+Die Aussage, dass "DC-Konverter in der modernen Elektrotechnik unerlässlich sind, um Energie effizient und präzise von einer Quelle zu einem Verbraucher zu leiten," kann durch den Abschnitt unter der Überschrift "2 Basic DC-DC Converter Theory" auf Seite 70 des Buches "Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS" von Mike Wens und Michiel Steyaert belegt werden. In diesem Abschnitt wird auf die verschiedenen Methoden zur DC-DC-Spannungswandlung eingegangen und darauf, wie bestimmte Betriebsbedingungen und Spezifikationen die Wahl der Umwandlungsmethode beeinflussen können. Die in diesem Abschnitt beschriebenen Konzepte unterstützen die Bedeutung von DC-Konvertern in Bezug auf die effiziente und präzise Energieübertragung in modernen elektrischen Systemen.
+\cite[p.~10]{wensdesign2022}

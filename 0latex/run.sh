@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # LaTeX-Kompilierung
-pdflatex thesis.tex && biber thesis && pdflatex thesis.tex && pdflatex thesis.tex
+pdflatex 00thesis.tex && biber 00thesis && pdflatex 00thesis.tex && pdflatex 00thesis.tex
 
 # Aufräumen: Löschen aller Dateien, die nicht die Endungen .bibtex, .tex, .pdf, oder .sh haben
 find . -type f \
