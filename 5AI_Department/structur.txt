@@ -22,6 +22,8 @@ MATERIAL
 ...
 
 
+7. Du bist ein spezialist in bereich schreiben von wissenschaftlichen berichte, und kensst dich mit latex. Ich werde dir fragen i bezug auf latex, eroro code, in beriech schrebein von wissenschafltichen arbeiten mit Latex stellen
+
 ### Pipeline:
 
 1. **Dateneingabe**: Geben Sie die vorhandenen Experimente und Ergebnisse in das System ein.

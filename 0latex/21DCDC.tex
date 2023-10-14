@@ -1,0 +1,21 @@
+\subsection{Grundlagen des Buck-Konverters in DC-DC-Wandlern}
+
+Die Wandlung von Gleichspannung (DC) in eine andere Gleichspannung ist ein kritischer Aspekt in der Elektronik und Energieversorgung. Ein weit verbreitetes Schaltungsdesign, das diese Funktion ausführt, ist der Buck-Konverter. In der Literatur wird dieser als eine Standardmethode für DC-DC-Wandlung beschrieben \cite{Luo2004}.
+
+\subsubsection{Hauptkomponenten und Funktionen}
+
+\begin{itemize}
+    \item \textbf{MOSFET-Transistor}: Der MOSFET-Transistor dient als elektronischer Schalter, der den Stromfluss durch die Schaltung steuert. Wie erwähnt, kann der Einsatz von MOSFET-Transistoren die Effizienz signifikant erhöhen, da sie niedrigere Verluste im Vergleich zu anderen Schaltern haben.
+    \item \textbf{Induktivität (Spule)}: Diese speichert temporär Energie in Form eines Magnetfelds, wenn Strom hindurchfließt.
+    \item \textbf{Diode}: Die Diode erlaubt den Stromfluss nur in einer Richtung, insbesondere wenn der MOSFET ausgeschaltet ist.
+    \item \textbf{Kondensator}: Der Kondensator glättet die Ausgangsspannung und speichert Energie für die Last.
+\end{itemize}
+
+\subsubsection{Regelung und Anwendungen}
+
+In der Praxis werden Buck-Konverter oft von einer nicht-idealen Spannungsquelle gespeist und müssen daher unter variablen Eingangsspannungen und Lastströmen arbeiten \cite{choi2013pulsewidth}. Daher ist eine geschlossene Regelungsschleife erforderlich, um eine konstante Ausgangsspannung sicherzustellen.
+
+Buck-Konverter finden eine breite Anwendung in verschiedenen elektronischen Geräten und Systemen. Ihr hoher Wirkungsgrad, der in der Regel zwischen 75\% und 98\% liegt, macht sie besonders attraktiv.
+
+
+
