@@ -1,0 +1,314 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Almawlawe2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5e2a61e8b65a081574794bb2778fdc8f}{%
+           family={Almawlawe},
+           familyi={A\bibinitperiod},
+           given={Muhanad\bibnamedelimb D.\bibnamedelimi Hashim},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=562fb84f37d25d419f64b15bd7514081}{%
+           family={Al-badri},
+           familyi={A\bibinithyphendelim b\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3f66f60fcbb59f6396b608ad00b23a3a}{%
+           family={Alsakini},
+           familyi={A\bibinitperiod},
+           given={Issam\bibnamedelima Hayder},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {University of Al-Qadisiyah- Engineering College}%
+        {Middle Technical University}%
+      }
+      \strng{namehash}{b1e494de8c8d7327325a19e95261a4a9}
+      \strng{fullhash}{b1e494de8c8d7327325a19e95261a4a9}
+      \strng{bibnamehash}{b1e494de8c8d7327325a19e95261a4a9}
+      \strng{authorbibnamehash}{b1e494de8c8d7327325a19e95261a4a9}
+      \strng{authornamehash}{b1e494de8c8d7327325a19e95261a4a9}
+      \strng{authorfullhash}{b1e494de8c8d7327325a19e95261a4a9}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Controlling a system is a complicated job, especially when we talk about the nonlinearity of the system introduced by the external changes. This paper presents the procedure of designing, analysis, and verification of nonlinear autoregressive moving average controller (NARMA L2) as an artificial intelligence technique to track the output voltage of a Buck dc/dc converter in comparison with PID controller, digitalized sliding mode controller so as to reduce the ripples in output voltage and to suppress the transient overshoots, or in other words, enhance the transient response diversity of the plant in the case of load and line changes. In this technique, a back- propagation learning algorithm is derived to increase the effectiveness of the proposed controller. Finally, the proposed method of control using a neural network controller is designed using MATLAB/SIMULINK and the results of the converter for the Neuro controller are compared with different techniques of control.}
+      \field{journaltitle}{Unknown Journal}
+      \field{number}{Unknown Number}
+      \field{title}{Performance Improvement of a DC/DC Converter Using Neural Network Controller in comparison with Different Controllers}
+      \field{volume}{Unknown Volume}
+      \field{year}{2023}
+      \field{pages}{Unknown Pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{brunton2019data}{book}{}
+      \name{author}{2}{}{%
+        {{hash=572af75cb67759c9684ffbb4d11cddf8}{%
+           family={Brunton},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=39878c41ca2338687a0064bcc2ba2922}{%
+           family={Kutz},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi Nathan},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University Printing House, Cambridge CB2 8BS, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{30df7fd58c3ce66638d5f915c5667db4}
+      \strng{fullhash}{30df7fd58c3ce66638d5f915c5667db4}
+      \strng{bibnamehash}{30df7fd58c3ce66638d5f915c5667db4}
+      \strng{authorbibnamehash}{30df7fd58c3ce66638d5f915c5667db4}
+      \strng{authornamehash}{30df7fd58c3ce66638d5f915c5667db4}
+      \strng{authorfullhash}{30df7fd58c3ce66638d5f915c5667db4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-108-42209-3}
+      \field{title}{Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1017/9781108380690
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/9781108422093
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/9781108422093
+      \endverb
+    \endentry
+    \entry{choi2013pulsewidth}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e4e5588ac05888480d0d46ca54db74ec}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Byungcho},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press, Wiley}%
+      }
+      \strng{namehash}{e4e5588ac05888480d0d46ca54db74ec}
+      \strng{fullhash}{e4e5588ac05888480d0d46ca54db74ec}
+      \strng{bibnamehash}{e4e5588ac05888480d0d46ca54db74ec}
+      \strng{authorbibnamehash}{e4e5588ac05888480d0d46ca54db74ec}
+      \strng{authornamehash}{e4e5588ac05888480d0d46ca54db74ec}
+      \strng{authorfullhash}{e4e5588ac05888480d0d46ca54db74ec}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-118-18063-1}
+      \field{series}{IEEE Press series on power engineering}
+      \field{title}{Pulsewidth Modulated DC-to-DC Power Conversion: Circuits, Dynamics, and Control Designs}
+      \field{year}{2013}
+    \endentry
+    \entry{jeong2023degradation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4acc3ee34f0a28bdce020113fe67ab5a}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Jaeyoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2340b9de7041acb4cf94406e26770e75}{%
+           family={Kwak},
+           familyi={K\bibinitperiod},
+           given={Sangshin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b586746f0f7c86b54ad5b3014ef0d5ac}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Seungdeog},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \strng{fullhash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \strng{bibnamehash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \strng{authorbibnamehash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \strng{authornamehash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \strng{authorfullhash}{e3cc448b61b04b720297d1a3ab6ae7b8}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As the use of interleaved DC–DC converters in electric vehicles (EVs) increases, research on reliability improvement is required. ... its efficacy is proved through simulations and experiments.}
+      \field{journaltitle}{Machines}
+      \field{note}{Received: 1 May 2023, Revised: 29 May 2023, Accepted: 30 May 2023, Published: 5 June 2023}
+      \field{title}{Degradation-Sensitive Control Algorithm Based on Phase Optimization for Interleaved DC–DC Converters}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{624}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/machines11060624
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/journal/machines
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/journal/machines
+      \endverb
+      \keyw{silicon carbide MOSFET; degradation; 2-leg interleaved DC–DC boost converter; capacitor RMS current; phase optimization}
+    \endentry
+    \entry{kulkarni_model-based_2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d886c6b9bc3c363995a7633c61d7f02d}{%
+           family={Kulkarni},
+           familyi={K\bibinitperiod},
+           given={Chetan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=54583c14bb1888ee54d35d66487c2138}{%
+           family={Biswas},
+           familyi={B\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod}}}%
+        {{hash=65dc3f7f6a7108f7b93bd63844743d97}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Kyusung},
+           giveni={K\bibinitperiod}}}%
+        {{hash=95cd0aed7dc304d71e4b1683c63afc1a}{%
+           family={Bharadwaj},
+           familyi={B\bibinitperiod},
+           given={Raj\bibnamedelima Mohan},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Dept. of EECS/ISIS, Vanderbilt University}%
+        {Honeywell Aerospace-Advance Technology}%
+      }
+      \list{location}{2}{%
+        {Nashville, TN}%
+        {Golden Valley, MN}%
+      }
+      \strng{namehash}{ab9b13062381264e60748ad44101f951}
+      \strng{fullhash}{233763c28f21b972e385c472aa7d3649}
+      \strng{bibnamehash}{ab9b13062381264e60748ad44101f951}
+      \strng{authorbibnamehash}{ab9b13062381264e60748ad44101f951}
+      \strng{authornamehash}{ab9b13062381264e60748ad44101f951}
+      \strng{authorfullhash}{233763c28f21b972e385c472aa7d3649}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper proposes a combined energy-based model with an empirical physics of failure model for degradation analysis and prognosis of electrolytic capacitors in DC-DC power converters. Electrolytic capacitors and MOSFET’s have higher failure rates than other components in DC-DC converter systems. ... using Monte Carlo simulation methods.}
+      \field{journaltitle}{[Journal Name - Not Provided]}
+      \field{title}{Model-based Avionics Systems Fault Simulation and Detection}
+      \field{year}{2023}
+      \keyw{Bond Graphs,DC-DC converters,Electrolytic Capacitors,ESR,Fault Detection,Fault Isolation,GPS,Prognosis}
+    \endentry
+    \entry{Luo2004}{book}{}
+      \name{author}{2}{}{%
+        {{hash=5b0bb069dc5e5174716b61cdab49fed3}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Fang\bibnamedelima Lin},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e36a8b2f17ddf9dfab49c17d1c7f3423}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=878f5b85835c2ec57a487b2b1977e44d}{%
+           family={Rashid},
+           familyi={R\bibinitperiod},
+           given={Muhammad\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, London, New York, Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{fullhash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{bibnamehash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{authorbibnamehash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{authornamehash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{authorfullhash}{0112b27c6dc9b866826571d1285e5faa}
+      \strng{editorbibnamehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{editornamehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{editorfullhash}{878f5b85835c2ec57a487b2b1977e44d}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8493-1956-0}
+      \field{note}{Library of Congress Cataloging-in-Publication Data: TK7887.6.L86 2003, 621.31'32—dc21, 2003051622}
+      \field{series}{Power Electronics and Applications Series}
+      \field{title}{Advanced DC/DC Converters}
+      \field{year}{2004}
+      \keyw{DC-to-DC converters}
+    \endentry
+    \entry{wensdesign2022}{book}{}
+      \name{author}{2}{}{%
+        {{hash=041a2cb52b3656c66b7ac34968f7d5da}{%
+           family={Wens},
+           familyi={W\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=752c15862a2cb246b400519caf149073}{%
+           family={Steyaert},
+           familyi={S\bibinitperiod},
+           given={Michiel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leuven, Belgium}%
+      }
+      \list{publisher}{1}{%
+        {[Publisher Name - Not Provided]}%
+      }
+      \strng{namehash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \strng{fullhash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \strng{bibnamehash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \strng{authorbibnamehash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \strng{authornamehash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \strng{authorfullhash}{f6c28a9829b7f5d7280946d673ef6e3b}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ESAT-MICAS, Dept. Elektrotechniek, K.U. Leuven}
+      \field{series}{Series Editors: Mohammed Ismail; Mohamad Sawan}
+      \field{title}{Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
