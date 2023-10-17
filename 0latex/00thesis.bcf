@@ -2187,8 +2187,14 @@
     <bcf:citekey order="3">kulkarni_model-based_2023</bcf:citekey>
     <bcf:citekey order="4">brunton2019data</bcf:citekey>
     <bcf:citekey order="5">Almawlawe2023</bcf:citekey>
-    <bcf:citekey order="6">Luo2004</bcf:citekey>
+    <bcf:citekey order="6">wensdesign2022</bcf:citekey>
     <bcf:citekey order="7">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="8">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="9">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="10">Kularatna2012</bcf:citekey>
+    <bcf:citekey order="11">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="12">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="13">choi2013pulsewidth</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

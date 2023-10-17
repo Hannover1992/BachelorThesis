@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  15 OCT 2023 10:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  17 OCT 2023 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@chapter=\count168
@@ -23,6 +23,30 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
@@ -47,10 +71,6 @@ Package pdftexcmds Info: \pdfdraftmode found.
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count176
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
@@ -289,20 +309,54 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./00thesis.aux)
 \openout1 = `00thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count370
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count371
+\nofMParguments=\count372
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count373
+\MPscratchDim=\dimen138
+\MPnumerator=\count374
+\makeMPintoPDFobject=\count375
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -318,110 +372,122 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '00thesis.bbl' found.
 
 (./00thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 9.
-Package biblatex Info: Reference segment=0 on input line 9.
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
  (./0titel.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./01abstract.tex [1]) (.
-/1Einleitung/1einleitung.tex)
-(./1Einleitung/11einleitungBig.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./01abstract.tex
+Overfull \hbox (2.35245pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 mierung der Hy-per-pa-ram-e-ter des neu-ronalen Net-zes vorgest
+ellt. Her-aus-forderun-
+ []
+
+[1]) (./1Einleitung/1einleitung.tex) (./1Einleitung/11einleitungBig.tex
 Chapter 1.
 
-Overfull \hbox (85.6048pt too wide) in paragraph at lines 6--7
-\OT1/cmr/m/n/12 Jedoch wer-den diese Sys-teme durch Degra-da-tion-sef-fekte, be
+Overfull \hbox (59.88957pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 Jedoch wer-den diese Sys-teme durch Degra-da-tion-sef-fekte, be
 son-ders von Schl^^?usselkomponenten
  []
 
 
-Overfull \hbox (15.30136pt too wide) in paragraph at lines 6--7
-\OT1/cmr/m/n/12 die Lebens-dauer und Ef-fizienz von elek-tro-n-is-chen Sys-te-m
-en nach-haltig sch^^?adigen
+Overfull \hbox (7.158pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10 sowie Al-mawlawe et al. na-hele-gen, eine her-vor-ra-gende Plat
+-tform f^^?ur die Steuerung
+ []
+
+) (./2Grundlagen/1Grundlagen.tex
+Overfull \hbox (28.08287pt too wide) in paragraph at lines 15--1
+\OT1/cmr/m/n/10 Diese Ar-beit zielt da-rauf ab, die An-wen-dungsm^^?oglichkeite
+n von KNN zur []Uberwachung
  []
 
 [1
 
-]) (./2Grundlagen/1Grundlagen.tex [2]
+] [2]
 Chapter 2.
 
-Overfull \hbox (3.76955pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 Rolle neu-ronaler Netze in der Op-ti-mierung und Steuerung von 
-PID-regulierten
+Overfull \hbox (27.39412pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 Konvertern. Im Fokus ste-hen sowohl die Grund-la-gen der DC-DC-
+Konvertertechnologie
  []
 
 
-Overfull \hbox (68.71843pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 DC-Konvertern. Im Fokus ste-hen sowohl die Grund-la-gen der DC-
-DC-Konvertertechnologie
- []
-
-
-Overfull \hbox (1.52371pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 als auch spezielle Her-aus-forderun-gen, die in diesem Kon-text
- auftreten k^^?onnen,
+Overfull \hbox (18.80624pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 Dar^^?uber hin-aus bi-etet das Kapi-tel einen []Uberblick ^^?ub
+er mod-erne Op-ti-mierungsmeth-
  []
 
 (./2Grundlagen/11DCDC.tex
-Overfull \hbox (40.55457pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/14.4 Grundlagen des Buck-Konverters in DC-DC-Wandlern 
+Overfull \hbox (13.79587pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/12 Grundlagen des Buck-Konverters in DC-DC-Wandlern 
  []
 
 [3
 
 ]
-Overfull \hbox (17.77356pt too wide) in paragraph at lines 16--17
-\OT1/cmr/m/n/12 In der Praxis wer-den Buck-Konverter oft von einer nicht-ideale
+Overfull \hbox (1.38023pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 ist. Als pas-sive Schal-ter wer-den oft-mals schnelle Er-hol-un
+gs-dio-den oder Schottky-
+ []
+
+
+Overfull \hbox (2.2228pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 In der Praxis wer-den Buck-Konverter oft von einer nicht-ideale
 n Span-nungsquelle
  []
 
-)) [4]
+
+Overfull \hbox (4.7229pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 gespeist und m^^?ussen da-her unter vari-ablen Ein-gangss-pan-n
+un-gen und Last-str^^?omen
+ []
+
+<2Grundlagen/111DCDC.png, id=21, 585.18625pt x 552.0625pt>
+File: 2Grundlagen/111DCDC.png Graphic file (type png)
+<use 2Grundlagen/111DCDC.png>
+Package pdftex.def Info: 2Grundlagen/111DCDC.png  used on input line 29.
+(pdftex.def)             Requested size: 241.49895pt x 227.82967pt.
+)) [4] [5 <./2Grundlagen/111DCDC.png>]
 Appendix A.
-[5
+[6
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <5> on input line 23.
 
-Overfull \hbox (8.74907pt too wide) in paragraph at lines 22--22
-[]\OT1/cmr/m/n/12 Fang Lin Luo and Hong Ye. \OT1/cmr/m/it/12 Ad-vanced DC/DC Co
-n-vert-ers\OT1/cmr/m/n/12 . Ed. by Muham-
+Overfull \hbox (7.23625pt too wide) in paragraph at lines 24--24
+[]\OT1/cmr/m/n/10 Jaeyoon Jeong, Sang-shin Kwak, and Se-ungdeog Choi. ``Degrada
+tion-Sensitive
  []
 
+[7
 
-Overfull \hbox (39.1643pt too wide) in paragraph at lines 22--22
-\OT1/cmr/m/n/12 Congress Cataloging-in-Publication Data: TK7887.6.L86 2003, 621
-.31'32|dc21,
- []
-
-[6
-
-] [7] (./00thesis.aux)
+] (./00thesis.aux)
 Package logreq Info: Writing requests to '00thesis.run.xml'.
 \openout1 = `00thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7900 strings out of 481239
- 149908 string characters out of 5920378
- 768233 words of memory out of 5000000
- 23134 multiletter control sequences out of 15000+600000
- 538659 words of font info for 45 fonts, out of 8000000 for 9000
+ 8686 strings out of 481239
+ 161212 string characters out of 5920378
+ 782228 words of memory out of 5000000
+ 23888 multiletter control sequences out of 15000+600000
+ 536190 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,4n,45p,1194b,1283s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-frm1200.pfb>
-Output written on 00thesis.pdf (9 pages, 87547 bytes).
+ 38i,5n,50p,1194b,1441s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 00thesis.pdf (9 pages, 130797 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

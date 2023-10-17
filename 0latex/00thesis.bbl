@@ -181,6 +181,35 @@
       \endverb
       \keyw{silicon carbide MOSFET; degradation; 2-leg interleaved DC–DC boost converter; capacitor RMS current; phase optimization}
     \endentry
+    \entry{Kularatna2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8fef41244a13235bfb43a7f1a2463e4c}{%
+           family={Kularatna},
+           familyi={K\bibinitperiod},
+           given={Nihal},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, London, New York}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press, Taylor \& Francis Group}%
+      }
+      \strng{namehash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \strng{fullhash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \strng{bibnamehash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \strng{authorbibnamehash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \strng{authornamehash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \strng{authorfullhash}{8fef41244a13235bfb43a7f1a2463e4c}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-415-80248-2}
+      \field{note}{Version Date: 2011916, No claim to original U.S. Government works}
+      \field{title}{DC Power Supplies: Power Management and Surge Protection for Power Electronic Systems}
+      \field{year}{2012}
+    \endentry
     \entry{kulkarni_model-based_2023}{article}{}
       \name{author}{4}{}{%
         {{hash=d886c6b9bc3c363995a7633c61d7f02d}{%
@@ -227,52 +256,6 @@
       \field{title}{Model-based Avionics Systems Fault Simulation and Detection}
       \field{year}{2023}
       \keyw{Bond Graphs,DC-DC converters,Electrolytic Capacitors,ESR,Fault Detection,Fault Isolation,GPS,Prognosis}
-    \endentry
-    \entry{Luo2004}{book}{}
-      \name{author}{2}{}{%
-        {{hash=5b0bb069dc5e5174716b61cdab49fed3}{%
-           family={Luo},
-           familyi={L\bibinitperiod},
-           given={Fang\bibnamedelima Lin},
-           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=e36a8b2f17ddf9dfab49c17d1c7f3423}{%
-           family={Ye},
-           familyi={Y\bibinitperiod},
-           given={Hong},
-           giveni={H\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=878f5b85835c2ec57a487b2b1977e44d}{%
-           family={Rashid},
-           familyi={R\bibinitperiod},
-           given={Muhammad\bibnamedelima H.},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boca Raton, London, New York, Washington, D.C.}%
-      }
-      \list{publisher}{1}{%
-        {CRC Press}%
-      }
-      \strng{namehash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{fullhash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{bibnamehash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{authorbibnamehash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{authornamehash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{authorfullhash}{0112b27c6dc9b866826571d1285e5faa}
-      \strng{editorbibnamehash}{878f5b85835c2ec57a487b2b1977e44d}
-      \strng{editornamehash}{878f5b85835c2ec57a487b2b1977e44d}
-      \strng{editorfullhash}{878f5b85835c2ec57a487b2b1977e44d}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{0-8493-1956-0}
-      \field{note}{Library of Congress Cataloging-in-Publication Data: TK7887.6.L86 2003, 621.31'32—dc21, 2003051622}
-      \field{series}{Power Electronics and Applications Series}
-      \field{title}{Advanced DC/DC Converters}
-      \field{year}{2004}
-      \keyw{DC-to-DC converters}
     \endentry
     \entry{wensdesign2022}{book}{}
       \name{author}{2}{}{%
