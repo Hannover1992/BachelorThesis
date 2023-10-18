@@ -2194,7 +2194,10 @@
     <bcf:citekey order="10">Kularatna2012</bcf:citekey>
     <bcf:citekey order="11">choi2013pulsewidth</bcf:citekey>
     <bcf:citekey order="12">choi2013pulsewidth</bcf:citekey>
-    <bcf:citekey order="13">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="13">jeong2023degradation</bcf:citekey>
+    <bcf:citekey order="14">wensdesign2022</bcf:citekey>
+    <bcf:citekey order="15">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="16">morales2020grokking</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -1,9 +1,17 @@
-\documentclass[a4paper,10pt]{report} % Wechsel von 'article' zu 'report' für Kapitelunterstützung
+\documentclass[a4paper,10pt]{report} % Schriftgröße auf 10pt geändert
 
 \usepackage{graphicx}
-
 \usepackage[backend=biber]{biblatex}
 \addbibresource{citations.bib}
+
+% Pakete für die Verbesserungsvorschläge
+\usepackage[margin=1in]{geometry} % Ränder reduziert
+\usepackage{setspace} % Zeilenabstand steuern
+\usepackage{enumitem} % Kompakte Listen
+\usepackage{multicol} % Mehrspaltiger Text
+
+\setstretch{1.15} % Zeilenabstand auf 1,15 eingestellt
+\setlist{nosep} % Kompakte Listen
 
 \title{} % Leer lassen, da der Titel manuell gestaltet wird
 \author{} % Leer lassen, da der Autor manuell gestaltet wird
@@ -12,15 +20,16 @@
 
 \input{0titel} % Manuelle Titelseite
 \input{01abstract} % Abstract zu Beginn der Arbeit
+\tableofcontents % Inhaltsverzeichnis
 
 %\tableofcontents % Inhaltsverzeichnis
 
 \input{1Einleitung/1einleitung}
-\input{1Einleitung/11einleitungBig}
+%\input{1Einleitung/11einleitungBig}
 \input{2Grundlagen/1Grundlagen}
-\appendix % Start of the appendix
-\chapter{Anhang} % Name the appendix as "Anhang"
-\printbibliography % Now, the bibliography will be a part of the appendix
 
+\appendix % Start des Anhangs
+\chapter{Anhang} % Den Anhang als "Anhang" bezeichnen
+\printbibliography % Jetzt wird die Bibliographie ein Teil des Anhangs
 
 \end{document}

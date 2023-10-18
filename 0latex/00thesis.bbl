@@ -257,6 +257,50 @@
       \field{year}{2023}
       \keyw{Bond Graphs,DC-DC converters,Electrolytic Capacitors,ESR,Fault Detection,Fault Isolation,GPS,Prognosis}
     \endentry
+    \entry{morales2020grokking}{book}{}
+      \name{author}{1}{}{%
+        {{hash=21fdb274b4415641fc5a23082d7d34cf}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{foreword}{1}{}{%
+        {{hash=a5f957e044f6b385f72693f4b8e59dd6}{%
+           family={Charles\bibnamedelima Isbell},
+           familyi={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Jr.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {20 Baldwin Road, PO Box 761, Shelter Island, NY 11964}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications Co.}%
+      }
+      \strng{namehash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{fullhash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{bibnamehash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{authorbibnamehash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{authornamehash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{authorfullhash}{21fdb274b4415641fc5a23082d7d34cf}
+      \strng{forewordbibnamehash}{a5f957e044f6b385f72693f4b8e59dd6}
+      \strng{forewordnamehash}{a5f957e044f6b385f72693f4b8e59dd6}
+      \strng{forewordfullhash}{a5f957e044f6b385f72693f4b8e59dd6}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Grokking Deep Reinforcement Learning}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.manning.com
+      \endverb
+      \verb{url}
+      \verb https://www.manning.com
+      \endverb
+    \endentry
     \entry{wensdesign2022}{book}{}
       \name{author}{2}{}{%
         {{hash=041a2cb52b3656c66b7ac34968f7d5da}{%
