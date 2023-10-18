@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  18 OCT 2023 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  18 OCT 2023 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -298,62 +298,118 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen137
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count367
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count368
+\leftroot@=\count369
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count370
+\DOTSCASE@=\count371
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count372
+\c@MaxMatrixCols=\count373
+\dotsspace@=\muskip21
+\c@parentequation=\count374
+\dspbrk@lvl=\count375
+\tag@help=\toks16
+\row@=\count376
+\column@=\count377
+\maxfields@=\count378
+\andhelp@=\toks17
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks18
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count367
-\Gm@cntv=\count368
-\c@Gm@tempcnt=\count369
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
-\Gm@dimlist=\toks15
+\Gm@cnth=\count379
+\Gm@cntv=\count380
+\c@Gm@tempcnt=\count381
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks20
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip71
-\enit@outerparindent=\dimen145
-\enit@toks=\toks16
-\enit@inbox=\box45
-\enit@count@id=\count370
-\enitdp@description=\count371
+\labelindent=\skip74
+\enit@outerparindent=\dimen154
+\enit@toks=\toks21
+\enit@inbox=\box47
+\enit@count@id=\count382
+\enitdp@description=\count383
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count372
-\mult@box=\box46
-\multicol@leftmargin=\dimen146
-\c@unbalance=\count373
-\c@collectmore=\count374
-\doublecol@number=\count375
-\multicoltolerance=\count376
-\multicolpretolerance=\count377
-\full@width=\dimen147
-\page@free=\dimen148
-\premulticols=\dimen149
-\postmulticols=\dimen150
-\multicolsep=\skip72
-\multicolbaselineskip=\skip73
-\partial@page=\box47
-\last@line=\box48
-\maxbalancingoverflow=\dimen151
-\mult@rightbox=\box49
-\mult@grightbox=\box50
-\mult@gfirstbox=\box51
-\mult@firstbox=\box52
-\@tempa=\box53
-\@tempa=\box54
+\c@tracingmulticols=\count384
+\mult@box=\box48
+\multicol@leftmargin=\dimen155
+\c@unbalance=\count385
+\c@collectmore=\count386
+\doublecol@number=\count387
+\multicoltolerance=\count388
+\multicolpretolerance=\count389
+\full@width=\dimen156
+\page@free=\dimen157
+\premulticols=\dimen158
+\postmulticols=\dimen159
+\multicolsep=\skip75
+\multicolbaselineskip=\skip76
+\partial@page=\box49
+\last@line=\box50
+\maxbalancingoverflow=\dimen160
+\mult@rightbox=\box51
+\mult@grightbox=\box52
+\mult@gfirstbox=\box53
+\mult@firstbox=\box54
 \@tempa=\box55
 \@tempa=\box56
 \@tempa=\box57
@@ -389,55 +445,57 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box87
 \@tempa=\box88
 \@tempa=\box89
-\c@minrows=\count378
-\c@columnbadness=\count379
-\c@finalcolumnbadness=\count380
-\last@try=\dimen152
-\multicolovershoot=\dimen153
-\multicolundershoot=\dimen154
-\mult@nat@firstbox=\box90
-\colbreak@box=\box91
-\mc@col@check@num=\count381
+\@tempa=\box90
+\@tempa=\box91
+\c@minrows=\count390
+\c@columnbadness=\count391
+\c@finalcolumnbadness=\count392
+\last@try=\dimen161
+\multicolovershoot=\dimen162
+\multicolundershoot=\dimen163
+\mult@nat@firstbox=\box92
+\colbreak@box=\box93
+\mc@col@check@num=\count393
 )
-\@quotelevel=\count382
-\@quotereset=\count383
+\@quotelevel=\count394
+\@quotereset=\count395
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count384
-\l__pdf_internal_box=\box92
+\l__kernel_color_stack_int=\count396
+\l__pdf_internal_box=\box94
 )
 (./00thesis.aux)
 \openout1 = `00thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count385
-\scratchdimen=\dimen155
-\scratchbox=\box93
-\nofMPsegments=\count386
-\nofMParguments=\count387
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count388
-\MPscratchDim=\dimen156
-\MPnumerator=\count389
-\makeMPintoPDFobject=\count390
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count397
+\scratchdimen=\dimen164
+\scratchbox=\box95
+\nofMPsegments=\count398
+\nofMParguments=\count399
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count400
+\MPscratchDim=\dimen165
+\MPnumerator=\count401
+\makeMPintoPDFobject=\count402
+\everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -462,8 +520,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '00thesis.bbl' found.
 
 (./00thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -502,12 +560,7 @@ Package biblatex Info: Reference segment=0 on input line 19.
 (./0titel.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./01abstract.tex [1]) (./00thesis.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
-)
+(./01abstract.tex [1]) (./00thesis.toc)
 \tf@toc=\write4
 \openout4 = `00thesis.toc'.
 
@@ -528,11 +581,35 @@ File: 2Grundlagen/111DCDC.png Graphic file (type png)
 <use 2Grundlagen/111DCDC.png>
 Package pdftex.def Info: 2Grundlagen/111DCDC.png  used on input line 29.
 (pdftex.def)             Requested size: 181.18439pt x 170.927pt.
-) (./2Grundlagen/12Degradation.tex [4 <./2Grundlagen/111DCDC.png>])) [5]
-Appendix A.
-[6
+) (./2Grundlagen/12Degradation.tex
+Overfull \hbox (1.70992pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/12 Degradation von Kon-den-satoren und MOS-FETs in DC-DC-Konver
+tern 
+ []
 
-] [7
+
+Overfull \hbox (22.22832pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/bx/n/10 Kon-den-satoren[] \OT1/cmr/m/n/10 Kon-den-satoren sind anf^^?
+allig f^^?ur ver-schiedene Arten von Aus-fallmodi, darunter []Anderungen
+ []
+
+) (./2Grundlagen/13PID.tex [4 <./2Grundlagen/111DCDC.png>]
+Overfull \hbox (8.47128pt too wide) in paragraph at lines 36--37
+ \OT1/cmr/bx/n/10 An-wen-dun-gen bei Gleichstrom-Gleichstrom-Wandlern[] \OT1/cm
+r/m/n/10 Im Kon-text von Gleichstrom-Gleichstrom-
+ []
+
+)
+Overfull \hbox (18.91919pt too wide) in paragraph at lines 39--19
+ \OT1/cmr/bx/n/10 Fazit[] \OT1/cmr/m/n/10 Der PID-Regler ist eine viel-seit-ige
+ und weit ver-bre-it-ete Regelungsstrate-gie. Seine An-pas-sungsf^^?ahigkeit
+ []
+
+(./2Grundlagen/21NeuronaleNetze.tex)) [5] [6]
+Appendix A.
+[7
+
+] [8
 
 ] (./00thesis.aux)
 Package logreq Info: Writing requests to '00thesis.run.xml'.
@@ -540,24 +617,28 @@ Package logreq Info: Writing requests to '00thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9597 strings out of 481239
- 175096 string characters out of 5920378
- 805780 words of memory out of 5000000
- 24782 multiletter control sequences out of 15000+600000
- 536190 words of font info for 37 fonts, out of 8000000 for 9000
+ 10233 strings out of 481239
+ 182628 string characters out of 5920378
+ 819084 words of memory out of 5000000
+ 25395 multiletter control sequences out of 15000+600000
+ 536644 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,50p,1194b,1441s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,5n,50p,1194b,1447s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 00thesis.pdf (9 pages, 143340 bytes).
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb>
+Output written on 00thesis.pdf (10 pages, 179825 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

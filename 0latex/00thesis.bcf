@@ -2198,6 +2198,10 @@
     <bcf:citekey order="14">wensdesign2022</bcf:citekey>
     <bcf:citekey order="15">choi2013pulsewidth</bcf:citekey>
     <bcf:citekey order="16">morales2020grokking</bcf:citekey>
+    <bcf:citekey order="17">Hussein2011PIDGA</bcf:citekey>
+    <bcf:citekey order="18">russell2021ai</bcf:citekey>
+    <bcf:citekey order="19">Almawlawe2023</bcf:citekey>
+    <bcf:citekey order="20">Shi2020AdaptiveController</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

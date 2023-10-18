@@ -131,6 +131,41 @@
       \field{title}{Pulsewidth Modulated DC-to-DC Power Conversion: Circuits, Dynamics, and Control Designs}
       \field{year}{2013}
     \endentry
+    \entry{Hussein2011PIDGA}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a4d83899b8ca6a255aa7741ca1e40453}{%
+           family={Hussein},
+           familyi={H\bibinitperiod},
+           given={Emad\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b595f7503d981e6f0e2df8bdb4088012}{%
+           family={Waly},
+           familyi={W\bibinitperiod},
+           given={Musa\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Iraq-Baghdad}%
+      }
+      \list{organization}{1}{%
+        {Electrical Engineering Department, Al-Mustansiriya University}%
+      }
+      \strng{namehash}{c399014503a748e9351084b5c98faf09}
+      \strng{fullhash}{c399014503a748e9351084b5c98faf09}
+      \strng{bibnamehash}{c399014503a748e9351084b5c98faf09}
+      \strng{authorbibnamehash}{c399014503a748e9351084b5c98faf09}
+      \strng{authornamehash}{c399014503a748e9351084b5c98faf09}
+      \strng{authorfullhash}{c399014503a748e9351084b5c98faf09}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Al-Qadisiya Journal For Engineering Sciences}
+      \field{number}{2}
+      \field{title}{Proportional-Integral (PID) Controller Design Using Genetic Algorithm (GA)}
+      \field{volume}{4}
+      \field{year}{2011}
+    \endentry
     \entry{jeong2023degradation}{article}{}
       \name{author}{3}{}{%
         {{hash=4acc3ee34f0a28bdce020113fe67ab5a}{%
@@ -299,6 +334,89 @@
       \endverb
       \verb{url}
       \verb https://www.manning.com
+      \endverb
+    \endentry
+    \entry{russell2021ai}{book}{}
+      \name{author}{2}{}{%
+        {{hash=18ee0a7bfc995f40254c9d425c977a49}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5de798d5fa3c0236c0478134cd23f52a}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education, Inc.}%
+      }
+      \strng{namehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{fullhash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{bibnamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authorbibnamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authornamehash}{a4f50258a14156905c8d2b1b4704be30}
+      \strng{authorfullhash}{a4f50258a14156905c8d2b1b4704be30}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{978-0-13-461099-3}
+      \field{note}{Cover images by various photographers and artists.}
+      \field{series}{Pearson Series in Artificial Intelligence}
+      \field{title}{Artificial Intelligence: A Modern Approach}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://lccn.loc.gov/2019047498
+      \endverb
+      \verb{url}
+      \verb https://lccn.loc.gov/2019047498
+      \endverb
+    \endentry
+    \entry{Shi2020AdaptiveController}{article}{}
+      \name{author}{4}{}{%
+        {{hash=92bf9126f6959c4077a28aa97c5bf229}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7e0779b87ed027a9f94f8cd8125b6d92}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Hak-Keung},
+           giveni={H\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=e4e6a845d7c8f92088e638e3318dde22}{%
+           family={Xuan},
+           familyi={X\bibinitperiod},
+           given={Chengbin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4f5df8df4b63f762005caf148ed9fe60}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1880d93e06a92485d303d5da7cb82d3d}
+      \strng{fullhash}{b076d3276ebec1a7bb768ff7aa31d9e4}
+      \strng{bibnamehash}{1880d93e06a92485d303d5da7cb82d3d}
+      \strng{authorbibnamehash}{1880d93e06a92485d303d5da7cb82d3d}
+      \strng{authornamehash}{1880d93e06a92485d303d5da7cb82d3d}
+      \strng{authorfullhash}{b076d3276ebec1a7bb768ff7aa31d9e4}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurocomputing}
+      \field{note}{Journal Pre-proof, Communicated by Prof. Zidong Wang}
+      \field{title}{Adaptive Neuro-Fuzzy PID Controller based on Twin Delayed Deep Deterministic Policy Gradient Algorithm}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.neucom.2020.03.063
       \endverb
     \endentry
     \entry{wensdesign2022}{book}{}
