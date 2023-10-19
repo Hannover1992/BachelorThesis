@@ -419,6 +419,41 @@
       \verb https://doi.org/10.1016/j.neucom.2020.03.063
       \endverb
     \endentry
+    \entry{SwainBaid2014}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=b06cd258b10b6d28ac8bf20ac9a9da85}{%
+           family={Swain},
+           familyi={S\bibinitperiod},
+           given={Tapan\bibnamedelima Kumar},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f0e89acc577539d13206c61eb09f679f}{%
+           family={Baid},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National Institute of Technology, Rourkela}%
+      }
+      \list{location}{1}{%
+        {Rourkela, Orissa-769008}%
+      }
+      \strng{namehash}{129eaf2d01c109a602233d242576f3dc}
+      \strng{fullhash}{129eaf2d01c109a602233d242576f3dc}
+      \strng{bibnamehash}{129eaf2d01c109a602233d242576f3dc}
+      \strng{authorbibnamehash}{129eaf2d01c109a602233d242576f3dc}
+      \strng{authornamehash}{129eaf2d01c109a602233d242576f3dc}
+      \strng{authorfullhash}{129eaf2d01c109a602233d242576f3dc}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{This work was carried out under the supervision of Prof. Sandip Ghosh for the partial fulfillment of the requirements for the award of End semester thesis Submission in Electrical Engineering at National Institute of Technology, Rourkela (Deemed University).}
+      \field{title}{Analog Fabrication of PID Controller}
+      \field{type}{Bachelor's Thesis}
+      \field{year}{2014}
+    \endentry
     \entry{wensdesign2022}{book}{}
       \name{author}{2}{}{%
         {{hash=041a2cb52b3656c66b7ac34968f7d5da}{%
