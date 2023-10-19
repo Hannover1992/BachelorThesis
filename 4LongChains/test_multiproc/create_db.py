@@ -71,5 +71,19 @@ if __name__ == '__main__':
         
     all_texts_with_metadata = [item for sublist in results for item in sublist]
     
-    # Fortsetzung mit dem Rest Ihres Codes
-    # z.B. Einbettungen erstellen, Vektoren speichern usw.
+    # Split text into chunks with metadata
+    python_splitter = PythonCodeTextSplitter(chunk_size=chunk, chunk_overlap=overlap)
+    docs = []
+    for text, metadata in all_texts_with_metadata:
+        validated_metadata = validate_metadata(metadata)  # Validate metadata
+        chunks = python_splitter.create_documents([text])
+        for chunk in chunks:
+            chunk.metadata = validated_metadata  # Add validated metadata to each chunk
+            docs.append(chunk)
+
+    # Create embeddings
+    embeddings = create_embedding()
+
+    # Store the vectors
+    store = Chroma.from_documents(docs, embeddings, persist_directory='db')
+    store.persist()

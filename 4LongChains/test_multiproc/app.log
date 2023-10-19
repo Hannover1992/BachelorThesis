@@ -20,3 +20,13 @@ root - ERROR - Missing or empty bibtex_citation in metadata: {'paper_name': 'Zho
 root - ERROR - Missing or empty bibtex_citation in metadata: {'paper_name': 'Zhou2022DDPGPowerControl', 'page_num': 9, 'full_path': './papers/Zhou2022DDPGPowerControl.pdf', 'bibtex_citation': {}}
 root - ERROR - Missing or empty bibtex_citation in metadata: {'paper_name': 'Zhou2022DDPGPowerControl', 'page_num': 10, 'full_path': './papers/Zhou2022DDPGPowerControl.pdf', 'bibtex_citation': {}}
 root - ERROR - Missing or empty bibtex_citation in metadata: {'paper_name': 'Zhou2022DDPGPowerControl', 'page_num': 11, 'full_path': './papers/Zhou2022DDPGPowerControl.pdf', 'bibtex_citation': {}}
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+chromadb.telemetry.posthog - INFO - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+clickhouse_connect.driver.ctypes - INFO - Successfully imported ClickHouse Connect C data optimizations
+clickhouse_connect.driver.ctypes - INFO - Successfully import ClickHouse Connect C/Numpy optimizations
+clickhouse_connect.json_impl - INFO - Using ujson library for writing JSON byte strings
+chromadb.db.duckdb - INFO - No existing DB found in db, skipping load
+chromadb.db.duckdb - INFO - No existing DB found in db, skipping load
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: db
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: db
