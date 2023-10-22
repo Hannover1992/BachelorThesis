@@ -88,18 +88,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Dimensionalität und Netzwerkarchitektur}{8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Gradientenberechnung}{9}%
+\contentsline {subsection}{\numberline {2.2.3}Rückpropagation in Neuronalen Netzwerken}{8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Rückpropagation in Neuronalen Netzwerken}{9}%
+\contentsline {paragraph}{Fehler in der Ausgabeschicht}{9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Fehler Rückpropagieren}{9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Kettenregel Anwenden}{9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Gradienten der Kostenfunktion}{10}%
+\contentsline {paragraph}{Gradienten der Kostenfunktion}{9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}Backpropagation im Training neuronaler Netze}{10}%
+\contentsline {subsubsection}{Mathematische Grundlagen}{9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Mathematische Grundlagen}{10}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Anhang}{11}%
+\contentsline {chapter}{\numberline {A}Anhang}{10}%
