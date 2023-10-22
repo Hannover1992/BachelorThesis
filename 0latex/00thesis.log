@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  19 OCT 2023 14:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  22 OCT 2023 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,6 +469,9 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 
 LaTeX Warning: Label `fig:dcdc_converter' multiply defined.
 
+
+LaTeX Warning: Label `fig:dcdc_converter' multiply defined.
+
 )
 \openout1 = `00thesis.aux'.
 
@@ -522,134 +525,27 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '00thesis.bbl' found.
 
-(./00thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+(./00thesis.bbl
+! Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   1
+l.251       }
+             
+? 
+! Emergency stop.
+<to be read again> 
+                   1
+l.251       }
+             
+End of file on the terminal!
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(./0titel.tex [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./01abstract.tex [1]) (./00thesis.toc)
-\tf@toc=\write4
-\openout4 = `00thesis.toc'.
-
- (./1Einleitung/1einleitung.tex
-(./1Einleitung/11einleitungBig.tex [1
-
-]
-Chapter 1.
-)) (./2Grundlagen/1Grundlagen.tex [2
-
-]
-Chapter 2.
-(./2Grundlagen/11DCDC.tex [3
-
-]
-<2Grundlagen/111DCDC.png, id=21, 585.18625pt x 552.0625pt>
-File: 2Grundlagen/111DCDC.png Graphic file (type png)
-<use 2Grundlagen/111DCDC.png>
-Package pdftex.def Info: 2Grundlagen/111DCDC.png  used on input line 29.
-(pdftex.def)             Requested size: 181.18439pt x 170.927pt.
-) (./2Grundlagen/12Degradation.tex
-Overfull \hbox (1.70992pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/12 Degradation von Kon-den-satoren und MOS-FETs in DC-DC-Konver
-tern 
- []
-
-
-Overfull \hbox (22.22832pt too wide) in paragraph at lines 7--8
- \OT1/cmr/bx/n/10 Kon-den-satoren[] \OT1/cmr/m/n/10 Kon-den-satoren sind anf^^?
-allig f^^?ur ver-schiedene Arten von Aus-fallmodi, darunter []Anderungen
- []
-
-) (./2Grundlagen/13PID.tex [4 <./2Grundlagen/111DCDC.png>]
-Overfull \hbox (8.47128pt too wide) in paragraph at lines 36--37
- \OT1/cmr/bx/n/10 An-wen-dun-gen bei Gleichstrom-Gleichstrom-Wandlern[] \OT1/cm
-r/m/n/10 Im Kon-text von Gleichstrom-Gleichstrom-
- []
-
-
-Overfull \hbox (18.91919pt too wide) in paragraph at lines 39--40
- \OT1/cmr/bx/n/10 Fazit[] \OT1/cmr/m/n/10 Der PID-Regler ist eine viel-seit-ige
- und weit ver-bre-it-ete Regelungsstrate-gie. Seine An-pas-sungsf^^?ahigkeit
- []
-
-<2Grundlagen/13PID.png, id=26, 898.35625pt x 560.0925pt>
-File: 2Grundlagen/13PID.png Graphic file (type png)
-<use 2Grundlagen/13PID.png>
-Package pdftex.def Info: 2Grundlagen/13PID.png  used on input line 44.
-(pdftex.def)             Requested size: 317.07614pt x 197.68474pt.
-) (./2Grundlagen/21NeuronaleNetze.tex)) [5] [6 <./2Grundlagen/13PID.png>]
-Appendix A.
-[7
-
-] [8
-
-] [9] (./00thesis.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package logreq Info: Writing requests to '00thesis.run.xml'.
-\openout1 = `00thesis.run.xml'.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 10241 strings out of 481239
- 182864 string characters out of 5920378
- 819178 words of memory out of 5000000
- 25403 multiletter control sequences out of 15000+600000
- 536644 words of font info for 39 fonts, out of 8000000 for 9000
+ 9948 strings out of 481239
+ 176771 string characters out of 5920378
+ 813046 words of memory out of 5000000
+ 25157 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,50p,1194b,1447s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmtt10.pfb>
-Output written on 00thesis.pdf (11 pages, 207115 bytes).
-PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 35i,1n,34p,1094b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

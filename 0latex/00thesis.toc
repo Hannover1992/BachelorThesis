@@ -56,8 +56,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Fazit}{5}%
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Pulsweitenmodulation und ihre Darstellung}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Tastverhältnis \(D\)}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Proportionalanteil (P)}{6}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Informationstechnologie}{6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Neur...}{6}%
+\contentsline {subsection}{\numberline {2.2.1}Einführung in Neuronale Netzwerke}{6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Anhang}{7}%
+\contentsline {subsubsection}{Vorteile von Neuronalen Netzwerken}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Unterschied zwischen Biologischen und Künstlichen Neuronalen Netzwerken}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Deep Learning als Spezialisierung}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Zusammenfassung und Ausblick}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Vorwärtspropagation in Neuronalen Netzwerken}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Schicht-für-Schicht-Propagation}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dimensionalität und Netzwerkarchitektur}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Gewichtsmatrix \( W^{[l]} \) und Bias-Vektor \( b^{[l]} \)}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aktivierungsfunktionen}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Schicht-für-Schicht-Propagation}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dimensionalität und Netzwerkarchitektur}{8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Anhang}{9}%

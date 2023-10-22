@@ -1,0 +1,32 @@
+Ich werde dich jetzt mit eine text versorgen, doch ich mochte den text mit queleln belegne, 
+ich were dich auch mit eine liste von Queleh versorgen> 
+Baute diese Quellen in den Text hinein > 
+Text:
+
+\subsection{Einführung in Neuronale Netzwerke}
+Neuronale Netzwerke bilden das rechnerische Grundgerüst für eine Vielzahl von Aufgaben in den Bereichen maschinelles Lernen und künstliche Intelligenz. Sie sind von dem komplexen Netzwerk an Neuronen im menschlichen Gehirn inspiriert und versuchen, biologische Lernprozesse nachzuahmen. In diesem Zusammenhang bieten sie ein robustes und flexibles Rahmenwerk zur Lösung komplexer Herausforderungen.
+\subsubsection{Vorteile von Neuronalen Netzwerken}
+Neuronale Netzwerke bieten mehrere entscheidende Vorteile, die ihren Einsatz in unterschiedlichen Anwendungsbereichen attraktiv machen:
+\begin{itemize}
+...
+Quelllen:
+aggarwal_neural_networks_2018, Seite 21: Diese Quelle erläutert, dass künstliche neuronale Netzwerke Mechanismen des Lernens in biologischen Organismen simulieren. Sie geht auf die Rolle von Neuronen und Synapsen im menschlichen Nervensystem ein und erklärt, dass dies in künstlichen neuronalen Netzwerken nachgeahmt wird. Dies unterstützt die Aussage, dass neuronale Netzwerke von der Biologie inspiriert sind und biologische Lernprozesse nachahmen.
+LaTeX Zitation: \cite[p.~21]{aggarwal_neural_networks_2018}
+Goodfellow-et-al-2016, Seite 29: Diese Quelle beschreibt die Entwicklung von tiefem Lernen und neuronalen Netzwerken als von der Biologie inspiriert. Sie erklärt auch, dass neuronale Netzwerke manchmal zur Erforschung der Gehirnfunktion verwendet wurden, was die Aussage, dass sie ein robustes und flexibles R
+
+
+
+
+
+
+
+\subsection{Einführung in Neuronale Netzwerke}
+Neuronale Netzwerke bilden das rechnerische Grundgerüst für eine Vielzahl von Aufgaben in den Bereichen maschinelles Lernen und künstliche Intelligenz. Sie sind von dem komplexen Netzwerk an Neuronen im menschlichen Gehirn inspiriert und versuchen, biologische Lernprozesse nachzuahmen \cite[p.~21]{aggarwal_neural_networks_2018}. In diesem Zusammenhang bieten sie ein robustes und flexibles Rahmenwerk zur Lösung komplexer Herausforderungen \cite[p.~29]{Goodfellow-et-al-2016}.
+\subsubsection{Vorteile von Neuronalen Netzwerken}
+Neuronale Netzwerke bieten mehrere entscheidende Vorteile, die ihren Einsatz in unterschiedlichen Anwendungsbereichen attraktiv machen:
+\begin{itemize}
+    \item \textbf{Parallelität:} Sie sind für die parallele Verarbeitung konzipiert und ermöglichen daher schnelle Berechnungen sowie Echtzeitverarbeitung.
+    \item \textbf{Nichtlineare Funktionsapproximation:} Die Netzwerke sind besonders gut darin, nichtlineare Funktionen zu approximieren \cite[p.~214]{Goodfellow-et-al-2016}, was sie vielseitig einsetzbar macht.
+    \item \textbf{Modellgeneralisierung:} Neuronale Netzwerke können aus einer begrenzten Datenmenge generalisieren und somit präzise Vorhersagen für unbekannte Eingaben treffen.
+\end{itemize}
+Diese Vorteile bilden die Grundlage für ihre breite Anwendbarkeit, die im nächsten Abschnitt erläutert wird.

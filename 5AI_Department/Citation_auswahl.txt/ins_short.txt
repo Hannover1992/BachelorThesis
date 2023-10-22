@@ -1,29 +1,29 @@
-welchen ausschnit soll ich wahlen um die aussage es als quelle ze nahemn 
-aussage: 
-In modern electrical engineering, DC converters are essential to conduct energy efficiently and precisely from a source to a consumer.
-moglichen quellen:
+ich wede dich jezt mit ausschntie aus 
+mit aussage versogen, 
+Unter verden stehen vershciede ausschit aus vershicdenen bucghern  / papern 
+dien aufgaeb ist mir zu sagen welche der ausschitni konne verwedn werde um die aussage 
+als quellen zu dienen . 
+Aussage:
+\subsection{Einführung in Neuronale Netzwerke}
+Neuronale Netzwerke bilden das rechnerische Grundgerüst für eine Vielzahl von Aufgaben in den Bereichen maschinelles Lernen und künstliche Intelligenz. Sie sind von dem komplexen Netzwerk an Neuronen im menschlichen Gehirn inspiriert und versuchen, biologische Lernprozesse nachzuahmen. In diesem Zusammenhang bieten sie ein robustes und flexibles Rahmenwerk zur Lösung komplexer Herausforderungen.
+Material
 🦜🔗 Semantic Search with OpenAI and Streamlit
 Enter your search query
-In modern electrical engineering, DC converters are essential to conduct energy efficiently and precisely from a source to a consumer.
-Paper Name: wensdesign2022
-Page Number: 70
-Content
-2 Basic DC-DC Converter Theory Several methods exist to achieve DC-DC voltage conversion. Each of these meth- odshasitsspecificbenefitsanddisadvantages,dependingonanumberofoperating conditionsandspecifications.Examplesofsuchspecificationsarethevoltagecon- version ratio range, the maximal output power, power conversion efficiency, num-
-...
-cantimpactuponthechoiceoftheconversionmethod. InorderforthedesignertoobtainaclearviewoftheDC-DCvoltageconversion methodsandtheirindividualadvantagesanddisadvantages,withrespecttomono-
-Relevance:0.8591976165771484
-BibTeX Citation for wensdesign2022
-@book{wensdesign2022,
- address = {Leuven, Belgium},
- author = {Wens, Mike and Steyaert, Michiel},
- email = {Mike.Wens@esat.kuleuven.be; ...
+Introduction to Neural Networks Neural networks serve as the computational foundation for a wide range of tasks in the fields of machine learning and artificial intelligence. Inspired by the complex network of neurons in the human brain, they aim to emulate biological learning processes. In this context, they offer a robust and flexible framework for solving complex challenges.
+Paper Name: morales2020grokking
+Page Number: 22
 
 
 
-
-Andwort:
-Die Aussage, dass "DC-Konverter in der modernen Elektrotechnik unerlässlich sind, um Energie effizient und präzise von einer Quelle zu einem Verbraucher zu leiten," kann durch den Abschnitt unter der Überschrift "2 Basic DC-DC Converter Theory" auf Seite 70 des Buches "Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS" von Mike Wens und Michiel Steyaert belegt werden. In diesem Abschnitt wird auf die verschiedenen Methoden zur DC-DC-Spannungswandlung eingegangen und darauf, wie bestimmte Betriebsbedingungen und Spezifikationen die Wahl der Umwandlungsmethode beeinflussen können. Die in diesem Abschnitt beschriebenen Konzepte unterstützen die Bedeutung von DC-Konvertern in Bezug auf die effiziente und präzise Energieübertragung in modernen elektrischen Systemen.
-Für eine formelle Zitation könnten Sie den folgenden BibTeX-Eintrag verwenden:
-Die Aussage, dass "DC-Konverter in der modernen Elektrotechnik unerlässlich sind, um Energie effizient und präzise von einer Quelle zu einem Verbraucher zu leiten," kann durch den Abschnitt unter der Überschrift "2 Basic DC-DC Converter Theory" auf Seite 70 des Buches "Design and Implementation of Fully-Integrated Inductive DC-DC Converters in Standard CMOS" von Mike Wens und Michiel ...
-
-\cite[p.~10]{wensdesign2022}
+Um die Aussage im Abschnitt "Einführung in Neuronale Netzwerke" zu belegen, könnten mehrere der vorgestellten Quellen geeignet sein. Hier sind einige Optionen:
+1. **morales2020grokking** auf Seite 22: Diese Quelle unterstützt die Aussage, dass neuronale Netzwerke als rechnerisches Grundgerüst für Aufgaben im Bereich maschinelles Lernen und künstliche Intelligenz dienen. Sie betont jedoch auch die Herausforderungen und Limitationen, die mit neuronalen Netzwerken verbunden sind.
+   - LaTeX Zitation: `\cite[p.~22]{morales2020grokking}`
+2. **aggarwal_neural_networks_2018** auf Seite 6: Dieser Abschnitt erklärt die historische Entwicklung und die Vision neuronaler Netzwerke, um das menschliche Nervensystem zu simulieren, was die ursprüngliche Aussage gut ergänzt.
+   - LaTeX Zitation: `\cite[p.~6]{aggarwal_neural_networks_2018}`
+3. **Goodfellow-et-al-2016** auf Seite 29: Diese Quelle beschreibt auch die Entwicklung von tiefem Lernen und neuronalen Netzwerken und bestätigt, dass sie von der Biologie inspiriert sind.
+   - LaTeX Zitation: `\cite[p.~29]{Goodfellow-et-al-2016}`
+4. **Goodfellow-et-al-2016** auf Seite 185: Hier wird näher auf die Architektur neuronaler Netzwerke eingegangen und ihre Inspiration aus der Neurowissenschaft bestätigt.
+   - LaTeX Zitation: `\cite[p.~185]{Goodfellow-et-al-2016}`
+5. **make_your_own_nn_2016** auf Seite 52: Diese Quelle beschreibt die Resilienz und Inspiration von biologischen Gehirnen für künstliche neuronale Netzwerke.
+   - LaTeX Zitation: `\cite[p.~52]{make_your_own_nn_2016}`
+Jede dieser Quellen könnte Ihre Aussage in unterschiedlicher Weise unterstützen. Die Wahl hängt davon ab, welchen Aspekt der Aussage Sie hervorheben möchten.

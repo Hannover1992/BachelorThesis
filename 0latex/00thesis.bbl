@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{aggarwal_neural_networks_2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=86d11a07b1bfeac58dc68f7a419b3039}{%
+           family={Aggarwal},
+           familyi={A\bibinitperiod},
+           given={Charu\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Yorktown Heights, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing AG, part of Springer Nature}%
+      }
+      \strng{namehash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \strng{fullhash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \strng{bibnamehash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \strng{authorbibnamehash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \strng{authornamehash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \strng{authorfullhash}{86d11a07b1bfeac58dc68f7a419b3039}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-94462-3}
+      \field{note}{Library of Congress Control Number: 2018947636}
+      \field{title}{Neural Networks and Deep Learning}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/978-3-319-94463-0
+      \endverb
+    \endentry
     \entry{Almawlawe2023}{article}{}
       \name{author}{3}{}{%
         {{hash=5e2a61e8b65a081574794bb2778fdc8f}{%
@@ -130,6 +162,114 @@
       \field{series}{IEEE Press series on power engineering}
       \field{title}{Pulsewidth Modulated DC-to-DC Power Conversion: Circuits, Dynamics, and Control Designs}
       \field{year}{2013}
+    \endentry
+    \entry{Chollet2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14134a39113404b1f80969c9ccc1f71e}{%
+           family={Chollet},
+           familyi={C\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shelter Island, NY}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications Co.}%
+      }
+      \strng{namehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{fullhash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{bibnamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authorbibnamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authornamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authorfullhash}{14134a39113404b1f80969c9ccc1f71e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781617296864}
+      \field{note}{Covers topics from the fundamentals of machine learning and deep learning to advanced topics in computer vision and text processing.}
+      \field{title}{Deep Learning with Python, Second Edition}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.manning.com/
+      \endverb
+      \verb{url}
+      \verb https://www.manning.com/
+      \endverb
+    \endentry
+    \entry{Goodfellow-et-al-2016}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{bibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorbibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.deeplearningbook.org}}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{heaton_2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a9674fb8c804e645a250187e02210a91}{%
+           family={Heaton},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a709a3f79bf6dc731ace1fe3cc149e8c}{%
+           family={WordsRU.com},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {1734 Clarkson Rd. #107, Chesterfield, MO 63017-4976}%
+      }
+      \list{publisher}{1}{%
+        {Heaton Research Inc.}%
+      }
+      \strng{namehash}{a9674fb8c804e645a250187e02210a91}
+      \strng{fullhash}{a9674fb8c804e645a250187e02210a91}
+      \strng{bibnamehash}{a9674fb8c804e645a250187e02210a91}
+      \strng{authorbibnamehash}{a9674fb8c804e645a250187e02210a91}
+      \strng{authornamehash}{a9674fb8c804e645a250187e02210a91}
+      \strng{authorfullhash}{a9674fb8c804e645a250187e02210a91}
+      \strng{editorbibnamehash}{a709a3f79bf6dc731ace1fe3cc149e8c}
+      \strng{editornamehash}{a709a3f79bf6dc731ace1fe3cc149e8c}
+      \strng{editorfullhash}{a709a3f79bf6dc731ace1fe3cc149e8c}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1475190878}
+      \field{month}{5}
+      \field{note}{Cover Art: Carrie Spear}
+      \field{title}{Introduction to the Math of Neural Networks}
+      \field{year}{2012}
     \endentry
     \entry{Hussein2011PIDGA}{article}{}
       \name{author}{2}{}{%
@@ -334,6 +474,41 @@
       \endverb
       \verb{url}
       \verb https://www.manning.com
+      \endverb
+    \endentry
+    \entry{peddapelli2017pulse}{book}{}
+      \name{author}{1}{}{%
+        {{hash=60d1f2a153fdc03b558cb3db9b59dd5f}{%
+           family={Peddapelli},
+           familyi={P\bibinitperiod},
+           given={Satish\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hyderabad, Telangana State, India}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter GmbH}%
+      }
+      \strng{namehash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \strng{fullhash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \strng{bibnamehash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \strng{authorbibnamehash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \strng{authornamehash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \strng{authorfullhash}{60d1f2a153fdc03b558cb3db9b59dd5f}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-11-046817-5}
+      \field{note}{Library of Congress Cataloging-in-Publication Data Applied for}
+      \field{title}{Pulse Width Modulation Analysis and Performance in Multilevel Inverters}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://www.degruyter.com
+      \endverb
+      \verb{url}
+      \verb http://www.degruyter.com
       \endverb
     \endentry
     \entry{russell2021ai}{book}{}

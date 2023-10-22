@@ -1,0 +1,52 @@
+\subsection{Vorwärtspropagation in Neuronalen Netzwerken}
+\subsubsection{Schicht-für-Schicht-Propagation}
+Beginnend mit der Eingabeschicht \( A^{[0]} \), die im Wesentlichen die Eingabedaten \( X \) sind, berechnet jede nachfolgende Schicht \( Z^{[l]} \) und \( A^{[l]} \) entsprechend den oben genannten Gleichungen. Dies bildet das Kernstück der Vorwärtspropagation.
+
+\subsubsection{Dimensionalität und Netzwerkarchitektur}
+Die Anzahl der Neuronen in jeder Schicht und die Art der verwendeten Aktivierungsfunktion können die Leistung des Netzwerks erheblich beeinflussen. Es ist wichtig, die Dimensionalität jeder Schicht während der Entwurfsphase zu berücksichtigen, um ein effektives Lernen sicherzustellen.
+
+Die Vorwärtspropagation ist ein wesentlicher Prozess in neuronalen Netzwerken, der die Übertragung von Eingabedaten durch die Netzwerkarchitektur ermöglicht, um die Ausgabe zu erzeugen \cite[p.~1421]{russell2021ai}. Sie ist eine Abfolge von mathematischen Operationen, die Gewichtungen, Biases und Aktivierungsfunktionen involvieren \cite[p.~73]{Chollet2021}.
+
+\subsubsection{Gewichtsmatrix \( W^{[l]} \) und Bias-Vektor \( b^{[l]} \)}
+Die Gewichtsmatrix für die Schicht \( l \) wird als \( W^{[l]} \) bezeichnet, und \( b^{[l]} \) ist der Bias-Vektor für dieselbe Schicht \cite[p.~46]{heaton_2012}. Diese Parameter werden während des Backpropagation-Prozesses trainiert, um den Fehler zwischen der vorhergesagten und der tatsächlichen Ausgabe zu minimieren \cite[p.~41]{aggarwal_neural_networks_2018}.
+
+\begin{equation}
+Z^{[l]} = W^{[l]} A^{[l-1]} + b^{[l]}
+\end{equation}
+
+\subsubsection{Aktivierungsfunktionen}
+Eine Aktivierungsfunktion, normalerweise durch \( \sigma \) bezeichnet, transformiert die gewichtete Summe \( Z^{[l]} \) in die aktivierte Ausgabe \( A^{[l]} \) \cite[p.~1421]{russell2021ai}.
+
+\begin{equation}
+A^{[l]} = \sigma(Z^{[l]})
+\end{equation}
+
+\begin{equation}
+A^{[l]} = \sigma \left( 
+\begin{pmatrix}
+w_{1,1}^{[l-1,l]} & w_{1,2}^{[l-1,l]} & \cdots & w_{1,m}^{[l-1,l]} \\
+w_{2,1}^{[l-1,l]} & w_{2,2}^{[l-1,l]} & \cdots & w_{2,m}^{[l-1,l]} \\
+\vdots & \vdots & \ddots & \vdots \\
+w_{n,1}^{[l-1,l]} & w_{n,2}^{[l-1,l]} & \cdots & w_{n,m}^{[l-1,l]}
+\end{pmatrix}
+\begin{pmatrix}
+A_1^{[l-1]} \\
+A_2^{[l-1]} \\
+\vdots \\
+A_m^{[l-1]}
+\end{pmatrix}
++
+\begin{pmatrix}
+b_1^{[l]} \\
+b_2^{[l]} \\
+\vdots \\
+b_n^{[l]}
+\end{pmatrix}
+\right)
+\end{equation}
+
+\subsubsection{Schicht-für-Schicht-Propagation}
+Beginnend mit der Eingabeschicht \( A^{[0]} \), die im Wesentlichen die Eingabedaten \( X \) sind, berechnet jede nachfolgende Schicht \( Z^{[l]} \) und \( A^{[l]} \) entsprechend den oben genannten Gleichungen \cite[p.~1421]{russell2021ai}.
+
+\subsubsection{Dimensionalität und Netzwerkarchitektur}
+Die Anzahl der Neuronen in jeder Schicht und die Art der verwendeten Aktivierungsfunktion können die Leistung des Netzwerks erheblich beeinflussen \cite[p.~1408]{russell2021ai}. Es ist wichtig, die Dimensionalität jeder Schicht während der Entwurfsphase zu berücksichtigen, um ein effektives Lernen sicherzustellen \cite[p.~73]{Chollet2021}.
