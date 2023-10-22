@@ -1,0 +1,93 @@
+
+\subsection{Gradientenberechnung}
+
+Sie haben eine Kostenfunktion \( C_0 \) definiert als:
+\begin{equation}
+C_0 = \sum_{j=0}^{n_{L-1}} (a_j^{[L]} - y_j)^2
+\end{equation}
+
+Um die Kostenfunktion zu minimieren, müssen Sie den Gradienten in Bezug auf alle Gewichtungen und Bias berechnen. Mit Hilfe der Kettenregel können Sie die partielle Ableitung der Kostenfunktion in Bezug auf jedes Gewicht wie folgt ausdrücken:
+
+\begin{equation}
+\frac{\partial C_0}{\partial w_{jk}^{[L]}} = \frac{\partial w_{jk}^{[L]}}{\partial z_j^{[L]}} \frac{\partial z_j^{[L]}}{\partial a_j^{[L]}} \frac{\partial a_j^{[L]}}{\partial C_0}
+\end{equation}
+
+Wenn Sie den Nabla-Operator verwenden, um den Gradienten der Kostenfunktion in Bezug auf alle Gewichtungen in der Matrixform darzustellen, erhalten Sie:
+
+\begin{equation}
+\nabla_{W^{[L]}} C_0 = \begin{pmatrix}
+\frac{\partial C_0}{\partial w_{11}^{[L]}} & \frac{\partial C_0}{\partial w_{12}^{[L]}} & \cdots & \frac{\partial C_0}{\partial w_{1m}^{[L]}} \\
+\frac{\partial C_0}{\partial w_{21}^{[L]}} & \frac{\partial C_0}{\partial w_{22}^{[L]}} & \cdots & \frac{\partial C_0}{\partial w_{2m}^{[L]}} \\
+\vdots & \vdots & \ddots & \vdots \\
+\frac{\partial C_0}{\partial w_{n1}^{[L]}} & \frac{\partial C_0}{\partial w_{n2}^{[L]}} & \cdots & \frac{\partial C_0}{\partial w_{nm}^{[L]}}
+\end{pmatrix}
+\end{equation}
+
+Dabei ist \( \nabla_{W^{[L]}} C_0 \) die Matrix der partiellen Ableitungen der Kostenfunktion \( C_0 \) in Bezug auf jede Gewichtung in \( W^{[L]} \).
+
+
+
+\subsection{Rückpropagation in Neuronalen Netzwerken}
+
+Für die Rückpropagation definieren wir den Fehler in der Ausgabeschicht durch:
+\[
+\frac{\partial C_0}{\partial a_j^{[L]}} = 2 \left( a_j^{[L]} - y_j \right)
+\]
+wobei \( a_j^{[L]} \) die Aktivierung der \( j \)-ten Einheit in der Ausgabeschicht und \( y_j \) der tatsächliche Wert für diese Einheit ist.
+
+\paragraph{Fehler Rückpropagieren}
+
+Der nächste Schritt besteht darin, den Fehler durch das Netzwerk zurückzupropagieren. Um den Beitrag jeder Gewichtung und jedes Bias zur Gesamtkostenfunktion zu ermitteln, berechnen wir die Ableitung der Aktivierungsfunktion \( a_j^{[L]} \) in Bezug auf die lineare Kombination \( z_j^{[L]} \):
+\[
+\frac{\partial z_j^{[L]}}{\partial a_j^{[L]}} = \sigma' \left( z_j^{[L]} \right)
+\]
+wobei \( \sigma' \left( z_j^{[L]} \right) \) die Ableitung der Aktivierungsfunktion ist.
+
+Um die Ableitung der linearen Kombination \( z_j^{[L]} \) in Bezug auf die Gewichtung \( w_{jk}^{[L]} \) zu berechnen, verwenden wir:
+\[
+\frac{\partial z_j^{[L]}}{\partial w_{jk}^{[L]}} = a_k^{[L-1]}
+\]
+
+\paragraph{Kettenregel Anwenden}
+
+Jetzt kombinieren wir alle diese Teile mit der Kettenregel:
+\[
+\frac{\partial C_0}{\partial w_{jk}^{[L]}} = 2 \left( a_j^{[L]} - y_j \right) \cdot \sigma' \left( z_j^{[L]} \right) \cdot a_k^{[L-1]}
+\]
+
+\paragraph{Gradienten der Kostenfunktion}
+
+Schließlich, um den Gradienten der Kostenfunktion \( C_0 \) in Bezug auf alle Gewichtungen darzustellen, verwenden wir:
+\[
+\nabla W^{[L]} C_0 = \left( 2 \left( a^{[L]} - y \right) \odot \sigma' \left( Z^{[L]} \right) \right) A^{[L-1]T}
+\]
+
+Mit diesen Gradienten können Sie die Gewichtungen und Biasse im neuronalen Netzwerk aktualisieren, indem Sie einen Optimierungsansatz wie den Gradientenabstieg verwenden.
+
+\subsection{Backpropagation im Training neuronaler Netze}
+
+\subsubsection{Mathematische Grundlagen}
+
+Die Gradientenmatrix für die Gewichtungen in Bezug auf die Kostenfunktion \( C_0 \) unter Verwendung des Nabla-Operators kann in der Matrixform dargestellt werden:
+
+Dabei setzt sich jede Komponente der Matrix wie folgt zusammen:
+
+\[
+\frac{\partial C_0}{\partial w_{ij}^{[L]}} = 2(a_i^{[L]} - y_i) \cdot \sigma' (z_i^{[L]}) \cdot a_j^{[L-1]}
+\]
+
+So erhalten wir die gesamte Matrix der partiellen Ableitungen:
+
+\[
+\nabla_{W^{[L]}} C_0 = 
+\begin{pmatrix}
+2(a_1^{[L]} - y_1) \cdot \sigma' (z_1^{[L]}) \cdot a_1^{[L-1]} & \cdots & 2(a_1^{[L]} - y_1) \cdot \sigma' (z_1^{[L]}) \cdot a_m^{[L-1]} \\
+2(a_2^{[L]} - y_2) \cdot \sigma' (z_2^{[L]}) \cdot a_1^{[L-1]} & \cdots & 2(a_2^{[L]} - y_2) \cdot \sigma' (z_2^{[L]}) \cdot a_m^{[L-1]} \\
+\vdots & \ddots & \vdots \\
+2(a_n^{[L]} - y_n) \cdot \sigma' (z_n^{[L]}) \cdot a_1^{[L-1]} & \cdots & 2(a_n^{[L]} - y_n) \cdot \sigma' (z_n^{[L]}) \cdot a_m^{[L-1]}
+\end{pmatrix}
+\]
+
+Die Größe dieser Matrix ist \( n \times m \), wobei \( n \) die Anzahl der Neuronen in Schicht \( L \) und \( m \) die Anzahl der Neuronen in Schicht \( L-1 \) ist.
+
+Jeder Eintrag in dieser Matrix gibt die Änderungsrate der Kostenfunktion \( C_0 \) in Bezug auf das entsprechende Gewicht an. Mit dieser Matrix können Sie die Gewichtungen in Schicht \( L \) aktualisieren, um die Kostenfunktion zu minimieren.
