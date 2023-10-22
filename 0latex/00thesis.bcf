@@ -2182,3 +2182,82 @@
     <bcf:datasource type="file" datatype="bibtex">citations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">wensdesign2022</bcf:citekey>
+    <bcf:citekey order="2">jeong2023degradation</bcf:citekey>
+    <bcf:citekey order="3">kulkarni_model-based_2023</bcf:citekey>
+    <bcf:citekey order="4">brunton2019data</bcf:citekey>
+    <bcf:citekey order="5">Almawlawe2023</bcf:citekey>
+    <bcf:citekey order="6">wensdesign2022</bcf:citekey>
+    <bcf:citekey order="7">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="8">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="9">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="10">Kularatna2012</bcf:citekey>
+    <bcf:citekey order="11">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="12">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="13">jeong2023degradation</bcf:citekey>
+    <bcf:citekey order="14">wensdesign2022</bcf:citekey>
+    <bcf:citekey order="15">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="16">morales2020grokking</bcf:citekey>
+    <bcf:citekey order="17">Hussein2011PIDGA</bcf:citekey>
+    <bcf:citekey order="18">russell2021ai</bcf:citekey>
+    <bcf:citekey order="19">Almawlawe2023</bcf:citekey>
+    <bcf:citekey order="20">Shi2020AdaptiveController</bcf:citekey>
+    <bcf:citekey order="21">SwainBaid2014</bcf:citekey>
+    <bcf:citekey order="22">peddapelli2017pulse</bcf:citekey>
+    <bcf:citekey order="23">peddapelli2017pulse</bcf:citekey>
+    <bcf:citekey order="24">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="25">choi2013pulsewidth</bcf:citekey>
+    <bcf:citekey order="26">aggarwal_neural_networks_2018</bcf:citekey>
+    <bcf:citekey order="27">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="28">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="29">aggarwal_neural_networks_2018</bcf:citekey>
+    <bcf:citekey order="30">aggarwal_neural_networks_2018</bcf:citekey>
+    <bcf:citekey order="31">russell2021ai</bcf:citekey>
+    <bcf:citekey order="32">Chollet2021</bcf:citekey>
+    <bcf:citekey order="33">heaton_2012</bcf:citekey>
+    <bcf:citekey order="34">aggarwal_neural_networks_2018</bcf:citekey>
+    <bcf:citekey order="35">russell2021ai</bcf:citekey>
+    <bcf:citekey order="36">russell2021ai</bcf:citekey>
+    <bcf:citekey order="37">russell2021ai</bcf:citekey>
+    <bcf:citekey order="38">Chollet2021</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="nty">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

@@ -229,7 +229,6 @@
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{\url{http://www.deeplearningbook.org}}
       \field{title}{Deep Learning}
       \field{year}{2016}
     \endentry
@@ -245,9 +244,6 @@
         {{hash=a709a3f79bf6dc731ace1fe3cc149e8c}{%
            family={WordsRU.com},
            familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {1734 Clarkson Rd. #107, Chesterfield, MO 63017-4976}%
       }
       \list{publisher}{1}{%
         {Heaton Research Inc.}%
