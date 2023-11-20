@@ -1,0 +1,125 @@
+12:50 PM
+das wie funktioniert das? Ja? Nein, das? Nein, also, wir haben eine Schaltung. und die besteht aus einem DC-DC-Wandler und dass ein PID Regler. das hier ist eine geschlossene 
+
+jetzt ist der Teil mit den stats. genau 
+
+der Zustand Operation verschiedene kaputt stufen simuliere über die Zeit bis des Fallwerte abweichen. 
+
+Ich muss es. 
+
+Verliere sie, ich erstelle sie 
+
+Genau in jedem Schritt tatsächlich jeden Schritt. Hier ist ja die creat Simulation der bekommt induktivität Kapazität und auch diese drei Werte. 
+
+Lass uns das erstmal vernachlässigen, aber die Schaltung bekommt induktivität in Kapazität. 
+
+Jedes Mal unterschiedlich. Gewürfelt die Schaltung ist ein komplett anderen Zustand, weil es andere anders kaputt. 
+
+Doch beide Seite Wald. Das ist der Schritt Nummer eins Und die Schritt Nummer zwei. 
+
+Der ektor das schaut sich in die diese Schaltung ein und es sieht wie kaputt ist die Schaltung jetzt. 
+
+Misst diese Werte? 
+
+In perfekten Zustand gibt es einen konkreten Wert, der von Hersteller vorgesehen ist, in dem diese Schaltung sich befinden soll. Zum Beispiel drei wie hoch minus drei Henry und 6. Oder 20. E hoch minus drei Fahrrad und so hat der Hersteller sich das ausgedacht. Aber in der echten Welt über die Jahre oder einfach durch mechanische Beschädigung oder irgendwas hat sich dieser Wert über z geändert. Und das sage ich auch eine degradation. Das heisst ich Schaltung funktioniert nicht mehr so wie von den Hersteller gesehen. 
+
+Und die Aufgabe des Vektor ist es. Anhand von diesen Werten die ist-wert der aktuellen werten. 
+
+Die PID richtig anzusteuern Bei dieser PID? 
+
+Die das ist diese gegenkopplung, die die versuchen immer die Spannung an dieser Stelle dynamisch auf einen richtigen Wert zu halten, aber um daran zu kommen. 
+
+Ich weiss nicht wie die Schaltung ist, die die ist nur für diesen Teil interessiert, aber die Regler hat sehr unterschiedliches Verhalten je nachdem wie diese Werte hier gesetzt werden. 
+
+Das ist der Ausgang. Also wenn das wenn? 
+
+Ausgang von den aktuell SPD Werte Eingang von den arktosen die Kapazität. 
+
+Eine Funktion F von CL und das und dann gibt es hier drei Ausbilder. 
+
+Ich würfle einen Zustand. Die Werte ändern sich. Ist es zum Beispiel 50% kaputt? Egal in welche Werte. 
+
+Einmal da einmal hier einmal zum critic und einmal zum zum Action und das? 
+
+Ich glaube ich warte. Ich mache ein nach den anderen, ich mag sie nicht gleichzeitig Ich glaube erst mal actor und dann Kritik. Erstmal actor! Und dann in diesem Moment die Werte will ich ja gesetzt. Und was passiert dann wenn die Werte hier gesetzt werden dann passiert diese Simulation weil irgendwie muss ich. 
+
+Er versucht einfach nur an diesen einen Punkt konstante, also die Spannung an Spannung konstanten Referenz Welt zu halten, diese zwischen auf 5 Volt Regler will nur, dass es hier immer führen wollte ist und dann je nachdem wie aber ich. Aber das ist eine Schaltung, die ist mit echten Welt verbunden. Das ist ja hier mit diesen. Mit diesen Widerstand weil das der ausgangsbeschaltung wenn es nicht angeschlossen ist werde dann ist es diese 4 Volt aber du schaltest irgendwas ein zum Beispiel ein Motor oder ein Laptop oder irgendwas. Und dann und dann der manchmal braucht er mehr Strom. Manchmal braucht er weniger Strom. Es ist dynamisch zu unterschiedlichen Zeiten, wenn unterschiedliche Menge an Energie von diesem System ab oder abgezogen oder plötzlich gestoppt. Und hier kommt die Energie raus. Genau und an diese pd-regler der der Gibt einen Wert an pulsweitenmodulator und der wiederum gibt einen Wert an diesen. 
+
+Schalter? 
+
+Sehr stark abweichen, dann ist epd-regler wird zum Beispiel sagen okay, dann lass uns diesen Wert erhöhen und dann schaltet es. Also es ist öfter geschlossen und immer Energie wenn sie aber das kommt drauf an das hängt alles von diesem pedi-werten weil diese pd-proportional integral differenziell Der proportionale Koch nur den aktuellen Abstand, den integralen über den Zeit. Unter differenzellen halt wie genau wie sich diese Unterschied von den Zeitpunkt davor unterscheidet und entsprechend regelt es aus oder? Und da sind wir okay. Das erste Schritt überlegen, sagt Zustand. Aktueller Zustand Dekoration actuge beim Wert aus, der wird gesetzt und an dieser dieser Steuerung kann stattfinden und dann wird dieses Test durchgeführt, dass diese ganze. Und in mein Code habe ich das als? Das ist mein. Und untermender war. Das ist dieses Teil hier. Ich habe hier so einen kleinen rot. Links gebaut und er macht ja nichts anderes als nur er guckt. Er misst den Wert an diesen Punkt und hört nur zwei Wörter im referenzustand und den eigentlichen zu starten. 
+
+Eigentlich nur das und daraus kann er quasi mein Wert bestimmen wie weit es abweicht. Und hier sind super Sachen egal aber im Endeffekt quadratische Abstand ja 
+
+Genau! 
+
+Weil hier. In den? In der eigentliche Simulation. Hier an dieser Stelle. Gesetzt? 
+
+Alles ist also ab diesem Moment, ob diese Stelle hier alles ist gesetzt. Die Zustand ist gesetzt und die Werte sind hier gesetzt. Das heisst du kannst diese Simulation durchführen. Das heisst du führst diese Information aus du. Du änderst weil das ist ein spannungsgesteuerter Widerstand und wenn du diesen Wert diesen Widerstand änderst, dann braucht er manchmal weniger. Manchmal mehr Strom und auf die Art und Weise simulierst du so ein Echtzeit Verhalten von innen. Gerät? Wie er dann? 
+
+Genau! Ich schaue mal am besten an dieser. Bild hier. 
+
+Über die Zeit also wir haben hier ein paar Punkte, das ist die versorgungsspannung 
+
+Blau das ist ja das was hier was richtig gemessen wird an diesen Stelle. 
+
+Rot ist das referenzspannung, so möchten wir, dass es ist. Und dieses gute? Ich habe das hier mit e-out aber im Endeffekt was ich hier habe ist der Ich habe das falsch benannt. Das ist eigentlich der 
+
+Das ist nicht und das ist er. Das ist ja die der Widerstand. Das ist ja der Widerstand beim Widerstand ist klein. Der Widerstand ist klein. Siehst du und dann plötzlich. Ich erhöhe den Widerstand. Ich mache es dicht. Ich mache es zu. 
+
+Ich das zu machen dann springt man sich die Spannung an der Stelle, weil der hat sehr viele Energie ausgegeben auch wenn sich diese Ruhe sehr klein geworden und dann wird die Spannung an dieser Stelle für sie sehr hoch. Und dann siehst du das schiesst nach oben. Und was macht diese pid-regler? Er regelt dagegen. 
+
+Stopp Stopp ist falsch geschrieben. Ist der ich habe mich ich habe mich verschrieben. Das ist eigentlich der widerstandswert das heisst wenn der widerstandswert wächst. Dann die Spannung wächst auch an dieser Stelle. 
+
+Weil es fliesst weniger noch mal die Analogie von von Wasser wenn der wenn der es fliesst immer die gleiche. Wasser durch eine Rohr und dann an einer Stelle macht sich wirklich kleiner. Dann dann dann wird der Druck auf der rohrbet an der Stelle steigen, weil der will immer noch die gleiche Menge an Wasser durchfliessen aber um das zu bewerkstelligen braucht er noch mehr Druck und deswegen steigt die Druck momentan. Und dieser Regler merkt der Druck steigt enorm. Und er regelt dagegen. Dagegen er macht dann wahrscheinlich dieses. Er macht diesen Wert. 
+
+Ich sehe hier keine fünf Referenz, auch noch den referenzspannung. Und er misst auch den Wert an den Ausgang. Deswegen sind es fünf Werte. Er nimmt nur drei. 
+
+Drei aber das ist der Eingang von PID. Also F von du musst überlegen. Diese Funktion ist das immer alles Funktion. PID! 
+
+Diese PE und D sind die konstanten K1 KI kadel 
+
+Und dann das was er Eingang. 
+
+Also der braucht noch diesen referenzspannung, deswegen dazwischen in der 4-werte aber von Python also von unseren. Von uns sind die dpg bei dem nur drei Werte. Dass man das das was nun der Rest ist hat programmiert. Also dieses referentspannung ist hart programmiert. 
+
+Ich mache eine sehr ausführliche Simulation. 
+
+Manchmal bitte die Taschenlampe wieder hoch, manchmal sehr klein. Manchmal erhöre ich den so schrittartig dann wieder nach unten. Das ist noch mal die Simulation. 
+
+Und was mache ich? Wie kann ich jetzt diesen Word berechnen? Ja, ich integriere bei den Abstand. Ich integriere über den Abstand zwischen den roten und zwischen den blauen Kurve 
+
+Und wenn du siehst umso länger die Simulation andauert, umso grösser wird der wert. 
+
+Und dann teile ich das. Ich glaube durch die Anzahl von. Zeit und dann bekomme ich in deinen es ist nicht perfekt geworden weil eigentlich muss das nur zwischen 0 und 1 sein. Ich habe da irgendwo einen Fehler aber es ist relativ genau zwischen 50 oder 100. 
+
+Ich bekomme einen konkreten wert und diese Wert sagt mir halt wie gut diese Schaltung funktioniert, weil wenn dieser Wert sehr klein wird. 
+
+Wenn dieser Wert sehr klein wird, das bedeutet, dass diese blaue Kurve sehr nah an die rote Kurve klebt. 
+
+Und wenn der Wert sehr gross wird, das bleibt, dass die sehr weit ist. Das heisst der schaltet nicht richtig. 
+
+Macht das? 
+
+1:27 PM
+Später von Text zum Dings deswegen am Endeffekt an dieser Stelle werden. Wenn er richtig trainiert ist, dann kannst du einfach weil genau was ist überhaupt eine Ableitung. Was ist eine Ableitung, wenn wenn du diesen Wert in Bezug auf diesen diesen Knoten ableitest. 
+
+Dann wirst du einfach die Steigung an dieser Stelle bestimmen, dann wirst du einfach wissen. Beide waren im Endeffekt sagt dir also diese Ableitung sagt ja, nur wie stark ändert sich dieser Wert, wenn du diesen Wert änderst, der y nach der x Veränderung von y im Verhältnis zum Veränderung von 4x Und du willst, dass dieser y kleiner wird? Weil du willst, dass dieser Du wirst den Award minimieren. Also du wirst ja dieses, dass dieser die schlechtes ist kleiner wird. Es ist egal wie maximinierung auf jeden Fall du kannst das bestimmen ne 
+
+Junge das? Ach das ist so genial das ist so fucking genial junge, das ist so geil ich hatte ich habe so lange gebraucht und das zu verstehen, weil diese Notation die so unglaublich hässlich. 
+
+Aber nicht die habe ich keine gute Erklärung ins Internet gefunden. Keiner es gibt keine nirgendwo. Wenn du findest, schick mir bitte. Ich habe keine gute Erklärung, die baller mir nur die Formel runter und die erkläre ich was die Formel bedeuten. Die erklären das nicht so, der klären das nicht so. Ich habe das noch nirgendwo gesehen, dass jemand das so erklärt hat. Ich habe das ich habe das selbstverstanden. Ich habe wirklich hier Wochen gesessen und dann dann ist mir kleiner das Klick gemacht. Dann hat es Klick gemacht heute. 
+
+Ja. 
+
+Nein Mühe ich weiss verwirrend mü ist ektor 
+
+Das ist die Aktion des ektor gegebenzustandes bei der im Endeffekt schon mal dieser ganze Funktion. Diese anti-schnur von S. Abhängig. 
+
+Nur von state, weil von state bekommst du Action und diese Action brauchst du hier um die 
+
+Den Q von SR zu kriegen. Das heisst diese a die wird ja indirekt aus S berechnet. 
+
+Genau genau deswegen du leitest du leitest dieser Teil bedeutet du leitest den Kritik gegeben? Zustand 1,8 An Nacht die Aktion und dann negativ weil du willst jetzt Aktien wahrscheinlich minimieren ist egal ist nur Schreibweise minus plus ich habe es vergessen wieso? Und dann? Und dann im nächsten Schritt, du leitest die ganze Gewichte von den ektor und dann leitest du nach Gewichten von den ektoren. Das bedeutet, dass es ja die Ableitung nach den Gewichten von Werkzeug das heisst du leitest es zwar nach dieser Aktion gegeben. Zustand ne Aber du leitest eigentlich es nach dieser Gewichte. Das ist nur so eine sehr verwirrende Rotation aber anscheinend. 
+
+Deswegen Ableitung von Kritik gegebenen Zustand fsa aber es ist für mich nicht erwähnen kann ich muss die 

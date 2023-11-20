@@ -1,0 +1,15 @@
+
+1. **Kontext/Ziel des Textes:** 
+   - (Bitte geben Sie hier eine kurze Beschreibung des Themas oder des spezifischen Kontextes an, über den der Text sein soll. Zum Beispiel: "Der Text soll die Rolle des maschinellen Lernens bei der Verbesserung der Effizienz von DC-Konvertern diskutieren.")
+
+2. **Vorlagen:**
+   - Hier wird z.B. ein bisher geschribenes text eingegebn, der aber umgeschriebn werden soll. Oder hier wird z.B. der txt davon und der Text danach eingebgen, so dass der text dazwischen genreiren werden soll")
+
+3. **Auszüge/Zitate für die Einbeziehung:**
+   - (Listen Sie Ausschnitte oder Zitate auf, die Sie in den Text integriert haben möchten, sowie die entsprechenden Zitierinformationen. Beispiel:)
+
+   ```
+   a. "Maschinelles Lernen ermöglicht präzisere Steuerungsalgorithmen in DC-Konvertern..." 
+      - LaTeX Citation: \cite[p.~33]{autor2023efficiency}
+
+...

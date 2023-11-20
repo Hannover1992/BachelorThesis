@@ -1,0 +1,251 @@
+WEBVTT
+Kind: captions
+Language: en
+
+ 
+all right before moving on from dqn
+completely
+let's uh think about what dqn would look
+like
+with environments that require
+continuous
+action spaces and then see whether we
+can do something to actually alleviate
+the problems that arise in that context
+all right so this is how our deep q
+learning network looks like so far
+we have an input state s and its outputs
+are going to be the q values
+corresponding to different actions
+within our
+action space and because we've been
+dealing primarily with discrete actions
+so far we've not explicitly mentioned
+this but really we've been dealing with
+discrete actions so far because that's
+the only way
+you can enumerate all the actions uh in
+this manner
+right so from a equals one to a equals
+capital a where you have some finite
+size capital a of the the space of
+actions
+um and therefore we are able to have
+exactly that many output output units
+each of those output units produces the
+scalar corresponding to
+q of s comma a equals 1 a equals 2 and
+so on
+right so this is how we've parameterized
+deep q networks
+so far with these discrete action spaces
+and before looking at what happens in
+the continuous action setting let's look
+at
+how we actually use this deep queue
+network to select
+an action eventually in particular
+remember we said that to actually use
+the dq
+dpq network values to select actions
+to convert it into a policy and and
+select the optimal actions in the
+environment
+all that you'd have to do is take the r
+max over a of q of s comma a
+and in this setting it's very simple
+because all that you have to do is
+given that all the outputs are produced
+in one shot one pass through the network
+one forward pass through the network
+then you just take the maximum of all of
+those discrete
+this finite set of values and you will
+get your a star
+and that's also your policy piops
+now this policy
+is is used for selecting actions after
+having trained the queue network but
+remember that we're doing actually
+something quite similar even during
+training time
+um in particular at training time we set
+the q targets
+as the bellman targets and the bellman
+targets are the current reward plus the
+discount factor times
+the maximum over the q5 for the next
+state and action right and
+this looks an awful lot like what we
+were doing over here in particular you
+can explicitly write it
+as the q phi of s i prime
+and pi over s i prime pi being the r max
+right so convince yourself that this
+maximization
+can be taken inside as an arg max and
+when you do that
+that this is exactly the same as setting
+a i prime over here to pi of s prime
+okay so this is obviously an operation
+that we are repeating several times
+because we're using it at training time
+after all so we're repeating it very
+very often
+um and it better be the case that we're
+able to compute this
+very quickly and in the discrete case
+this is very much the case we're able to
+compute it quite quickly
+like we just went through all that you
+have to do is take the maximum of a
+discrete set of values
+so what happens if we try and port the
+same solution
+into the continuous action setting well
+in the continuous action setting there
+is no meaningful way to enumerate the
+you can't just list down a finite set of
+and so you can't really do this anymore
+and so
+you would have to instead come up with a
+q network that looks a little bit
+different
+in particular you could take the state s
+and the action a as input the continuous
+action a as input
+and you would output q of s comma i
+that seems like it solved this problem
+of not having not having the ability to
+enumerate q of s comma a
+but you still have a problem now when
+you start thinking about how you would
+set
+the policy action which is the r max
+over a of q of x comma a
+you all of a sudden see that there is no
+simple way
+in which you can take this r max and it
+looks a little bit more like an
+optimization problem
+so taking the arc max of this network
+for a fixed state and trying to find the
+rmax over
+the action input looks like looks like a
+kind of optimization problem the same
+type of optimization problem perhaps as
+what we were setting
+what we were solving when we were trying
+to find the optimal weights
+of a neural network to minimize the loss
+function let's say
+so you could apply the same kinds of
+methods we used there like you could use
+gradient descent for example but of
+course
+that's not something that converges very
+quickly
+you would have to solve this iterative
+gradient descent problem every time you
+wanted to take the r max of q of s comma
+a and that's not feasible
+because remember we want to solve this
+optimization problem really frequently
+like we saw in the previous slide we
+want to use it
+both when computing the eventual policy
+actions but also
+when setting the targets for our uh for
+our q network
+so this would be too expensive if we if
+we just treated us and treated it as an
+optimization problem that we solve from
+scratch each time
+so what else could what else could we do
+if we don't want to repeatedly solve
+this optimization problem
+is there some way to get around it well
+here is one potential solution
+let's train a neural network to produce
+the outputs of this optimization problem
+now remember the output of this rmax is
+a function of the input state
+s right and so you have a separate a
+star corresponding to each input s you
+have a separate optimal action
+corresponding to each input s
+so why not train a network
+that maps from the input state to this
+output action a star which is the
+which is the solution to this
+so what would that look like well it
+would look like a network that takes in
+s as input
+produces a star as output now
+remember that this mapping from the
+state to the optimal action is exactly
+what the optimal policy is supposed to
+be doing
+so let's just call this the policy
+network pi
+all right
+now we've only so far set up that the
+inputs are states
+s and the outputs are the optimal
+actions a star
+how are we going to train this we're
+going to train this to maximize
+the q function right
+and we are parameterizing the q function
+of course because we're
+we're we're operating with dq n we're
+parameterizing the queue function in a
+queue network
+and so now we have all the components
+necessary
+we're going to train the queue network
+just like we normally do to
+to to by using the standard
+uh squared bellman error loss right
+and the policy network is going to be
+trained in turn to minimize
+q of s comma a with respect to this this
+queue that we are currently learning
+and it's very common to call this kind
+of setup an
+actor critic setup where the policy is
+called the actor
+because obviously it produces the
+actions and
+the q network is called the critic
+because you can think of it as
+evaluating
+a state action tuple and saying how good
+it is
+which is exactly what q of s comma a is
+remember q of s comma a
+is the expected utility of producing
+action a
+from state s with the optimal policy
+we're not saying this explicitly anymore
+but these are q stars
+right so this is the actor this is the
+critic
+this is our very first example of an
+actor critic algorithm
+and this algorithm where you take dqn
+and modify it in this way to work well
+with continuous actions
+is called deep deterministic policy
+gradients or ddpg and we saw an example
+of how this works earlier
+with the robotics setups
+in robotics typically you will very
+often need to set some continuous
+actions like for example
+the torques in various motors of your
+robot arm for example
+and you'll remember we saw an example
+earlier of how that works
+and that was actually in fact employing
+ddpg

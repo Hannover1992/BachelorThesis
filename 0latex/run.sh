@@ -11,6 +11,6 @@ pdflatex 00thesis.tex
 
 # Aufräumen
 # Vorsicht: Dieser Befehl löscht alle Dateien mit nicht erwünschten Endungen!
-#find . -type f \
-#! \( -name "*.bib" -o -name "*.tex" -o -name "*.pdf" -o -name "*.sh" \) \
-#-exec rm {} +
+find . -type f \
+! \( -name "*.png" -o -name "*.bib" -o -name "*.tex" -o -name "*.pdf" -o -name "*.sh" \) \
+-exec rm {} +

@@ -1,0 +1,329 @@
+ 
+
+from this actor is the optimal action
+for the next observation let's market to
+
+for the next observation let's market to
+ 
+
+for the next observation let's market to
+so what we get now is the next cue as we
+
+so what we get now is the next cue as we
+ 
+
+so what we get now is the next cue as we
+can see here is that we already have the
+
+can see here is that we already have the
+ 
+
+can see here is that we already have the
+cue next the reward and the cue how are
+
+cue next the reward and the cue how are
+ 
+
+cue next the reward and the cue how are
+we going to try the credit is that we
+
+we going to try the credit is that we
+ 
+
+we going to try the credit is that we
+are going to make the both side of the
+
+are going to make the both side of the
+ 
+
+are going to make the both side of the
+equation getting closer which means to
+
+equation getting closer which means to
+ 
+
+equation getting closer which means to
+minimize the difference between Q and
+
+minimize the difference between Q and
+ 
+
+minimize the difference between Q and
+reward
+
+reward
+ 
+
+reward
+Plus discounted next Q a problem here is
+
+Plus discounted next Q a problem here is
+ 
+
+Plus discounted next Q a problem here is
+that if these two critics have comes
+
+that if these two critics have comes
+ 
+
+that if these two critics have comes
+from the same network since update of
+
+from the same network since update of
+ 
+
+from the same network since update of
+this network makes a q and q next change
+
+this network makes a q and q next change
+ 
+
+this network makes a q and q next change
+in the same time which makes the
+
+in the same time which makes the
+ 
+
+in the same time which makes the
+training process more unlikely to
+
+training process more unlikely to
+ 
+
+training process more unlikely to
+converge such that DDP G is also using a
+
+converge such that DDP G is also using a
+ 
+
+converge such that DDP G is also using a
+target network to solve this problem to
+
+target network to solve this problem to
+ 
+
+target network to solve this problem to
+implement target network the delivery
+
+implement target network the delivery
+ 
+
+implement target network the delivery
+has two sets of actor and critics when
+
+has two sets of actor and critics when
+ 
+
+has two sets of actor and critics when
+training the actor it freezes the critic
+
+training the actor it freezes the critic
+ 
+
+training the actor it freezes the critic
+and fit in the observation making the
+
+and fit in the observation making the
+ 
+
+and fit in the observation making the
+queue getting larger
+
+queue getting larger
+ 
+
+queue getting larger
+so the Hector is getting updated when
+
+so the Hector is getting updated when
+ 
+
+so the Hector is getting updated when
+training the credits it fails in the
+
+training the credits it fails in the
+ 
+
+training the credits it fails in the
+observation and action also fears the
+
+observation and action also fears the
+ 
+
+observation and action also fears the
+next observation to the target network
+
+next observation to the target network
+ 
+
+next observation to the target network
+getting the cue next and trying to make
+
+getting the cue next and trying to make
+ 
+
+getting the cue next and trying to make
+the q equals to the reward Plaza
+
+the q equals to the reward Plaza
+ 
+
+the q equals to the reward Plaza
+discounted q next and so the critic
+
+discounted q next and so the critic
+ 
+
+discounted q next and so the critic
+network is also getting updated
+
+ 
+ 
+
+ 
+and finally the trend module parameters
+
+and finally the trend module parameters
+ 
+
+and finally the trend module parameters
+will be slowly updated to the target
+
+will be slowly updated to the target
+ 
+
+will be slowly updated to the target
+network using a moving average Dale
+
+ 
+ 
+
+ 
+finally it's expiration it's obvious
+
+finally it's expiration it's obvious
+ 
+
+finally it's expiration it's obvious
+that the model is only capable of making
+
+that the model is only capable of making
+ 
+
+that the model is only capable of making
+totally random actions in the beginning
+
+totally random actions in the beginning
+ 
+
+totally random actions in the beginning
+so if you are using RL to play game
+
+so if you are using RL to play game
+ 
+
+so if you are using RL to play game
+general is a player well just kill
+
+general is a player well just kill
+ 
+
+general is a player well just kill
+yourself instantly when the game starts
+
+yourself instantly when the game starts
+ 
+
+yourself instantly when the game starts
+well the actor is being creamed the
+
+well the actor is being creamed the
+ 
+
+well the actor is being creamed the
+player is more likely to make reasonable
+
+player is more likely to make reasonable
+ 
+
+player is more likely to make reasonable
+actions which will unfold most divisions
+
+actions which will unfold most divisions
+ 
+
+actions which will unfold most divisions
+my over action noise can be added to the
+
+my over action noise can be added to the
+ 
+
+my over action noise can be added to the
+output of the actor and parameter noise
+
+output of the actor and parameter noise
+ 
+
+output of the actor and parameter noise
+can also be directly injected into the
+
+can also be directly injected into the
+ 
+
+can also be directly injected into the
+actor network just like the evolution
+
+actor network just like the evolution
+ 
+
+actor network just like the evolution
+strategy
+
+ 
+ 
+
+ 
+hello that's a house thanks for watching
+
+hello that's a house thanks for watching
+ 
+
+hello that's a house thanks for watching
+this is my first video with a lot of
+
+this is my first video with a lot of
+ 
+
+this is my first video with a lot of
+technical issues the background noise
+
+technical issues the background noise
+ 
+
+technical issues the background noise
+and wahla means keep changing plasma
+
+and wahla means keep changing plasma
+ 
+
+and wahla means keep changing plasma
+English is not that good
+
+English is not that good
+ 
+
+English is not that good
+so I have to record again again however
+
+so I have to record again again however
+ 
+
+so I have to record again again however
+it is hopefully can be useful and see
+
+it is hopefully can be useful and see
+ 
+
+it is hopefully can be useful and see
+you in next videos bye
+
